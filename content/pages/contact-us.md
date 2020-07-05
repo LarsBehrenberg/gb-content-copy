@@ -1,5 +1,5 @@
 ---
-backgroundImage: /assets/churchill-chamberlains-war-cabinet-1939.jpg
+backgroundImage: /assets/winston-churchill-1945-victory-address.jpg
 text: >-
   # Want To Get In Touch?
 
