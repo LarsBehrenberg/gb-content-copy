@@ -49,6 +49,17 @@ textSections:
 
       Aged 16 Coe won the English schools title over 3000 metres, before heading off to [Loughborough University](https://en.wikipedia.org/wiki/Loughborough_University) to study economics and social history. It was here he would meet coach George Gandy who helped Coe with his conditioning. In 1975 when aged 18 Coe won the Northern counties under 20’s 3000 metres title.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Sebastian Coe at the World Economic Forum annual meeting 1987 (©
+          World Economic Forum, CC BY-SA 2.0)
+        imageUrl: /assets/sebastian-coe-young.jpg
+      - imageTitle: "Commemorative star in the pavement outside Sheffield Town Hall: a
+          'walk of fame' for people associated with the city (© Chemical
+          Engineer, CC BY-SA 4.0)"
+        imageUrl: /assets/sebastian-coe-sheffield-legends-star-2007.jpg
+      - imageTitle: Aaron Booth NZL and Seb Coe in Tahiti at the Oceania Championships
+          2013 (© Thebooths, CC BY-SA 3.0)
+        imageUrl: /assets/sebastian-coe-with-aaron-booth.jpg
   - textTitle: Early Career
     text: >-
       ### Sebastian Coe’s performances were starting to be noticed and earned
@@ -71,6 +82,18 @@ textSections:
 
       Lining up in the final alongside Coe was the favourite [Steve Ovett](https://en.wikipedia.org/wiki/Steve_Ovett). However both men were to be disappointed as gold went to the German Olaf Beyer. Sebastian Coe took bronze, with Ovett just ahead of him taking the silver medal. Yet this was just a taste of what was to come.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Sebastian Coe at the Queen Elizabeth Olympic Park in July 2013 (©
+          los_bandito_anthony, CC BY 2.0)
+        imageUrl: /assets/sebastian-coe-elizabeth-olympic-park.jpg
+      - imageTitle: Coe and South African Olympian Oscar Pistorius at an International
+          Paralympic Day event at Trafalgar Square on 8 September 2011 (© Nick
+          Webb, CC BY 2.0)
+        imageUrl: /assets/sebastian-coe-with-oscar-pistorius-in-london.jpg
+      - imageTitle: Sebastian Coe attends a Press Conference after his presentation of
+          the 2017 bid for the IAAF World Championships in Monaco. (© Mohan, CC
+          BY 2.0)
+        imageUrl: /assets/sebastian-coe-monaco-2011.jpg
   - textTitle: A Golden Period
     text: >-
       ### In 1979 Sebastian Coe showcased his talent to the athletics world in
@@ -95,6 +118,17 @@ textSections:
 
       Coe won the European Championships over 800 metres in 1986, but missed out on selection for the 1988 Olympics after a poor run at the trial following a chest infection. Ill health plagued the latter part of this wonderful career and its last major race saw Coe finish 6th in the 800 metres at the [1990 Commonwealth games](https://en.wikipedia.org/wiki/1990_Commonwealth_Games). It was time to call it a day and after helping see Britain enjoy its finest decade of middle distance running Sebastian Coe retired from the track.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Sebastian Coe at the London Anniversary Games, July 2013 (© Brian
+          Minkoff- London Pixels, CC BY-SA 3.0)
+        imageUrl: /assets/sebastian-coe-2013.jpg
+      - imageTitle: Sebastian Coe during an interactive session during the Doha Diamond
+          League (© Mohan, Doha Stadium Plus Qatar, CC BY 2.0)
+        imageUrl: /assets/sebastian-coe-2015.jpg
+      - imageTitle: Sebastian Coe speaking at the 'Going for Green - Britain's 2012
+          Dream' event at the FCO in London, 10 November 2010 (© Foreign and
+          Commonwealth Office, OGL v1.0)
+        imageUrl: /assets/sebastian-coe-chairman-organising-committee-olympic-games-2012-1.jpg
   - textTitle: Post Athletics & Legacy
     text: >-
       ### Following athletics Sebastian Coe turned his attention to politics and
@@ -129,6 +163,18 @@ textSections:
 
       Away from the track Coe married Nicky McIrvine, a former champion at the Badminton three day event, in 1990 with who he has four children. They divorced in 2002 and Coe married his second wife Carole Annett in 2011.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: "Sebastian Coe at the 'Game Changer: Britain Prepares' film launch,
+          10 January 2012 (© Foreign and Commonwealth Office, OGL v1.0)"
+        imageUrl: /assets/sebastian-coe-chairman-organising-committee-olympic-games-2012-3.jpg
+      - imageTitle: Boris Johnson, Mayor of London, United Kingdom and David Cameron,
+          Prime Minister of the United Kingdom with Coe captured at the 2012
+          World Economic Forum (© World Economic Forum, CC BY-SA 2.0)
+        imageUrl: /assets/sebastian-coe-with-boris-johnson-david-cameron.jpg
+      - imageTitle: Coe at the Annual Meeting 2012 of the World Economic Forum at the
+          congress centre in Davos, Switzerland, January 26, 2012 (© Moritz
+          Hager, CC BY-SA 2.0)
+        imageUrl: /assets/sebastian-coe-world-economic-meeting-2012.jpg
 ---
 ## Sebastian Coe was a world class middle distance runner, one of the finest track athletes Britain has produced.
 
