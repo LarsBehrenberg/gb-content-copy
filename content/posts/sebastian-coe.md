@@ -50,7 +50,26 @@ textSections:
       Aged 16 Coe won the English schools title over 3000 metres, before heading off to [Loughborough University](https://en.wikipedia.org/wiki/Loughborough_University) to study economics and social history. It was here he would meet coach George Gandy who helped Coe with his conditioning. In 1975 when aged 18 Coe won the Northern counties under 20’s 3000 metres title.
     buttonToggle: true
   - textTitle: Early Career
-    text: Body text here
+    text: >-
+      ### Sebastian Coe’s performances were starting to be noticed and earned
+      him selection for the [European junior championships in Athens in
+      1975](https://en.wikipedia.org/wiki/1975_European_Athletics_Junior_Championships)
+      where he won a bronze in the 1500 metres, clocking a personal best time.
+
+
+      Two years later he was to come to the wider national attention for the first time when he won the 800 metres at the [European Indoors championships held in San Sebastian](https://en.wikipedia.org/wiki/1977_European_Athletics_Indoor_Championships), in a time which just fell short of the world indoor record.
+
+
+      He backed this up by winning the famous [Emsley mile race](https://en.wikipedia.org/wiki/Emsley_Carr_Mile) and then taking his first national outdoor record in the 800 metres in a race at Crystal Palace.
+
+
+      Coe tore ligaments in his leg in 1978 but recovered to take his place at the [European Championships in Prague](https://en.wikipedia.org/wiki/1978_European_Athletics_Championships).
+
+
+      The final of the 800 metres introduced athletics fans to a rivalry which would transfix them through the early 1980’s and lead to a golden era of British middle distance running.
+
+
+      Lining up in the final alongside Coe was the favourite [Steve Ovett](https://en.wikipedia.org/wiki/Steve_Ovett). However both men were to be disappointed as gold went to the German Olaf Beyer. Sebastian Coe took bronze, with Ovett just ahead of him taking the silver medal. Yet this was just a taste of what was to come.
     buttonToggle: true
   - textTitle: A Golden Period
     text: >-
@@ -75,6 +94,40 @@ textSections:
 
 
       Coe won the European Championships over 800 metres in 1986, but missed out on selection for the 1988 Olympics after a poor run at the trial following a chest infection. Ill health plagued the latter part of this wonderful career and its last major race saw Coe finish 6th in the 800 metres at the [1990 Commonwealth games](https://en.wikipedia.org/wiki/1990_Commonwealth_Games). It was time to call it a day and after helping see Britain enjoy its finest decade of middle distance running Sebastian Coe retired from the track.
+    buttonToggle: true
+  - textTitle: Post Athletics & Legacy
+    text: >-
+      ### Following athletics Sebastian Coe turned his attention to politics and
+      became the [Conservative Member of
+      Parliament](https://en.wikipedia.org/wiki/List_of_Conservative_Party_MPs_(UK))
+      for the constituency of Falmouth and Camborne in 1992.
+
+
+      He served one term, losing his seat in 1997 before being made a peer in the [House of Lords](https://en.wikipedia.org/wiki/House_of_Lords) in 2000. Coe’s focus would soon return to sport as he joined the team looking to bring the 2012 Olympics to London, eventually becoming Chairman of the bid company.
+
+
+      His continued passion for athletics and sport in general was clear to see as London successfully landed the right to stage the games. When 2012 arrived and the eyes of the sporting world fell on London, Sebastian Coe was instrumental in producing what is regarded as one of the best and most successful modern Olympics.
+
+
+      Coe was already vice-president of athletics governing body, the [IAAF](https://en.wikipedia.org/wiki/International_Association_of_Athletics_Federations), prior to the London Olympics, but in 2015 he became its President after winning a vote against [Sergey Bubka](https://en.wikipedia.org/wiki/Sergey_Bubka). As Coe has looked at ways to increase participation and crowd support in athletics he has also had to deal with some tough issues.
+
+
+      A report in 2015 by the [World Anti-Doping Agency](https://en.wikipedia.org/wiki/World_Anti-Doping_Agency) pointed to systemic doping within Russian athletics which led to a complete ban for the Russian team. The blight that is doping continues to throw a dark shadow over the sport as spectators continue to question the veracity of results. However Coe’s love for the Olympics continues and he is a member of the Tokyo 2020 Olympic games coordination commission.
+
+
+      #### Coe's legacy
+
+
+      Sebastian Coe was a graceful and elegant runner who at times seemed to make the sport seem effortless. His rivalry with [Steve Ovett](https://en.wikipedia.org/wiki/Steve_Ovett) moved athletics from the back page to the front page of newspapers and saw millions glued to their televisions to watch their races. In an extraordinary athletics career Coe broke 11 world records, 8 outdoors and three on the indoor track.
+
+
+      His 800 metre outdoor record of 1:41:73 set in Florence in 1981 went unbeaten until 1997. His progression from promising youngster to world dominance was off the back of training programs devised by his engineer father [Peter Coe](https://en.wikipedia.org/wiki/Peter_Coe) who had no prior coaching training. Coe eschewed the big weekly mileages of other middle distance runners to concentrate on speed.
+
+
+      British athletes such as [Steve Cram](https://en.wikipedia.org/wiki/Steve_Cram), [Peter Elliott](https://en.wikipedia.org/wiki/Peter_Elliott_(athlete)) and [Tom McKean](https://en.wikipedia.org/wiki/Tom_McKean) followed in the footsteps of Coe and Ovett in a golden age for British middle distance running which has not been seen since. Following his three world records in 1979 Coe won the [BBC Sports Personality of the Year](https://en.wikipedia.org/wiki/BBC_Sports_Personality_of_the_Year) and was also given the Special Lifetime Achievement award following the London Olympics in 2012. Having been previously awarded the [MBE](https://en.wikipedia.org/wiki/MBE_(disambiguation)) and [OBE](https://en.wikipedia.org/wiki/OBE_(disambiguation)) he was made a life peer as Baron Coe of Ranmore in 2000.
+
+
+      Away from the track Coe married Nicky McIrvine, a former champion at the Badminton three day event, in 1990 with who he has four children. They divorced in 2002 and Coe married his second wife Carole Annett in 2011.
     buttonToggle: true
 ---
 ## Sebastian Coe was a world class middle distance runner, one of the finest track athletes Britain has produced.
