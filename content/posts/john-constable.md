@@ -46,6 +46,16 @@ textSections:
 
       During this time, he continued to pursue his interest in art as a gentleman’s pastime, taking a sketching tour of [Norfolk](https://en.wikipedia.org/wiki/Norfolk) in 1794 and making his first etchings in 1797. Thankfully, after seven difficult years, his younger brother Abram began to show an interest in the family business and John was finally freed from his post. This marked the beginning of fulfilling his dream of becoming a painter.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Cottage at East Bergholt
+        imageUrl: /assets/john-constable-cottage-at-east-bergholt.jpg
+      - imageTitle: Salisbury Cathedral from the Bishop's Grounds c. 1825. As a gesture
+          of appreciation for John Fisher, the Bishop of Salisbury, who
+          commissioned this painting, Constable included the Bishop and his wife
+          in the canvas.
+        imageUrl: /assets/john-constable-salisbury-cathedral-from-the-bishops-garden.jpg
+      - imageTitle: A painting of Brighton beach by John Constable
+        imageUrl: /assets/john-constable-brighton-beach.jpg
   - textTitle: Early career
     text: >-
       ### Though their wealth was derived entirely from trade, Ann Constable
@@ -70,6 +80,14 @@ textSections:
 
       Maria’s health continued to worsen and the family began going to Brighton regularly. Here he would paint the coastal landscape, using a similar style to his pastoral scenes. In spite of their efforts, she died of tuberculosis in 1828, leaving Constable heartbroken and “the face of the World \[...] totally changed”, as he wrote to his brother Golding.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: The exact location where John Constable painted 'The Stour Valley
+          and Dedham Village' in 1814-15 remains unknown.
+        imageUrl: /assets/john-constable-stour-village-dedham-village.jpg
+      - imageTitle: Maria Bicknell, painted by Constable in 1816
+        imageUrl: /assets/john-constable-portrait-maria-bicknell.jpg
+      - imageTitle: A self portrait of John Constable
+        imageUrl: /assets/john-constable-self-portrait.jpg
   - textTitle: His finest works
     text: >-
       ### Constable first exhibited at the annual Royal Academy exhibition in
@@ -96,6 +114,15 @@ textSections:
 
       This was not the only time Constable painted rainbows into his compositions. As a Romantic painter, Constable used the rainbow as an icon for the beautiful but transient nature of life. This interpretation was in keeping with its popularity in [Romanticism](https://en.wikipedia.org/wiki/Romanticism) at the time and his later watercolours frequently depicted rainbow motifs, including [‘Stonehenge’](https://collections.vam.ac.uk/item/O74470/stonehenge-watercolour-john-constable/) painted in 1835.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: The Hay Wain (1821) by John Constable, National Gallery, London
+        imageUrl: /assets/john-constable-the-hay-wain.jpg
+      - imageTitle: Stonehenge (1835) by John Constable. Victoria and Albert Museum, London
+        imageUrl: /assets/john-constable-stonehenge.jpg
+      - imageTitle: Windmills in landscape by John Constable. first quarter of 19th
+          century . oil on canvas. 51 × 75.5 cm (20 × 29.7 ″). Warsaw, National
+          Museum in Warsaw (MNW).
+        imageUrl: /assets/john-constable-windmills-in-landscape.jpg
   - textTitle: Constable's legacy
     text: >-
       ### Constable died suddenly on 31st March 1837
@@ -114,6 +141,13 @@ textSections:
 
       Constable’s individual style can now be understood as a transformative step in landscape painting that had profound effects on the genre. Similarly, he has been credited with inspiring British impressionism, especially in the works of Philip Wilson Steer who also sought to capture everyday life in England. Most notably, Constable was instrumental in shaping the Romantic vision of the English landscape and inspiring a fondness for the countryside that still endures today.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: The Cornfield (1826) by John Constable, National Gallery, London
+        imageUrl: /assets/john-constable-the-cornfield-1826.jpg
+      - imageTitle: Seascape Study with Rain Cloud (c.1824). Royal Academy of Arts, London
+        imageUrl: /assets/john-constable-brigthon-beach-in-rain.jpg
+      - imageTitle: Constable's tomb at the church of St John-at-Hampstead, London
+        imageUrl: /assets/john-constable-grave-st-john-hampstead-london.jpg
 ---
 ## Famous for his expansive landscapes, John Constable was an English painter who lived from 1776-1837.
 
