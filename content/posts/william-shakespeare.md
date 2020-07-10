@@ -44,7 +44,7 @@ textSections:
       The Chandos portrait, now displayed in Central London’s [National Portrait Gallery](https://www.thingstodoeverywhere.com/central-london-attractions.html#6), is one of the few surviving paintings of Shakespeare. Like Shakespeare’s image, details of his personal life are few and far between: his name appears in a few court records and it is known that he had become wealthy by 1597, buying the second largest house in Stratford.
 
 
-      But speculation as to his sexuality (fuelled by the content of his [sonnets](https://greatestbritons.com/william-shakespeare-biography.html#3)) and religious belief abounds.
+      But speculation as to his sexuality (fuelled by the content of his [sonnets](/william-shakespeare-biography#3)) and religious belief abounds.
 
 
       Shakespeare died in Stratford-upon-Avon on 23 April 1616, aged 52.
@@ -199,7 +199,7 @@ textSections:
       And then there are the memorable phrases coined by Shakespeare, including ‘with bated breath’, a ‘foregone conclusion’, ‘mortal coil’, ‘love is blind’, ‘pound of flesh’, ‘method in madness’, ‘salad days’, ‘slept a wink’, ‘game is up’, ‘Greek to me’ and ‘into thin air’.
 
 
-      Another way of assessing Shakespeare’s contribution is by measuring the impact he had on those who followed him: Shakespeare influenced writers such as Hardy, [Dickens](https://greatestbritons.com/charles-dickens-biography.html) and Melville; inspired over 20,000 pieces of music, including operas by Verdi, and painters from the Romantic and Pre-Raphaelite movements; and even Sigmund Freud incorporated Hamlet into his theory of human behaviour.
+      Another way of assessing Shakespeare’s contribution is by measuring the impact he had on those who followed him: Shakespeare influenced writers such as Hardy, [Dickens](/charles-dickens-biography) and Melville; inspired over 20,000 pieces of music, including operas by Verdi, and painters from the Romantic and Pre-Raphaelite movements; and even Sigmund Freud incorporated Hamlet into his theory of human behaviour.
 
 
       A third assessment is the popularity of Shakespeare’s works to this day. His plays have been translated into every major language (including Esperanto) and are performed more than those of any other playwright. This is reflected in the number of lines from Shakespeare’s works in common knowledge or usage.

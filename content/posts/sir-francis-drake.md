@@ -166,4 +166,4 @@ Drake’s exploits were legendary and his attacks on Spanish vessels, ports and 
 
 His attacks on Spanish shipping contributed to the decision by [Philip II of Spain](https://en.wikipedia.org/wiki/Philip_II_of_Spain) to launch an Armada against England in 1588, a battle in which Drake acted as second in command of the English fleet which defeated the Armada. Philip II was said to have even offered 20,000 ducats (£4 million) for Drake’s life.
 
-A distant relative of [Sir Walter Raleigh](https://greatestbritons.com/sir-walter-raleigh-biography.html), Drake too was an important aide to Queen Elizabeth I. And just like Raleigh, he too had just as many critics that resented him as he had those who revered him for his accomplishments.
+A distant relative of [Sir Walter Raleigh](/sir-walter-raleigh-biography), Drake too was an important aide to Queen Elizabeth I. And just like Raleigh, he too had just as many critics that resented him as he had those who revered him for his accomplishments.

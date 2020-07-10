@@ -118,7 +118,7 @@ textSections:
       recurring achilles issues, Kelly Holmes retired from the track in 2005.
 
 
-      The same year she retired she was named Laureus Sportswoman of the Year, having been crowned BBC Sports Personality of the Year ([Viriginia Wade](https://greatestbritons.com/virginia-wade-biography.html) etc.) in 2004 following her double gold success. She also became Dame Kelly Holmes in 2005, having previously been awarded the MBE in 1998.
+      The same year she retired she was named Laureus Sportswoman of the Year, having been crowned BBC Sports Personality of the Year ([Viriginia Wade](/virginia-wade-biography) etc.) in 2004 following her double gold success. She also became Dame Kelly Holmes in 2005, having previously been awarded the MBE in 1998.
 
 
       In 2008 Kelly Holmes set up a charity called the [Dame Kelly Holmes Trust](https://www.damekellyholmestrust.org/) which looks to use athletics as a way to help disadvantaged young people with education, training and employment opportunities.
@@ -136,7 +136,7 @@ textSections:
       Her performance inspired young people across the country to run and her Camp for Kelly allowed some of them to train and learn from their idol. She became a full-time athlete at a comparatively late age when she left the army and the extra strains on the body took their toll. Yet the message she continues to convey is that if she can get through all those lows then other people may get through theirs too.
 
 
-      Kelly Holmes alongside other sportsmen like [Ian Botham](https://greatestbritons.com/ian-botham-biography.html) has been very influentual with her charity work.
+      Kelly Holmes alongside other sportsmen like [Ian Botham](/ian-botham-biography) has been very influentual with her charity work.
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: Kelly Holmes at a Sport & Technology conference in 2009 (©
@@ -150,8 +150,8 @@ textSections:
 
 In a career often blighted by injury she stormed back to full fitness to take both the 800m and 1500m titles in Athens. Holmes ran personal bests in both finals which included breaking her own British record in the 1500m.
 
-Holmes was not always a professional athlete, [joining the British Army](https://greatestbritons.com/kelly-holmes-biography.html#1) when she was 18 years old. She left the army after 9 years to focus on her athletics and pursue her Olympic dreams, inspired by watching the success of British middle distance runners like Steve Ovett and [Sebastian Coe](https://greatestbritons.com/sebastian-coe-biography.html) as she was growing up. Her look of disbelief mixed with elation as she [won the Olympic 800m](https://greatestbritons.com/kelly-holmes-biography.html#3) is an image which will last long in the memory of British sports fans.
+Holmes was not always a professional athlete, [joining the British Army](/kelly-holmes-biography#1) when she was 18 years old. She left the army after 9 years to focus on her athletics and pursue her Olympic dreams, inspired by watching the success of British middle distance runners like Steve Ovett and [Sebastian Coe](/sebastian-coe-biography) as she was growing up. Her look of disbelief mixed with elation as she [won the Olympic 800m](/kelly-holmes-biography#3) is an image which will last long in the memory of British sports fans.
 
-Since retiring from the track Kelly Holmes has [mentored future British athletes](https://greatestbritons.com/kelly-holmes-biography.html#4) to try and help them achieve their dreams and has been involved in various charitable causes. Holmes has also spoken candidly about mental health and self-harming, as well as being a highly sought out motivational speaker.
+Since retiring from the track Kelly Holmes has [mentored future British athletes](/kelly-holmes-biography#4) to try and help them achieve their dreams and has been involved in various charitable causes. Holmes has also spoken candidly about mental health and self-harming, as well as being a highly sought out motivational speaker.
 
 She recently made a BBC documentary which illustrated the rise of the free to enter Park Run 5k events held each weekend across the UK and the benefits to both mental and physical health of running.

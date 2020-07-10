@@ -188,4 +188,4 @@ textSections:
 ---
 ## The joint monarchy of William III and Mary II was without precedent in British history.
 
-They were [crowned joint monarchs](https://greatestbritons.com/william-and-mary-biography.html#4) of England, Scotland, and Ireland in 1689. Their accession, known as [The Glorious Revolution](https://greatestbritons.com/william-and-mary-biography.html#3), marked an important transition towards parliamentary rule as it is known today. Rather than a monarchy ruling by divine right, rule was viewed as a social contract with a focus on the ideals of liberty, constitutional government, and the rights of the people. God was removed from the political equation.
+They were [crowned joint monarchs](/william-and-mary-biography#4) of England, Scotland, and Ireland in 1689. Their accession, known as [The Glorious Revolution](/william-and-mary-biography#3), marked an important transition towards parliamentary rule as it is known today. Rather than a monarchy ruling by divine right, rule was viewed as a social contract with a focus on the ideals of liberty, constitutional government, and the rights of the people. God was removed from the political equation.

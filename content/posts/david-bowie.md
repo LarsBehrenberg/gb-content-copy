@@ -86,7 +86,7 @@ textSections:
       By the mid 1970s Bowie had undergone a full-scale makeover, and he traded in the outrageous costumes and garish sets for a sleeker more tailored look - the dapper style he would became synonymous with. In two short years he released the albums [David Live (1974)](https://en.wikipedia.org/wiki/David_Live) and [Young Americans (1975)](https://en.wikipedia.org/wiki/Young_Americans).
 
 
-      The latter album featured backing vocals by a young Luther Vandross and included the song Fame, co-written with [John Lennon](https://greatestbritons.com/john-lennon-biography.html) and Carlos Alomar, which became Bowie’s first American number one single.
+      The latter album featured backing vocals by a young Luther Vandross and included the song Fame, co-written with [John Lennon](/john-lennon-biography) and Carlos Alomar, which became Bowie’s first American number one single.
 
 
       In 1976, David made his film debut, starring in The Man Who Fell to Earth, a Nic Roeg film about an alien who crashes to earth while seeking water for his planet.

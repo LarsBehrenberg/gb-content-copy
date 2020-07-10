@@ -140,8 +140,8 @@ textSections:
 ---
 ## Ian Botham was a professional cricketer who could deliver devastating spells with both bat and ball.
 
-As an all-rounder he played most of his first class county cricket for Somerset and also represented England in an[ international career](https://greatestbritons.com/ian-botham-biography.html#2) spanning 15 years. Botham was a talented sportsman who also played football for Yeovil Town and Scunthorpe United.
+As an all-rounder he played most of his first class county cricket for Somerset and also represented England in an[ international career](/ian-botham-biography#2) spanning 15 years. Botham was a talented sportsman who also played football for Yeovil Town and Scunthorpe United.
 
 Nicknamed Beefy, Botham had the ability to change a game on its head in a very short space of time. A big, powerful striker of a cricket ball, Botham was a player who sent a wave of anticipation around a crowd as he went out to bat. His bowling could be just as aggressive, though he also employed swing to great effect. Botham was an entertainer and a fierce competitor who is widely considered as one of the greatest all-rounders of all time.
 
-Botham had his brushes with controversy through his career but will be eternally remembered by English cricket fans for his part in the epic comeback in the Headingley test match against Australia in 1981. In 2007 he received a knighthood in the Queen’s honours list for services to cricket and for his [charitable work](https://greatestbritons.com/ian-botham-biography.html#4), which has seen him raise in excess of £10 million for Leukaemia charities.
+Botham had his brushes with controversy through his career but will be eternally remembered by English cricket fans for his part in the epic comeback in the Headingley test match against Australia in 1981. In 2007 he received a knighthood in the Queen’s honours list for services to cricket and for his [charitable work](/ian-botham-biography#4), which has seen him raise in excess of £10 million for Leukaemia charities.

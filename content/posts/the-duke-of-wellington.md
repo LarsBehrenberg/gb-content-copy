@@ -119,7 +119,7 @@ textSections:
       political reform to allow the ordinary people a vote.
 
 
-      Wellington was not at all progressive on this issue and neither was the government he served. Four years after the [Battle of Waterloo](https://greatestbritons.com/duke-of-wellington-biography.html#3s) a demonstration in [St Peter’s Field](https://en.wikipedia.org/wiki/St_Peter%27s_Square,_Manchester) in Manchester demanding parliamentary representation was charged by troops. Known to posterity as the Peterloo Massacre, 18 unarmed civilians were killed and around 650 injured. Politically the Duke of Wellington was now in opposition to the wishes of much of the ordinary working population.
+      Wellington was not at all progressive on this issue and neither was the government he served. Four years after the [Battle of Waterloo](/duke-of-wellington-biography#3s) a demonstration in [St Peter’s Field](https://en.wikipedia.org/wiki/St_Peter%27s_Square,_Manchester) in Manchester demanding parliamentary representation was charged by troops. Known to posterity as the Peterloo Massacre, 18 unarmed civilians were killed and around 650 injured. Politically the Duke of Wellington was now in opposition to the wishes of much of the ordinary working population.
 
 
       These demands for reform refused to go away and in 1828 [King George IV](https://en.wikipedia.org/wiki/George_IV_of_the_United_Kingdom) turned to the Duke of Wellington to become Prime Minister. He dutifully accepted the position even though it would be beset with difficulties and animosity between different factions within his own Tory party.
@@ -154,7 +154,7 @@ textSections:
       Wellington was a man of honour who liked strict discipline. Being Prime Minister did not stop him challenging the Earl of Winchilsea to a duel in 1829 after the earl offended him during the debates over Catholic emancipation. It is claimed the Duke aimed to miss, while the Earl decided not to fire at all and honour was saved all round, although Winchilsea still wrote an apology to the Duke.
 
 
-      The Duke of Wellington will forever be known to most for his role at the [Battle of Waterloo](https://greatestbritons.com/duke-of-wellington-biography.html#3). Others will continue to automatically associate him with the much loved Wellington boot, originally a leather boot worn at the time by the aristocracy.
+      The Duke of Wellington will forever be known to most for his role at the [Battle of Waterloo](/duke-of-wellington-biography#3). Others will continue to automatically associate him with the much loved Wellington boot, originally a leather boot worn at the time by the aristocracy.
 
 
       Queen Victoria left no doubt how she thought he should be remembered, saying of Arthur Wellesley, 1st Duke of Wellington in a letter,
@@ -173,8 +173,8 @@ textSections:
 ---
 ## The Duke of Wellington is one of the greatest military leaders Britain has known.
 
-A household name from history for the defeat of Napoleon Bonaparte at [Waterloo](https://greatestbritons.com/duke-of-wellington-biography.html#3) in 1815, the Duke of Wellington had already posted successful military campaigns in India and Spain prior to the famous battle on the fields of Belgium.
+A household name from history for the defeat of Napoleon Bonaparte at [Waterloo](/duke-of-wellington-biography#3) in 1815, the Duke of Wellington had already posted successful military campaigns in India and Spain prior to the famous battle on the fields of Belgium.
 
-Wellington was a strict disciplinarian and a meticulous planner, traits he would take in to his political career following his return to England after Waterloo. He served terms in two of the highest [public offices](https://greatestbritons.com/duke-of-wellington-biography.html#4) as Prime Minister and Foreign Secretary. Although he would come to accept policy changes he disagreed with, his initial opposition to proposed reforms saw his popularity diminish.
+Wellington was a strict disciplinarian and a meticulous planner, traits he would take in to his political career following his return to England after Waterloo. He served terms in two of the highest [public offices](/duke-of-wellington-biography#4) as Prime Minister and Foreign Secretary. Although he would come to accept policy changes he disagreed with, his initial opposition to proposed reforms saw his popularity diminish.
 
-However, following his death in 1852 the people turned out in force to honour a man who served his country with honour and dedication. More than 1.5 million are said to have [lined the streets](https://greatestbritons.com/duke-of-wellington-biography.html#5) as the Coffin of the “Iron Duke” made its way for burial in St Paul’s Cathedral.
+However, following his death in 1852 the people turned out in force to honour a man who served his country with honour and dedication. More than 1.5 million are said to have [lined the streets](/duke-of-wellington-biography#5) as the Coffin of the “Iron Duke” made its way for burial in St Paul’s Cathedral.

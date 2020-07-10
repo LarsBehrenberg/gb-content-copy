@@ -152,7 +152,7 @@ textSections:
       Thatcher’s husband, Denis, died in 2003. The following years were marked by a number of accolades and awards—a bronze statue of Thatcher was, for example, unveiled in the House of Commons in 2007. But they were marred by the Iron Lady’s failing memory.
 
 
-      Thatcher died in April 2013, at the age of 87. She ranks as the most successful PM since Churchill, alongside political heavyweights such as [Clement Attlee](https://greatestbritons.com/clement-attlee-biography.html) and [William Gladstone](https://greatestbritons.com/william-gladstone-biography.html).
+      Thatcher died in April 2013, at the age of 87. She ranks as the most successful PM since Churchill, alongside political heavyweights such as [Clement Attlee](/clement-attlee-biography) and [William Gladstone](/william-gladstone-biography).
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: George Bush awarding Margaret Thatcher the Presidential Medal of
@@ -169,6 +169,6 @@ textSections:
 
 But this was the least of her achievements. She inherited a broken economy, dominated by trade unions, and crippled by strikes.
 
-She confronted these problems head on: breaking the power of the unions, modernising and [privatising](https://greatestbritons.com/margaret-thatcher-biography.html#2) flabby state industry, and sowing the seeds of the services economy—particularly in the City of London—that created so much wealth in the decades which followed. In other areas, she showed decisive leadership over the [Falklands conflict](https://greatestbritons.com/margaret-thatcher-biography.html#2) and stood up to the IRA and Europe.
+She confronted these problems head on: breaking the power of the unions, modernising and [privatising](/margaret-thatcher-biography#2) flabby state industry, and sowing the seeds of the services economy—particularly in the City of London—that created so much wealth in the decades which followed. In other areas, she showed decisive leadership over the [Falklands conflict](/margaret-thatcher-biography#2) and stood up to the IRA and Europe.
 
 The Iron Lady was the most competent and successful post-war Prime Minister. She is the ninth greatest Briton.

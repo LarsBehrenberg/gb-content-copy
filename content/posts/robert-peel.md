@@ -102,7 +102,7 @@ textSections:
       However Peel believed reform needed to go beyond just criminal law and its aftermath and should also focus on improving prevention. To this end the Metropolitan Police force was founded in 1829 with an initial 1,000 officers who became known as Peelers or Bobbies, but who were not instantly popular with the people.
 
 
-      Peel left the Home Office for good in late 1830 after the fall of the [Duke of Wellington](https://greatestbritons.com/duke-of-wellington-biography.html)’s government (though he had also resigned in 1827 when George Canning became Prime Minster. The resignation was prompted by Peel’s opposition to Catholic emancipation, though he was back in office in early 1828 following Canning’s death).
+      Peel left the Home Office for good in late 1830 after the fall of the [Duke of Wellington](/duke-of-wellington-biography)’s government (though he had also resigned in 1827 when George Canning became Prime Minster. The resignation was prompted by Peel’s opposition to Catholic emancipation, though he was back in office in early 1828 following Canning’s death).
 
 
       #### Emancipation U-turn
@@ -137,7 +137,7 @@ textSections:
       After being out of government for four years, Peel took his first stint as Prime Minister in 1834, but it was to be short lived. Peel led a minority government and found it an increasingly intolerable position and resigned from his office in 1835 after just four months.
 
 
-      During this time he assigned [Wiliam Gladstone](https://greatestbritons.com/william-gladstone-biography.html) Junior Lordship of the Treasury.
+      During this time he assigned [Wiliam Gladstone](/william-gladstone-biography) Junior Lordship of the Treasury.
 
 
       However at the back end of 1834 he issued the [Tamworth Manifesto](https://en.wikipedia.org/wiki/Tamworth_Manifesto), which spelled out the moderate Tory thinking at the time and was in essence a manifesto for an upcoming election in January 1835.
@@ -218,7 +218,7 @@ textSections:
       Sir Robert Peel could be an autocratic administrator, but he was recognised as being an intelligent man who did not shy away from hard work. Although originally set against parliamentary reform he came to implement what many would see as liberal measures while in government.
 
 
-      In sum, Robert Peel was one of the most influential politicians of the 19th century alongside [William Gladstone](https://greatestbritons.com/william-gladstone-biography.html) or [the Duke of Wellington](https://greatestbritons.com/duke-of-wellington-biography.html).
+      In sum, Robert Peel was one of the most influential politicians of the 19th century alongside [William Gladstone](/william-gladstone-biography) or [the Duke of Wellington](/duke-of-wellington-biography).
 
 
       #### Peel and Queen Victoria
@@ -227,7 +227,7 @@ textSections:
       Peel was also a stubborn man, a trait which delayed his second stint as PM.
 
 
-      In 1839 the young [Queen Victoria](https://greatestbritons.com/queen-victoria-greatest-briton.html) had to summon Peel to ask him to form a government after the collapse of the Whig administration led by Lord Melbourne.
+      In 1839 the young [Queen Victoria](/queen-victoria-biography) had to summon Peel to ask him to form a government after the collapse of the Whig administration led by Lord Melbourne.
 
 
       When Peel asked for the removal of some of the Queen's attending ladies (who had connections to the Whigs) as a condition of becoming Prime Minister, she refused. This sparked what has become known as the Bedchamber Crisis. Peel refused to budge on this ground, presumably because he did not want all of the Queen's closest confidantes lobbying against his party, and the Whigs returned to power!
@@ -248,8 +248,8 @@ textSections:
 ---
 ## Sir Robert Peel was an influential 19th century politician who twice served as Prime Minister and is viewed as the founder of the modern day Conservative Party.
 
-Peel introduced a significant number of reforms including [the repeal of the Corn Laws](https://greatestbritons.com/robert-peel-biography.html#3), which he achieved in spite of stern opposition from within his own party. As [Home Secretary](https://greatestbritons.com/robert-peel-biography.html#2) Peel was responsible for founding the Metropolitan Police force, whose officers were subsequently referred to as 'Peelers' or 'Bobbies'.
+Peel introduced a significant number of reforms including [the repeal of the Corn Laws](/robert-peel-biography#3), which he achieved in spite of stern opposition from within his own party. As [Home Secretary](/robert-peel-biography#2) Peel was responsible for founding the Metropolitan Police force, whose officers were subsequently referred to as 'Peelers' or 'Bobbies'.
 
-Peel was born in to a wealthy family and as such enjoyed the privileges of the time this afforded him (including uncontested entry in to Parliament). On the other hand, he would become the [first Prime Minister](https://greatestbritons.com/robert-peel-biography.html#4) to come from an [industrial background](https://greatestbritons.com/robert-peel-biography.html#1). He achieved this through talent: Peel was an excellent debater and administrator who was also prepared to work with opposition members to push bills through.
+Peel was born in to a wealthy family and as such enjoyed the privileges of the time this afforded him (including uncontested entry in to Parliament). On the other hand, he would become the [first Prime Minister](/robert-peel-biography#4) to come from an [industrial background](/robert-peel-biography#1). He achieved this through talent: Peel was an excellent debater and administrator who was also prepared to work with opposition members to push bills through.
 
 Following the death of his father in 1830, Peel inherited his baronetcy. Peel would pass this on to his own son, also called Robert (one of seven children from Peel’s marriage to Julia Floyd, daughter of General Sir John Floyd).

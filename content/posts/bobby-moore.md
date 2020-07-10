@@ -111,7 +111,7 @@ textSections:
       Moore won the [BBC Sports Personality of the Year](https://en.wikipedia.org/wiki/BBC_Sports_Personality_of_the_Year_Award) award in 1966, the first footballer to do so.
 
 
-      England's success in the 1966 World Cup was of wider significance in a decade in which the nation seemed to find its feet [post-World War Two](https://greatestbritons.com/british-history-timeline.html#1).
+      England's success in the 1966 World Cup was of wider significance in a decade in which the nation seemed to find its feet [post-World War Two](/british-history-timeline#1).
 
 
       #### The 1970 World Cup
@@ -126,7 +126,7 @@ textSections:
       #### Moore's late career
 
 
-      Moore continued playing for England until 1973, retiring with a then record 108 caps. He had overtaken teammate [Bobby Charlton's](https://greatestbritons.com/bobby-charlton-biography.html) record of 106 caps earlier that year. The record is now held by goal keeper Peter Shilton, who won 125 caps, with Moore sixth on the list.
+      Moore continued playing for England until 1973, retiring with a then record 108 caps. He had overtaken teammate [Bobby Charlton's](/bobby-charlton-biography) record of 106 caps earlier that year. The record is now held by goal keeper Peter Shilton, who won 125 caps, with Moore sixth on the list.
 
 
       Back home Moore continued to play for [West Ham](https://en.wikipedia.org/wiki/West_Ham_United_F.C.) until 1974 when he left to join Fulham, where he remained until 1977. In one of those twists of fate the game often throws up Fulham reached the [FA Cup](https://en.wikipedia.org/wiki/FA_Cup) final in 1975, with the opponents at [Wembley Stadium](https://en.wikipedia.org/wiki/Wembley_Stadium) Moore’s former club of so many years, West Ham. Fulham lost 2-0 and following his spell there, Moore crossed the Atlantic and played for a couple of teams in the US.

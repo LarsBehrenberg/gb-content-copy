@@ -82,7 +82,7 @@ textSections:
       #### The Beagle
 
 
-      Shortly after graduating in 1831, Darwin was invited to join the [Voyage of the Beagle](https://greatestbritons.com/charles-darwin-biography.html#2), an expedition to chart the coastline of South America.
+      Shortly after graduating in 1831, Darwin was invited to join the [Voyage of the Beagle](/charles-darwin-biography#2), an expedition to chart the coastline of South America.
 
 
       In the event, the voyage also took in (amongst other places) the Galapagos Islands, New Zealand, Australia and South Africa, and laid the groundwork for Darwin’s idea that changed the world.
@@ -354,7 +354,7 @@ textSections:
       <h4>Interesting fact ...</h4>
 
 
-      Darwin wanted to be buried in the Parish churchyard. But in London political forces were at work. His scientific supporters wanted his body to be placed into the public domain. The corpse was appropriated (some would say snatched) and taken to Westminster Abbey where it was buried alongside the monument to [Isaac Newton](https://greatestbritons.com/isaac-newton-biography.html) at the north end of the choir screen. The nation's politicians and many foreign dignatories attended his funeral.
+      Darwin wanted to be buried in the Parish churchyard. But in London political forces were at work. His scientific supporters wanted his body to be placed into the public domain. The corpse was appropriated (some would say snatched) and taken to Westminster Abbey where it was buried alongside the monument to [Isaac Newton](/isaac-newton-biography) at the north end of the choir screen. The nation's politicians and many foreign dignatories attended his funeral.
 
 
       </div>
@@ -366,10 +366,10 @@ textSections:
       Charles Darwin's theory challenged the biblical account of the world's creation, and perhaps religion more generally, postulating that man evolved over millions of years. It became the accepted orthodoxy within a remarkably short period of time and can fairly be said to be the unifying theory of all life sciences, explaining why life on earth is so diverse and complex.
 
 
-      It is no exaggeration to say that Darwin conceived the big idea of our age. We rank him the third greatest Briton, and the second greatest British scientist (a short head behind [Isaac Newton](https://greatestbritons.com/isaac-newton-biography.html)).
+      It is no exaggeration to say that Darwin conceived the big idea of our age. We rank him the third greatest Briton, and the second greatest British scientist (a short head behind [Isaac Newton](/isaac-newton-biography)).
 
 
-      Darwin was not the only Victorian who fundamentally changed how people saw the world. [Isambard Kingdom Brunel](https://greatestbritons.com/isambard-kingdom-brunel.html), for example, provided a different contribution: by developing the Great Western Railway, bridges and steamships, he made the world a smaller place.
+      Darwin was not the only Victorian who fundamentally changed how people saw the world. [Isambard Kingdom Brunel](/isambard-kingdom-brunel), for example, provided a different contribution: by developing the Great Western Railway, bridges and steamships, he made the world a smaller place.
 
 
       #### Resources
@@ -393,6 +393,6 @@ textSections:
 
 For Darwin’s theory to work, people would have to accept that animals and man were not as different as they liked to believe; that man was in fact descended from apes; and that flora and fauna evolved over millions of years and was not created by God in a single day.
 
-That such radical views become the orthodoxy within decades is testament to Darwin’s life’s work, which started when he joined the [Voyage of the Beagle](https://greatestbritons.com/charles-darwin-biography.html#2) in 1831, reached its zenith with the publication of [On the Origin of Species](https://greatestbritons.com/charles-darwin-biography.html#3) in 1859, and then saw over [20 further years](https://greatestbritons.com/charles-darwin-biography.html#4) of writing and experimentation which buttressed Darwin’s central thesis.
+That such radical views become the orthodoxy within decades is testament to Darwin’s life’s work, which started when he joined the [Voyage of the Beagle](/charles-darwin-biography#2) in 1831, reached its zenith with the publication of [On the Origin of Species](/charles-darwin-biography#3) in 1859, and then saw over [20 further years](/charles-darwin-biography#4) of writing and experimentation which buttressed Darwin’s central thesis.
 
 Darwin is the third greatest Briton.

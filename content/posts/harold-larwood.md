@@ -33,7 +33,7 @@ textSections:
       and Mary Larwood.
 
 
-      Larwood was not the only pupil to attend the local village school over the years who would go on to play test cricket, among them Bill Voce who would spearhead the [‘Bodyline’](https://greatestbritons.com/harold-larwood-biography.html#3) attack alongside Larwood. Leaving school in 1917 Larwood initially worked in a miner’s cooperative store before going on to work at Annesley Colliery.
+      Larwood was not the only pupil to attend the local village school over the years who would go on to play test cricket, among them Bill Voce who would spearhead the [‘Bodyline’](/harold-larwood-biography#3) attack alongside Larwood. Leaving school in 1917 Larwood initially worked in a miner’s cooperative store before going on to work at Annesley Colliery.
 
 
       #### His father's influence
@@ -78,7 +78,7 @@ textSections:
       #### First hardships
 
 
-      Larwood had established himself as a county and international cricketer of some repute. He distinguished himself for his country in further test series against South Africa and West Indies before the Australians returned to England in 1930. It was a frustrating series for Larwood who suffered illness and missed the second test, before being dropped for the fourth match. The series was the first meeting between legendary Australian batsman Donald Bradman and Larwood and unfortunately for the Englishman Bradman won this initial duel convincingly. The scene had been set for [‘Bodyline’](https://greatestbritons.com/harold-larwood-biography.html#3).
+      Larwood had established himself as a county and international cricketer of some repute. He distinguished himself for his country in further test series against South Africa and West Indies before the Australians returned to England in 1930. It was a frustrating series for Larwood who suffered illness and missed the second test, before being dropped for the fourth match. The series was the first meeting between legendary Australian batsman Donald Bradman and Larwood and unfortunately for the Englishman Bradman won this initial duel convincingly. The scene had been set for [‘Bodyline’](/harold-larwood-biography#3).
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: A photo of Harold Larwood.
@@ -134,7 +134,7 @@ textSections:
       #### Larwood's legacy
 
 
-      Larwood was belatedly recognised by the [MCC](https://en.wikipedia.org/wiki/Marylebone_Cricket_Club) two years before he emigrated when given an honorary membership to the club, an award which perhaps went a little by the way of redemption for their treatment of him on his return from the [‘Bodyline’](https://greatestbritons.com/harold-larwood-biography.html#3) series. The award of an MBE in 1993 was further recognition at last for one of England’s finest ever bowlers, though it is possible the naming of a stand at Nottinghamshire’s Trent Bridge ground after him and fellow [fast bowler](https://en.wikipedia.org/wiki/Pace_bowling) Bill Voce may have given him equal satisfaction.
+      Larwood was belatedly recognised by the [MCC](https://en.wikipedia.org/wiki/Marylebone_Cricket_Club) two years before he emigrated when given an honorary membership to the club, an award which perhaps went a little by the way of redemption for their treatment of him on his return from the [‘Bodyline’](/harold-larwood-biography#3) series. The award of an MBE in 1993 was further recognition at last for one of England’s finest ever bowlers, though it is possible the naming of a stand at Nottinghamshire’s Trent Bridge ground after him and fellow [fast bowler](https://en.wikipedia.org/wiki/Pace_bowling) Bill Voce may have given him equal satisfaction.
 
 
       #### His scorings
@@ -149,7 +149,7 @@ textSections:
       <h4>Interesting fact...</h4>
 
 
-      The name of Larwood will always conjure up images of the [‘Bodyline’](https://greatestbritons.com/harold-larwood-biography.html#3) series but his career should not be defined by one series alone. A modest and humble man, grounded by his working class mining background, his name remains a by-word for quality fast bowling. At around 5 feet 8 inches he was not a tall man, but in terms of cricket his stature was immense.
+      The name of Larwood will always conjure up images of the [‘Bodyline’](/harold-larwood-biography#3) series but his career should not be defined by one series alone. A modest and humble man, grounded by his working class mining background, his name remains a by-word for quality fast bowling. At around 5 feet 8 inches he was not a tall man, but in terms of cricket his stature was immense.
 
 
       </div>
@@ -165,8 +165,8 @@ textSections:
 ---
 ## Harold Larwood was a professional cricketer, considered by many as the best bowler of his generation.
 
-Larwood would be considered relatively small for a [fast bowler](https://en.wikipedia.org/wiki/Pace_bowling), yet fast he certainly was. At his quickest he could bowl in excess of 90mph, pace generated with the help of powerful shoulder and back muscles built up working in a [coal mine](https://greatestbritons.com/harold-larwood-biography.html#1) from a young age. It was not just his pace which opponents facing him feared, but also his consistent accuracy and the ability to get the ball to cut sharply back in to the batsman.
+Larwood would be considered relatively small for a [fast bowler](https://en.wikipedia.org/wiki/Pace_bowling), yet fast he certainly was. At his quickest he could bowl in excess of 90mph, pace generated with the help of powerful shoulder and back muscles built up working in a [coal mine](/harold-larwood-biography#1) from a young age. It was not just his pace which opponents facing him feared, but also his consistent accuracy and the ability to get the ball to cut sharply back in to the batsman.
 
-His name is synonymous with the infamous MCC [‘Bodyline’](https://greatestbritons.com/harold-larwood-biography.html#3) tour of 1932-33 to Australia, yet Larwood enjoyed a distinguished 14 year [first class career](https://greatestbritons.com/harold-larwood-biography.html#2) for Nottinghamshire and England.
+His name is synonymous with the infamous MCC [‘Bodyline’](/harold-larwood-biography#3) tour of 1932-33 to Australia, yet Larwood enjoyed a distinguished 14 year [first class career](/harold-larwood-biography#2) for Nottinghamshire and England.
 
-Although vilified at the time for his part in the ‘Bodyline’ tactics, Larwood would emigrate to Australia in 1950 with his wife and 5 daughters, where he was warmly welcomed. He would retain a keen interest in English cricket, occasionally commenting on visiting English test sides. In 1993, 60 years after the ‘Bodyline’ series he was [awarded an MBE](https://greatestbritons.com/harold-larwood-biography.html#4), just two years prior to his death in 1995 in Sydney aged 90.
+Although vilified at the time for his part in the ‘Bodyline’ tactics, Larwood would emigrate to Australia in 1950 with his wife and 5 daughters, where he was warmly welcomed. He would retain a keen interest in English cricket, occasionally commenting on visiting English test sides. In 1993, 60 years after the ‘Bodyline’ series he was [awarded an MBE](/harold-larwood-biography#4), just two years prior to his death in 1995 in Sydney aged 90.

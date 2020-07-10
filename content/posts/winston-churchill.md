@@ -101,7 +101,7 @@ textSections:
       When the coalition government was formed in 1915, the Conservatives demanded Churchill’s demotion. He was given the unimportant position of Chancellor of the Duchy of Lancaster, and decided to return to the front line, as a lieutenant colonel commanding a battalion of Royal Scots fusiliers.
 
 
-      Churchill’s bravery—he made 36 forays into no-man’s land—was one factor behind his 1917 appointment, by Prime Minister [David Lloyd George](https://greatestbritons.com/david-lloyd-george-biography.html), as Minister of Munitions. He attacked this position with characteristic enthusiasm, increasing the ministry’s efficiency exponentially and helping to bring about German surrender.
+      Churchill’s bravery—he made 36 forays into no-man’s land—was one factor behind his 1917 appointment, by Prime Minister [David Lloyd George](/david-lloyd-george-biography), as Minister of Munitions. He attacked this position with characteristic enthusiasm, increasing the ministry’s efficiency exponentially and helping to bring about German surrender.
 
 
       Again, Churchill could not be kept away from the action: he spent much time visiting the front line with French Prime Minister Georges Clemenceaux.
@@ -219,7 +219,7 @@ textSections:
       > “we have won the war."
 
 
-      But victory was a long time coming. It was achieved through success in North Africa, in the Atlantic, breaking the [Enigma Code](https://greatestbritons.com/british-history-timeline.html#2), and then through the invasion of Italy and France. And it was made possible by Churchill’s spirit, energy, ability to inspire and organise, and cordial relations with the Americans and Russians.
+      But victory was a long time coming. It was achieved through success in North Africa, in the Atlantic, breaking the [Enigma Code](/british-history-timeline#2), and then through the invasion of Italy and France. And it was made possible by Churchill’s spirit, energy, ability to inspire and organise, and cordial relations with the Americans and Russians.
 
 
       It is no exaggeration to say that, but for Churchill’s contribution, the war may well have been lost.
@@ -242,7 +242,7 @@ textSections:
       The country decided the person to lead them in war was not the person needed in times of peace.
 
 
-      [Clement Atlee's](https://greatestbritons.com/clement-attlee-biography.html) labour government turned out to have a real reforming zeal, creating the National Health Service in 1948 (Aneurin Bevan was health secretary at the time). Churchill did not care for Atlee, describing him as "a modest man, with so much to be modest about".
+      [Clement Atlee's](/clement-attlee-biography) labour government turned out to have a real reforming zeal, creating the National Health Service in 1948 (Aneurin Bevan was health secretary at the time). Churchill did not care for Atlee, describing him as "a modest man, with so much to be modest about".
 
 
       Churchill, however, continued as leader of the opposition. Re-elected in the 1951 general election, Churchill struggled in his second stint in office to come to terms with the decline of Britain’s empire. With his health failing, he eventually resigned, in favour of Anthony Eden, in 1955. Churchill died, a decade later, on 24 January 1965.
@@ -254,7 +254,7 @@ textSections:
       > "The journey has been enjoyable and well worth making—once!"
 
 
-      Churchill was undoubtedly the greatest Prime Minister Britain has seen, eclipsing political heavyweights such as [Margaret Thatcher](https://greatestbritons.com/margaret-thatcher-biography.html), Benjamin Disraeli, William Gladstone and William Pitt the Younger.
+      Churchill was undoubtedly the greatest Prime Minister Britain has seen, eclipsing political heavyweights such as [Margaret Thatcher](/margaret-thatcher-biography), Benjamin Disraeli, William Gladstone and William Pitt the Younger.
 
 
       #### More Churchill Quotes
@@ -327,12 +327,12 @@ textSections:
 ---
 ## In his ninety years, Churchill accomplished feats which few, if any, will equal.
 
-He is best known for his leadership during the [Second World War](https://greatestbritons.com/winston-churchill-biography.html#4), galvanizing a country close to defeat and gradually, through "blood, toil, tears and sweat", turning the tide against Nazi oppression. That was his finest hour.
+He is best known for his leadership during the [Second World War](/winston-churchill-biography#4), galvanizing a country close to defeat and gradually, through "blood, toil, tears and sweat", turning the tide against Nazi oppression. That was his finest hour.
 
 But it would be a mistake to overlook Churchill's other achievements:
 
-* He spent nearly nine years as Prime Minister, 31 years as a minister—promoting important welfare legislation as President of the Board of Trade and playing a key role as Minister of Munitions at the end of the [First World War](https://greatestbritons.com/winston-churchill-biography.html#2)—and 55 years as a member of parliament.
-* In his life before politics, he was a fearless [cavalry officer](https://greatestbritons.com/winston-churchill-biography.html#1) awarded 14 campaign medals.
+* He spent nearly nine years as Prime Minister, 31 years as a minister—promoting important welfare legislation as President of the Board of Trade and playing a key role as Minister of Munitions at the end of the [First World War](/winston-churchill-biography#2)—and 55 years as a member of parliament.
+* In his life before politics, he was a fearless [cavalry officer](/winston-churchill-biography#1) awarded 14 campaign medals.
 * Over the course of his life he published 10 million words, was awarded the Nobel prize for literature, painted over 500 canvasses, and (some maintain) consumed 20,000 bottles of champagne.
 
 

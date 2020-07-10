@@ -617,8 +617,8 @@ textSections:
 
 He is famed for his legendary naval triumphs against the French during the [Napoleonic Wars](https://en.wikipedia.org/wiki/Napoleonic_Wars).
 
-Nelson was known as an outstanding strategist and a motivational leader. In his time he was lionised across Europe for his victories during the [Battle of Cape St Vincent](https://greatestbritons.com/admiral-nelson-biography.html#4), the [Battle of the Nile](https://greatestbritons.com/admiral-nelson-biography.html#5) and the [Battle of Copenhagen](https://greatestbritons.com/admiral-nelson-biography.html#6).
+Nelson was known as an outstanding strategist and a motivational leader. In his time he was lionised across Europe for his victories during the [Battle of Cape St Vincent](/admiral-nelson-biography#4), the [Battle of the Nile](/admiral-nelson-biography#5) and the [Battle of Copenhagen](/admiral-nelson-biography#6).
 
-He died at the age of 47 during the victorious [Battle of Trafalgar](https://greatestbritons.com/british-history-timeline.html#6). Nelson was shot whilst commanding the British flagship, HMS Victory. He died three hours later, with his body being pickled in alcohol and returned to London for a state funeral.
+He died at the age of 47 during the victorious [Battle of Trafalgar](/british-history-timeline#6). Nelson was shot whilst commanding the British flagship, HMS Victory. He died three hours later, with his body being pickled in alcohol and returned to London for a state funeral.
 
-A statue of Nelson now looks over London from a plinth in the middle of Trafalgar Square. He is one of the nation's greatest commanders, alongside the [Duke of Wellington](https://greatestbritons.com/duke-of-wellington-biography.html) and Field Marshall Montgomery.
+A statue of Nelson now looks over London from a plinth in the middle of Trafalgar Square. He is one of the nation's greatest commanders, alongside the [Duke of Wellington](/duke-of-wellington-biography) and Field Marshall Montgomery.

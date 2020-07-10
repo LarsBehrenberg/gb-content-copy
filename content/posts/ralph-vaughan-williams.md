@@ -178,8 +178,8 @@ textSections:
 ---
 ## Ralph Vaughan Williams was one of the best-known British symphonists of the twentieth century.
 
-For centuries, as a result of the influence of Handel and Mendelssohn, Britain had a decidedly German musical bent. Vaughan Williams rejected that notion and was determined to be an ‘English composer’ from a very [early age](https://greatestbritons.com/ralph-vaughan-williams-biography.html#1).
+For centuries, as a result of the influence of Handel and Mendelssohn, Britain had a decidedly German musical bent. Vaughan Williams rejected that notion and was determined to be an ‘English composer’ from a very [early age](/ralph-vaughan-williams-biography#1).
 
-At the turn of the century, Vaughan Williams was among the first to travel throughout the English countryside [collecting folk songs](https://greatestbritons.com/ralph-vaughan-williams-biography.html#4). He used them as a wellspring of native musical style.
+At the turn of the century, Vaughan Williams was among the first to travel throughout the English countryside [collecting folk songs](/ralph-vaughan-williams-biography#4). He used them as a wellspring of native musical style.
 
-Vaughan Williams was a [composer extraordinaire](https://greatestbritons.com/ralph-vaughan-williams-biography.html#3); operas, ballets, chamber music, secular and religious vocal pieces, orchestral compositions, including nine symphonies. He is best known for his composition of the orchestral work The Lark Ascending.
+Vaughan Williams was a [composer extraordinaire](/ralph-vaughan-williams-biography#3); operas, ballets, chamber music, secular and religious vocal pieces, orchestral compositions, including nine symphonies. He is best known for his composition of the orchestral work The Lark Ascending.

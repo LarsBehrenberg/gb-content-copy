@@ -95,10 +95,10 @@ textSections:
       leaning toward looking to deal with Hitler.
 
 
-      Indeed, only Attlee and [Churchill](https://greatestbritons.com/winston-churchill-biography.html) were the ever-present members of the cabinet of the wartime coalition government. As well as deputy Prime Minister, Attlee also served as Lord President of the Council and would often preside over meetings in Churchill’s absence, displaying an ability to make quick and decisive decisions.
+      Indeed, only Attlee and [Churchill](/winston-churchill-biography) were the ever-present members of the cabinet of the wartime coalition government. As well as deputy Prime Minister, Attlee also served as Lord President of the Council and would often preside over meetings in Churchill’s absence, displaying an ability to make quick and decisive decisions.
 
 
-      After the war this experience of holding a wartime cabinet meeting together was to hold him in good stead. No doubt much to the astonishment of those looking back on history today, the people of Britain did not reward [Winston Churchill](https://greatestbritons.com/winston-churchill-biography.html) with an automatic victory in the election held in 1945.
+      After the war this experience of holding a wartime cabinet meeting together was to hold him in good stead. No doubt much to the astonishment of those looking back on history today, the people of Britain did not reward [Winston Churchill](/winston-churchill-biography) with an automatic victory in the election held in 1945.
 
 
       Instead they returned a labour government headed by Clement Attlee. The desire for social reform had been building and the influential 1942 Beveridge Report set out certain principles to remove poverty and want from British society, including the assumption of full employment which would help fund a welfare state. Labour based its election campaign around the slogan, “Let Us Face the Future”, aware of the hardships for many during the Depression prior to the war.
@@ -143,7 +143,7 @@ textSections:
       Clement Attlee is regularly cited as one of Britain’s greatest Prime Minsters, overseeing a government which introduced a series of radical reforms. The NHS remains a treasured institution among the British public and the Welfare State has provided a welcome safety net for many requiring financial or social assistance.
 
 
-      From the early days working in London’s East End Attlee saw the need for change, to provide opportunity for all and social progression. The importance of his support as leader of the opposition to the Conservative leader [Winston Churchill](https://greatestbritons.com/winston-churchill-biography.html) as part of a wartime cabinet should not be overlooked either.
+      From the early days working in London’s East End Attlee saw the need for change, to provide opportunity for all and social progression. The importance of his support as leader of the opposition to the Conservative leader [Winston Churchill](/winston-churchill-biography) as part of a wartime cabinet should not be overlooked either.
 
 
       In a time of housing shortage Clement Attlee’s government also built 1 million homes after the war during a period in which the country was almost bankrupt.
@@ -168,8 +168,8 @@ textSections:
 ---
 ## Clement Attlee was a post-war Prime Minister and leader of the Labour Party for twenty years.
 
-As [Prime Minister](https://greatestbritons.com/clement-attlee-biography.html#3) he oversaw a range of radical social reforms, including extending the welfare state, creation of the National Health Service and nationalisation of major industries. Attlee also granted independence to India as the British Empire moved toward a Commonwealth of nations.
+As [Prime Minister](/clement-attlee-biography#3) he oversaw a range of radical social reforms, including extending the welfare state, creation of the National Health Service and nationalisation of major industries. Attlee also granted independence to India as the British Empire moved toward a Commonwealth of nations.
 
-Clement Attlee saw active [service in the first world war](https://greatestbritons.com/clement-attlee-biography.html#1) and loyally served Winston Churchill as Deputy Prime Minister during the second world war. His subsequent landslide [victory over Churchill](https://greatestbritons.com/clement-attlee-biography.html#3) in the election of 1945 was built heavily on providing the British people with a new vision of full employment going forward after the deprivations of the Great Depression of the 1930’s.
+Clement Attlee saw active [service in the first world war](/clement-attlee-biography#1) and loyally served Winston Churchill as Deputy Prime Minister during the second world war. His subsequent landslide [victory over Churchill](/clement-attlee-biography#3) in the election of 1945 was built heavily on providing the British people with a new vision of full employment going forward after the deprivations of the Great Depression of the 1930’s.
 
-Clement Attlee is viewed by many as one of the leading politicians to have ever served the Labour party. Although born in to [a respectable middle-class family](https://greatestbritons.com/clement-attlee-biography.html#1), Attlee’s experience working in the East End of London changed his political stance. During his tenure Labour established themselves as the main alternative for voters to the Conservative Party, with Attlee guiding the nation in a more moderate-left direction.
+Clement Attlee is viewed by many as one of the leading politicians to have ever served the Labour party. Although born in to [a respectable middle-class family](/clement-attlee-biography#1), Attlee’s experience working in the East End of London changed his political stance. During his tenure Labour established themselves as the main alternative for voters to the Conservative Party, with Attlee guiding the nation in a more moderate-left direction.

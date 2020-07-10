@@ -374,6 +374,6 @@ textSections:
 ---
 ## Francis Crick and James Watson identified the structure of DNA in 1953. This was the highlight of years of research done by Crick and Watson, fellow scientists Rosalind Franklin and Maurice Wilkins, and others.
 
-This [breakthrough discovery](https://greatestbritons.com/francis-crick-biography.html#3) was the start of modern molecular biology. It laid the foundation for understanding the important role genes play in controlling chemical processes in cells.
+This [breakthrough discovery](/francis-crick-biography#3) was the start of modern molecular biology. It laid the foundation for understanding the important role genes play in controlling chemical processes in cells.
 
 Crick, Watson and Wilkins were awarded the Nobel Prize in Physiology or Medicine in 1962. Franklin was not considered to share the award. She died in 1958, and it is extremely unusual for a Nobel Prize to be awarded posthumously.

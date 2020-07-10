@@ -79,7 +79,7 @@ textSections:
       Things started to improve in the early 1870s, and Victoria was buoyed further by Benjamin Disraeli’s triumph in the 1874 general election. [Disraeli](https://en.wikipedia.org/wiki/Benjamin_Disraeli) had always been popular with Victoria, perhaps because he was good at flattering her (he once said “everyone likes flattery … and when it comes to royalty you should lay it on with a trowel”).
 
 
-      In contrast, Victoria disliked the other great statesman of her age, [William Gladstone](https://greatestbritons.com/william-gladstone-biography.html).
+      In contrast, Victoria disliked the other great statesman of her age, [William Gladstone](/william-gladstone-biography).
 
 
       #### Empire
@@ -141,7 +141,7 @@ textSections:
       #### Science and culture
 
 
-      By the time of her death, Darwin’s [theory of evolution](https://greatestbritons.com/charles-darwin-biography.html) had been published; antiseptics and anaesthetics were used in medicine; there were telephones, cars and aircraft; the London underground and sewage system were built; [Dickens](https://greatestbritons.com/charles-dickens-biography.html), Eliot, Tennyson, Bernard Shaw and Wilde had produced great literatures; and the football league had been established.
+      By the time of her death, Darwin’s [theory of evolution](/charles-darwin-biography) had been published; antiseptics and anaesthetics were used in medicine; there were telephones, cars and aircraft; the London underground and sewage system were built; [Dickens](/charles-dickens-biography), Eliot, Tennyson, Bernard Shaw and Wilde had produced great literatures; and the football league had been established.
 
 
       #### Empire
@@ -171,8 +171,8 @@ textSections:
 
 Yet this was what Victoria did over the 63 years of her reign.
 
-By the time of her [death](https://greatestbritons.com/queen-victoria-biography.html#4): Britain’s empire covered one-quarter of the globe; Britain ruled the waves; Britain was the world’s economic superpower; British literature had produced greats such as Dickens, Eliot and Tennyson; and it was in Britain that the most important scientific advancements were being made.
+By the time of her [death](/queen-victoria-biography#4): Britain’s empire covered one-quarter of the globe; Britain ruled the waves; Britain was the world’s economic superpower; British literature had produced greats such as Dickens, Eliot and Tennyson; and it was in Britain that the most important scientific advancements were being made.
 
-In short, Britain never had it so good. Victoria’s contribution was the continuity and moral example she gave the nation, the good marriages she made for her [nine children](https://greatestbritons.com/queen-victoria-biography.html#1), and the advice and encouragement she gave her [Prime Ministers](https://greatestbritons.com/queen-victoria-biography.html#3). It is for these reasons that this plain, five-foot tall widow is a giant of our history.
+In short, Britain never had it so good. Victoria’s contribution was the continuity and moral example she gave the nation, the good marriages she made for her [nine children](/queen-victoria-biography#1), and the advice and encouragement she gave her [Prime Ministers](/queen-victoria-biography#3). It is for these reasons that this plain, five-foot tall widow is a giant of our history.
 
 She is the tenth greatest Briton.

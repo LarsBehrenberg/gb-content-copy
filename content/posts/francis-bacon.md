@@ -172,6 +172,6 @@ textSections:
 ---
 ## Francis Bacon, Viscount St. Alban was an English Renaissance statesman and scientific philosopher and is considered the “Father of the Scientific Method.”
 
-Rejecting the ancient old method of using logic-based arguments, Bacon discovered and popularized [a new approach](https://greatestbritons.com/francis-bacon-biography.html#2), whereby the laws of science are discovered by gathering and analyzing data from experiments and observations.
+Rejecting the ancient old method of using logic-based arguments, Bacon discovered and popularized [a new approach](/francis-bacon-biography#2), whereby the laws of science are discovered by gathering and analyzing data from experiments and observations.
 
-Bacon was a prolific writer on many subjects, including a notable History of Henry VII. He served many years in Parliament under two monarchs, Queen Elizabeth I and King James I. He was [knighted by King James I](https://greatestbritons.com/francis-bacon-biography.html#3), appointed Solicitor-General and Lord Chancellor. He was raised to the peerage of Baron Verulam and later Viscount St. Albans.
+Bacon was a prolific writer on many subjects, including a notable History of Henry VII. He served many years in Parliament under two monarchs, Queen Elizabeth I and King James I. He was [knighted by King James I](/francis-bacon-biography#3), appointed Solicitor-General and Lord Chancellor. He was raised to the peerage of Baron Verulam and later Viscount St. Albans.

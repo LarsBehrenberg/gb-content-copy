@@ -153,4 +153,4 @@ textSections:
 
 His works frequently featured his home county of Suffolk and he developed his own distinct style for capturing rural life. Whist his paintings were highly criticised by many of his contemporaries in Britain, they were received with rapture in France where he inspired a new artistic movement known as the Barbizon school. Despite this, Constable refused to leave his beloved England and remained there until his death.
 
-Constable's most famous works include the [Hay Wain](https://greatestbritons.com/john-constable-biography.html#3) and [Salisbury Cathedral](https://greatestbritons.com/john-constable-biography.html#3).
+Constable's most famous works include the [Hay Wain](/john-constable-biography#3) and [Salisbury Cathedral](/john-constable-biography#3).

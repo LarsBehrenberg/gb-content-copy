@@ -33,7 +33,7 @@ textSections:
       during a German air raid in World War II.
 
 
-      He was born to Julia and Alfred Lennon, who named him John Winston Lennon after his paternal grandfather, John "Jack" Lennon, and [Prime Minister Winston Churchill](https://greatestbritons.com/winston-churchill-biography.html).
+      He was born to Julia and Alfred Lennon, who named him John Winston Lennon after his paternal grandfather, John "Jack" Lennon, and [Prime Minister Winston Churchill](/winston-churchill-biography).
 
 
       Lennon’s childhood was tumultuous. His father was a merchant seaman who was absent throughout most of Lennon’s life. When he was four years old, Lennon's parents separated and he ended up living with his Aunt Mimi. Lennon's mother, Julia, remarried but visited him and Mimi regularly.

@@ -159,8 +159,8 @@ textSections:
 ---
 ## Lucian Freud was one of Britain’s foremost figurative painters of the twentieth century. He was celebrated for his impasto portraits and figure paintings.
 
-After portrait production in Europe gave way to abstraction and nonfigurative art in the 1940s and 1950s, Freud was among a small group of artists, described as [the School of London](https://greatestbritons.com/lucian-freud-biography.html#2), who doggedly pursued forms of figurative painting. He was also one of the artists in the 1960s and 1970s credited with the revival of portraiture.
+After portrait production in Europe gave way to abstraction and nonfigurative art in the 1940s and 1950s, Freud was among a small group of artists, described as [the School of London](/lucian-freud-biography#2), who doggedly pursued forms of figurative painting. He was also one of the artists in the 1960s and 1970s credited with the revival of portraiture.
 
-Freud was noted for his treatment of the nude figure, particularly female. He took Peter Paul Reubens’s soft [treatment of buxom women to a new level](https://greatestbritons.com/lucian-freud-biography.html#3). His unusual technique and stark interpretation have influenced many contemporary European and American artists as well as wealthy art collectors.
+Freud was noted for his treatment of the nude figure, particularly female. He took Peter Paul Reubens’s soft [treatment of buxom women to a new level](/lucian-freud-biography#3). His unusual technique and stark interpretation have influenced many contemporary European and American artists as well as wealthy art collectors.
 
-Freud was one of the great self-portraitists of the twentieth century. Beginning in 1939 and ending sixty-four years later, his numerous self-portraits are reputed to form one of [the most complete visual autobiographies](https://greatestbritons.com/lucian-freud-biography.html#4) of any painter.
+Freud was one of the great self-portraitists of the twentieth century. Beginning in 1939 and ending sixty-four years later, his numerous self-portraits are reputed to form one of [the most complete visual autobiographies](/lucian-freud-biography#4) of any painter.

@@ -52,7 +52,7 @@ textSections:
   - textTitle: His early career
     text: >-
       ### Sir Walter Raleigh fought in the service of [Queen Elizabeth
-      I](https://greatestbritons.com/elizabeth-the-first-biography.html) in
+      I](/elizabeth-the-first-biography) in
       Ireland between 1579 and 1582, fighting against the Irish rebels in
       Munster.
 
@@ -81,7 +81,7 @@ textSections:
       ### Sir Walter Raleigh was an early supporter of colonising North America.
 
 
-      Between [1585 and 1588](https://greatestbritons.com/british-history-timeline.html#8), Raleigh invested in a number of expeditions across the Atlantic, attempting to establish a colony near Roanoke, on the coast of what is now North Carolin, and name it “Virginia” in honour of the virgin queen, Elizabeth.
+      Between [1585 and 1588](/british-history-timeline#8), Raleigh invested in a number of expeditions across the Atlantic, attempting to establish a colony near Roanoke, on the coast of what is now North Carolin, and name it “Virginia” in honour of the virgin queen, Elizabeth.
 
 
       #### Importing potatoes and tobacco to England
@@ -96,7 +96,7 @@ textSections:
       #### Thrown into the tower of London
 
 
-      Raleigh’s winning streak with the queen, however, took a nosedive in 1592 when it was discovered that he’d secretly married his lover, [Elizabeth ‘Bess’ Throckmorton](https://en.wikipedia.org/wiki/Elizabeth_Raleigh), a lady-in-waiting to [Queen Elizabeth I](https://greatestbritons.com/elizabeth-the-first-biography.html). Bess was already pregnant, which explained both the marriage and the secrecy. Enraged by their plotting behind her back, Elizabeth dismissed Bess and imprisoned both of them in the Tower of London. Walter was himself released after a few months, but banished from court for five years.
+      Raleigh’s winning streak with the queen, however, took a nosedive in 1592 when it was discovered that he’d secretly married his lover, [Elizabeth ‘Bess’ Throckmorton](https://en.wikipedia.org/wiki/Elizabeth_Raleigh), a lady-in-waiting to [Queen Elizabeth I](/elizabeth-the-first-biography). Bess was already pregnant, which explained both the marriage and the secrecy. Enraged by their plotting behind her back, Elizabeth dismissed Bess and imprisoned both of them in the Tower of London. Walter was himself released after a few months, but banished from court for five years.
 
 
       Upon his release, Raleigh hoped to find favour with the queen again. During the time he was banned from the Queen’s Court, Raleigh led a few expeditions one of which was to Guiana (now Venezuela) in 1594 to search for El Dorado - the legendary land of gold.
@@ -182,12 +182,12 @@ textSections:
 ---
 ## One of Britain’s most famous explorers, Sir Walter Raleigh, led many expeditions to America and introduced tobacco and the potato into England.
 
-A soldier, warrior, politician, writer and poet too, Raleigh was equally famed for his relationship with [Queen Elizabeth I](https://greatestbritons.com/sir-walter-raleigh-biography.html#2), in whose court he served. Raleigh first came to the attention of Queen Elizabeth I in 1580 when he went to Ireland to fight against rebels in Munster. On his return, he was invited to the Queen’s court where he made a lasting impression.
+A soldier, warrior, politician, writer and poet too, Raleigh was equally famed for his relationship with [Queen Elizabeth I](/sir-walter-raleigh-biography#2), in whose court he served. Raleigh first came to the attention of Queen Elizabeth I in 1580 when he went to Ireland to fight against rebels in Munster. On his return, he was invited to the Queen’s court where he made a lasting impression.
 
 Once he gained influence at court, Raleigh - who was also motivated by his support for Protestantism and an intense dislike of Spain - promoted the idea of creating English colonies in North America to challenge Spanish colonial policy.
 
-The Queen rewarded Raleigh with the right to [colonise North America](https://greatestbritons.com/sir-walter-raleigh-biography.html#3), and he even chose the name of the first English colony in America, Roanoke Island (now north Carolina), naming it Virginia in honour of the virgin queen. Raleigh was also granted large estates in Ireland, monopolies, trade privileges, and a knighthood.
+The Queen rewarded Raleigh with the right to [colonise North America](/sir-walter-raleigh-biography#3), and he even chose the name of the first English colony in America, Roanoke Island (now north Carolina), naming it Virginia in honour of the virgin queen. Raleigh was also granted large estates in Ireland, monopolies, trade privileges, and a knighthood.
 
-But the charm of Raleigh often landed him in trouble and he [fell out of favour](https://greatestbritons.com/sir-walter-raleigh-biography.html#4) with the Queen, which led to him being imprisoned in the Tower of London. On his release, he continued his colonial ventures in an attempt to win back the Queen’s trust - setting off to South America in search of the mythical golden land of El Dorado.
+But the charm of Raleigh often landed him in trouble and he [fell out of favour](/sir-walter-raleigh-biography#4) with the Queen, which led to him being imprisoned in the Tower of London. On his release, he continued his colonial ventures in an attempt to win back the Queen’s trust - setting off to South America in search of the mythical golden land of El Dorado.
 
 He failed to impress the Queen’s successor, James I of England and VI of Scotland. Having spent time imprisoned in the Tower of London again on two further occasions - during which time he wrote poetry and his book The Historie of the World - Raleigh was charged with treason. He was executed outside the Palace of Westminster in 1618.

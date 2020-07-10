@@ -47,13 +47,13 @@ textSections:
       #### Bridges, Railways and Ships
 
 
-      When Brunel branched out on his own, he devoted himself to three main things: bridges, railways and ships. His most famous [bridge](https://greatestbritons.com/isambard-kingdom-brunel.html#3) is the Clifton Suspension Bridge over the River Avon, at the time the world’s longest suspension bridge; Brunel won the design competition for this bridge in 1831.
+      When Brunel branched out on his own, he devoted himself to three main things: bridges, railways and ships. His most famous [bridge](/isambard-kingdom-brunel#3) is the Clifton Suspension Bridge over the River Avon, at the time the world’s longest suspension bridge; Brunel won the design competition for this bridge in 1831.
 
 
-      Brunel was then appointed Chief Engineer of the [Great Western Railway](https://greatestbritons.com/isambard-kingdom-brunel.html#2) and many smaller railway companies up and down the land. The Great Western is world-famous for its architecture, in particular the Paddington and Bristol Temple Meads stations, the Hanwell and Chippenham viaducts, the Maidenhead Bridge and Box Tunnel.
+      Brunel was then appointed Chief Engineer of the [Great Western Railway](/isambard-kingdom-brunel#2) and many smaller railway companies up and down the land. The Great Western is world-famous for its architecture, in particular the Paddington and Bristol Temple Meads stations, the Hanwell and Chippenham viaducts, the Maidenhead Bridge and Box Tunnel.
 
 
-      Brunel also designed three [steamships](https://greatestbritons.com/isambard-kingdom-brunel.html#4), each bigger than the last: the Great Western (which steamed to America in 12 ½ days); the Great Britain (the first iron ship with screw propellers); and the Great Eastern (the largest ship of its time, but which proved impractical and was eventually scrapped).
+      Brunel also designed three [steamships](/isambard-kingdom-brunel#4), each bigger than the last: the Great Western (which steamed to America in 12 ½ days); the Great Britain (the first iron ship with screw propellers); and the Great Eastern (the largest ship of its time, but which proved impractical and was eventually scrapped).
 
 
       Brunel’s other endeavours included designing a field hospital for use in the Crimean war, designing dockyards, and the design of a novel but commercially unsuccessful atmospheric railway.
@@ -65,7 +65,7 @@ textSections:
       Brunel was married with three children. But he was a workaholic whose health failed as a result of stress. He suffered a stroke after the launch of the Great Eastern in September 1859 and died a week later at the age of 53.
 
 
-      Brunel died too young to be knighted by [Queen Victoria](https://greatestbritons.com/queen-victoria-biography.html), something his father achieved in 1841 for work on the Thames Tunnel.
+      Brunel died too young to be knighted by [Queen Victoria](/queen-victoria-biography), something his father achieved in 1841 for work on the Thames Tunnel.
 
 
       In his time, Brunel was seen as a brilliant, creative and unreliable engineer who was not the equal of Robert Stevenson (who is most famous for the Rocket locomotive and his work on the Stockton and Darlington Railway). Posterity has judged Brunel more kindly, with a university even being named after him.
@@ -211,7 +211,7 @@ textSections:
 
 In his 53 years, the world changed: iron and steam became the technologies of choice to achieve projects of unprecedented ambition and scale.
 
-Brunel was responsible for much of this: he built a tunnel underneath the Thames, the greatest passenger [railway line](https://greatestbritons.com/isambard-kingdom-brunel.html#2) the world had ever seen, the world’s [longest bridges](https://greatestbritons.com/isambard-kingdom-brunel.html#3), and the biggest and most [advanced ships](https://greatestbritons.com/isambard-kingdom-brunel.html#4).
+Brunel was responsible for much of this: he built a tunnel underneath the Thames, the greatest passenger [railway line](/isambard-kingdom-brunel#2) the world had ever seen, the world’s [longest bridges](/isambard-kingdom-brunel#3), and the biggest and most [advanced ships](/isambard-kingdom-brunel#4).
 
 Some of Brunel’s projects ended in failure, such as his atmospheric railway and the third of his massive ships. But he had the vision to imagine what could be achieved and the skill, drive and persistence to bring his plans to fruition.
 

@@ -53,7 +53,7 @@ textSections:
       Newton returned to Cambridge, as a fellow of Trinity College, two years later. He was promoted to be the Lucasian Professor of Mathematics in 1669, probably as a result of his invention of the [reflecting telescope](https://en.wikipedia.org/wiki/Newtonian_telescope) (which brought him to the attention of the scientific establishment) the previous year.
 
 
-      Newton, however, refused to take holy orders, as was required by the University’s bylaws, and [Charles II](https://greatestbritons.com/isaac-newton-biography.html#) granted him a special dispensation.
+      Newton, however, refused to take holy orders, as was required by the University’s bylaws, and [Charles II](/isaac-newton-biography#) granted him a special dispensation.
 
 
       Newton’s greatest work, *Philosophiae Naturalis Principia Mathematica* (Mathematical Principles of Natural Philosophy), was published in 1687. His second most influential book, *Opticks*, followed in 1704.
@@ -172,7 +172,7 @@ textSections:
       Some say that Newton waited for his critics to die before he published Opticks.
 
 
-      Newton ranks ahead of the nation's other leading scientists, including names such as [Charles Darwin](https://greatestbritons.com/charles-darwin-biography.html), Alexander Flemming, Boyle, Watson and Crick, Professor Willmot and [Tim Berners-Lee](https://greatestbritons.com/tim-berners-lee-biography.html).
+      Newton ranks ahead of the nation's other leading scientists, including names such as [Charles Darwin](/charles-darwin-biography), Alexander Flemming, Boyle, Watson and Crick, Professor Willmot and [Tim Berners-Lee](/tim-berners-lee-biography).
     buttonToggle: false
     sideGalleryImages:
       - imageTitle: Isaac Newton's Opticks, published by Sam Smith in 1704
@@ -181,7 +181,7 @@ textSections:
           constituent colours.
         imageUrl: /assets/isaac-newton-refracting-light.jpg
 ---
-## Newton is probably the most influential scientist in history, though da Vinci, [Darwin](https://greatestbritons.com/charles-darwin-biography.html) and Einstein could make credible claims to this crown.
+## Newton is probably the most influential scientist in history, though da Vinci, [Darwin](/charles-darwin-biography) and Einstein could make credible claims to this crown.
 
 In a period of about two years, working from a Lincolnshire manor, Newton developed his theory of universal gravitation (which explains why an apple falls to earth, the moon orbits the earth, and the earth orbits the sun), devised his three laws of motion, invented infinitesimal calculus, and made profound advances in the understanding of light.
 

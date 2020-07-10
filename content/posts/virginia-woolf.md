@@ -174,4 +174,4 @@ textSections:
 ---
 ## Virginia Woolf was one of the best known and most outstanding writers of the modernist movement in literature.
 
-Woolf was among the early advocates of the use of [‘stream of consciousness’](https://greatestbritons.com/virginia-woolf-biography.html#4) as a narrative device. She raised the bar and pioneered essays on artistic theory, literary history, women’s writing, and the politics of power. She was an [untiring literary journalist](https://greatestbritons.com/virginia-woolf-biography.html#2) and championed a generously democratic vision of literature and of the reading life.
+Woolf was among the early advocates of the use of [‘stream of consciousness’](/virginia-woolf-biography#4) as a narrative device. She raised the bar and pioneered essays on artistic theory, literary history, women’s writing, and the politics of power. She was an [untiring literary journalist](/virginia-woolf-biography#2) and championed a generously democratic vision of literature and of the reading life.

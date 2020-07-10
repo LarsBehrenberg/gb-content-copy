@@ -181,4 +181,4 @@ textSections:
 ---
 ## Alfred was a devout Christian and steered Wessex in a revival of Christian learning and Christian worship. He orchestrated a tremendous revival of literacy, promoting reading for everyone, stressing that it be in English rather than in Latin.
 
-Level-headed and merciful, Alfred revised the legal codes, but he was deeply [committed to justice](https://greatestbritons.com/alfred-the-great-biography.html#1) and the rule of law. Alfred was a [fierce warrior](https://greatestbritons.com/alfred-the-great-biography.html#2) who fought the Vikings alongside his men on land and sea for nearly a quarter century. In AD 896, he broke [the Viking’s spirit](https://greatestbritons.com/alfred-the-great-biography.html#3).
+Level-headed and merciful, Alfred revised the legal codes, but he was deeply [committed to justice](/alfred-the-great-biography#1) and the rule of law. Alfred was a [fierce warrior](/alfred-the-great-biography#2) who fought the Vikings alongside his men on land and sea for nearly a quarter century. In AD 896, he broke [the Viking’s spirit](/alfred-the-great-biography#3).

@@ -169,10 +169,10 @@ textSections:
           Square, Edinburgh (© Kim Traynor, CC BY-SA 3.0)
         imageUrl: /assets/king-charles-ii-statue-edinburgh.jpg
 ---
-## Charles II became King of England, Scotland and Ireland in 1660 at the time of the [restoration of the monarchy](https://greatestbritons.com/british-history-timeline.html#6), following 11 years when the nation was a Commonwealth.
+## Charles II became King of England, Scotland and Ireland in 1660 at the time of the [restoration of the monarchy](/british-history-timeline#6), following 11 years when the nation was a Commonwealth.
 
-His life was shaped by his father’s, King Charles I, defeat in the English civil war and his subsequent [execution](https://greatestbritons.com/king-charles-ii-biography.html#1). Charles II lived many of his formative years in exile before returning home following the [collapse](https://greatestbritons.com/king-charles-ii-biography.html#2) of the republican government.
+His life was shaped by his father’s, King Charles I, defeat in the English civil war and his subsequent [execution](/king-charles-ii-biography#1). Charles II lived many of his formative years in exile before returning home following the [collapse](/king-charles-ii-biography#2) of the republican government.
 
-His [reign as King](https://greatestbritons.com/king-charles-ii-biography.html#3) was marked by the disasters of the Great Plague and the Great Fire of London, as well as religious distrust, with many of his protestant countryman fearing Charles II was Catholic at heart. His reign saw a rise in colonial interests and trade in places such as India, the East Indies and America.
+His [reign as King](/king-charles-ii-biography#3) was marked by the disasters of the Great Plague and the Great Fire of London, as well as religious distrust, with many of his protestant countryman fearing Charles II was Catholic at heart. His reign saw a rise in colonial interests and trade in places such as India, the East Indies and America.
 
-Known as ‘The Merry Monarch’, the court of King Charles II was known to enjoy a [hedonistic lifestyle](https://greatestbritons.com/king-charles-ii-biography.html#4). He was considered charming and affable with an exuberant nature, though his charm could not prevent frequent quarrels with his Parliament.
+Known as ‘The Merry Monarch’, the court of King Charles II was known to enjoy a [hedonistic lifestyle](/king-charles-ii-biography#4). He was considered charming and affable with an exuberant nature, though his charm could not prevent frequent quarrels with his Parliament.

@@ -173,7 +173,7 @@ textSections:
       Now, more than 150 years after his death, Turner is considered to be one of the greatest artists in British history (alongside Thomas Gainsborough, John Constable and Alfred Sisley).
 
 
-      His art has inspired hundreds of painters, including [Claude Monet](https://thingstodoeverywhere.com/claude-monet-biography.html) and other greats of the Impressionist movement.
+      His art has inspired hundreds of painters, including [Claude Monet](https://thingstodoeverywhere.com/claude-monet-biography) and other greats of the Impressionist movement.
 
 
       In conjunction, he has been attributed with paving the way for the Abstract Expressionists and the emergence of modern art as we know it today. Though he was a controversial figure during his life, he is now regarded as an indisputable visionary and trailblazer.
@@ -182,7 +182,7 @@ textSections:
       #### Rain, Steam and Speed
 
 
-      Another of Turner's greatest paintings was Rain, Steam and Speed. Capturing a speeding train crossing a bridge whilst being pounded by rain, this painting was an iconic representation of the [industrial revolution](https://greatestbritons.com/british-history-timeline.html#5). The bridge is the Maidenhead Bridge, completed in 1838 (six years before the painting), one of the many accomplishments of Isambard Kingdom Brunel's [Great Western Railway](https://greatestbritons.com/isambard-kingdom-brunel.html).
+      Another of Turner's greatest paintings was Rain, Steam and Speed. Capturing a speeding train crossing a bridge whilst being pounded by rain, this painting was an iconic representation of the [industrial revolution](/british-history-timeline#5). The bridge is the Maidenhead Bridge, completed in 1838 (six years before the painting), one of the many accomplishments of Isambard Kingdom Brunel's [Great Western Railway](/isambard-kingdom-brunel).
 
 
       #### Resources
@@ -204,6 +204,6 @@ textSections:
 
 Known simply as William Turner whilst he was alive, he was famous for his expressive landscapes and seascapes, as well as his experimental use of colour.
 
-Turner showed [early promise](https://greatestbritons.com/william-turner-biography.html#2) as a child and quickly began using his artistic abilities for monetary gain before catching the attention of one of the most prestigious art institutions in England. His [finest works](https://greatestbritons.com/william-turner-biography.html#3) include the Fighting Temeraire and Rain, Steam and Speed.
+Turner showed [early promise](/william-turner-biography#2) as a child and quickly began using his artistic abilities for monetary gain before catching the attention of one of the most prestigious art institutions in England. His [finest works](/william-turner-biography#3) include the Fighting Temeraire and Rain, Steam and Speed.
 
-From this start he rose to become one of the greatest artists in British history (alongside [Constable](https://greatestbritons.com/john-constable-biography.html), [Gainsborough](https://greatestbritons.com/thomas-gainsborough-biography.html) and [Sisley](https://impressionistarts.com/alfred-sisley-biography.html)), gathering national fame during his life and even more so after his death.
+From this start he rose to become one of the greatest artists in British history (alongside [Constable](/john-constable-biography), [Gainsborough](/thomas-gainsborough-biography) and [Sisley](https://impressionistarts.com/alfred-sisley-biography)), gathering national fame during his life and even more so after his death.

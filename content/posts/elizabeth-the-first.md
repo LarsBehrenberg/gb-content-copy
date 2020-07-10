@@ -155,7 +155,7 @@ textSections:
       peace and the advancement of culture and understanding.
 
 
-      In particular, the [Elizabethan age](https://greatestbritons.com/british-history-timeline.html#8) (or the 'golden age') saw some of the great names in English literature ([Shakespeare](https://greatestbritons.com/william-shakespeare-biography.html) and Marlow first amongst them) and the exploration of the globe (by, in particular, [Drake’s](https://greatestbritons.com/sir-francis-drake-biography.html) 1577-80 circumnavigation).
+      In particular, the [Elizabethan age](/british-history-timeline#8) (or the 'golden age') saw some of the great names in English literature ([Shakespeare](/william-shakespeare-biography) and Marlow first amongst them) and the exploration of the globe (by, in particular, [Drake’s](/sir-francis-drake-biography) 1577-80 circumnavigation).
 
 
       Elizabeth also presided over the formation of the [East India Company](https://en.wikipedia.org/wiki/East_India_Company) in 1600, an important milestone in the establishment of the British Empire.
@@ -168,12 +168,12 @@ textSections:
 ---
 ## In 1558, Elizabeth became Queen of a country divided along religious lines.
 
-Her father, [Henry VIII](https://greatestbritons.com/elizabeth-the-first-biography.html#1), had presided over the reformation: establishing the protestant Church of England and parting from the catholic church and holy Roman empire; and abolishing and seizing the property of the monasteries.
+Her father, [Henry VIII](/elizabeth-the-first-biography#1), had presided over the reformation: establishing the protestant Church of England and parting from the catholic church and holy Roman empire; and abolishing and seizing the property of the monasteries.
 
-But her catholic half-sister, [Queen Mary I](https://greatestbritons.com/elizabeth-the-first-biography.html#1) (also known as Mary Tudor and Bloody Mary), sought to undo much of that change over her five-year reign.
+But her catholic half-sister, [Queen Mary I](/elizabeth-the-first-biography#1) (also known as Mary Tudor and Bloody Mary), sought to undo much of that change over her five-year reign.
 
 Over the 44 years of her Elizabeth's reign, between 1558 and 1603, the 'virgin Queen' proved a skilful political operator.
 
-Her approach meant that the [Church of England](https://greatestbritons.com/elizabeth-the-first-biography.html#2) became firmly established; that threats from Mary Queen of Scots and the [Spanish Armada](https://greatestbritons.com/elizabeth-the-first-biography.html#3) were overcome; that [Shakespeare](https://greatestbritons.com/william-shakespeare-biography.html) and Marlow could write prolifically; and that the seeds of empire could be sown by the likes of [Francis Drake](https://greatestbritons.com/elizabeth-the-first-biography.html#4) and by the establishment of the East India Company.
+Her approach meant that the [Church of England](/elizabeth-the-first-biography#2) became firmly established; that threats from Mary Queen of Scots and the [Spanish Armada](/elizabeth-the-first-biography#3) were overcome; that [Shakespeare](/william-shakespeare-biography) and Marlow could write prolifically; and that the seeds of empire could be sown by the likes of [Francis Drake](/elizabeth-the-first-biography#4) and by the establishment of the East India Company.
 
 Elizabeth created the conditions that made these achievements possible. She is the eleventh greatest Briton.

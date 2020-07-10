@@ -165,7 +165,7 @@ textSections:
       > "Although I'm severely disabled, I have been successful in my scientific work,"
 
 
-      Stephen Hawking died in his home in Cambridge, England on 14 March 2018. He was 76. His ashes were placed in [London’s Westminster Abbey](https://thingstodoeverywhere.com/central-london-attractions.html) between the final resting places of [Sir Isaac Newton](https://greatestbritons.com/isaac-newton-biography.html) and [Charles Darwin](https://greatestbritons.com/charles-darwin-biography.html).
+      Stephen Hawking died in his home in Cambridge, England on 14 March 2018. He was 76. His ashes were placed in [London’s Westminster Abbey](https://thingstodoeverywhere.com/central-london-attractions.html) between the final resting places of [Sir Isaac Newton](/isaac-newton-biography) and [Charles Darwin](/charles-darwin-biography).
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: "'Black holes and baby universes and Other Essays' by Stephen
@@ -224,7 +224,7 @@ textSections:
 
 The author of popular science books like ['A Brief History of Time’](https://en.wikipedia.org/wiki/A_Brief_History_of_Time) and [‘The Universe in a Nutshell’](https://en.wikipedia.org/wiki/The_Universe_in_a_Nutshell), as well as a series of children’s fiction books on the creation of the universe including [‘George and the Big Bang’](https://en.wikipedia.org/wiki/George_and_the_Big_Bang), Hawking was applauded for helping to make science accessible to a wider audience, beyond scientists. That coupled with a good sense of humour made him one of the most recognisable scientists of modern times, and held in regard as one of the most remarkable theoretical physicists since Einstein.
 
-In 1963, Hawking contracted [amyotrophic lateral sclerosis (ALS)](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) or motor neurone disease and was given three years to live. Yet he went on to [Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) to become a researcher and professor. From 1979 to 2009 he held the post of [Lucasian Professor](https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics) at Cambridge, the chair held by [Isaac Newton](https://greatestbritons.com/isaac-newton-biography.html) in 1663. Hawking received over a dozen honorary degrees and was awarded the [CBE](https://en.wikipedia.org/wiki/CBE_(disambiguation)) in 1982.
+In 1963, Hawking contracted [amyotrophic lateral sclerosis (ALS)](https://en.wikipedia.org/wiki/Amyotrophic_lateral_sclerosis) or motor neurone disease and was given three years to live. Yet he went on to [Cambridge](https://en.wikipedia.org/wiki/University_of_Cambridge) to become a researcher and professor. From 1979 to 2009 he held the post of [Lucasian Professor](https://en.wikipedia.org/wiki/Lucasian_Professor_of_Mathematics) at Cambridge, the chair held by [Isaac Newton](/isaac-newton-biography) in 1663. Hawking received over a dozen honorary degrees and was awarded the [CBE](https://en.wikipedia.org/wiki/CBE_(disambiguation)) in 1982.
 
 Over the course of his career, Hawking studied the basic laws governing the universe. He proposed that, since the universe boasts a beginning —[the Big Bang](https://en.wikipedia.org/wiki/Big_Bang)— it likely will have an ending. Hawking later proposed that the universe itself has no boundary, never encountering a “wall” that would be described as the “end”.
 

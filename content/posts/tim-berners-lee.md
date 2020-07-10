@@ -294,7 +294,7 @@ textSections:
       #### Most important invention since ...
 
 
-      In terms of impact, the internet is probably the most important invention since [Victorian times](https://greatestbritons.com/queen-victoria-biography.html), and the most significant advance in communication since the invention of the printing press (ahead of Marconi's radio and Bell's telephone).
+      In terms of impact, the internet is probably the most important invention since [Victorian times](/queen-victoria-biography), and the most significant advance in communication since the invention of the printing press (ahead of Marconi's radio and Bell's telephone).
 
 
       [Ian Goldin](https://www.oxfordmartin.ox.ac.uk/people/1), Professor of Globalisation and Development at Oxford University, has said
@@ -346,10 +346,10 @@ textSections:
 
 Globally, the number of internet users passed 4 billion in 2018, with its use continuing to grow at the rate of about one billion every five years.
 
-This was all made possible by a diffident but gifted English physicist and computer programmer, Sir Tim Berners-Lee. He devised, in 1991, the[ first web server](https://greatestbritons.com/tim-berners-lee-biography.html#2) and web browser that allowed information held on private networks to be accessed by anyone with similar technology. In other words, he invented the world wide web.
+This was all made possible by a diffident but gifted English physicist and computer programmer, Sir Tim Berners-Lee. He devised, in 1991, the[ first web server](/tim-berners-lee-biography#2) and web browser that allowed information held on private networks to be accessed by anyone with similar technology. In other words, he invented the world wide web.
 
-Berners-Lee, or Tim BL as he is often referred to online, has spent the next decades honing his invention, implementing [web standards](https://greatestbritons.com/tim-berners-lee-biography.html#3), and championing and safeguarding the world's new way of communicating and accessing information.
+Berners-Lee, or Tim BL as he is often referred to online, has spent the next decades honing his invention, implementing [web standards](/tim-berners-lee-biography#3), and championing and safeguarding the world's new way of communicating and accessing information.
 
-Berners-Lee’s innovation is the most important of at least the last 50 years. And it is the most significant advancement in communication since the [Gutenberg printing press](https://greatestbritons.com/tim-berners-lee-biography.html#4).
+Berners-Lee’s innovation is the most important of at least the last 50 years. And it is the most significant advancement in communication since the [Gutenberg printing press](/tim-berners-lee-biography#4).
 
 He is the tenth greatest Briton.

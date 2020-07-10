@@ -195,6 +195,6 @@ textSections:
 
 For over sixty years he served in the House of Commons, three times as Chancellor of the Exchequer and four times as Prime Minister. He moved easily from the Conservative Party to the Liberal Party. An 1891 cartoon by Punch, a British weekly magazine of humor and satire, depicted Gladstone as an ‘All round politician.’
 
-Among Gladstone’s strengths was as a steward of [Britain’s finances](https://greatestbritons.com/william-gladstone-biography.html#2). He lent charm to each budget he presented and made thousands eager to follow the public balance-sheet. He disliked borrowing and when Britain entered the [Crimean War](https://greatestbritons.com/british-history-timeline.html#5), he raised the income tax to fund it. Later, a free trade agreement with France enabled him to gradually lower the income tax.
+Among Gladstone’s strengths was as a steward of [Britain’s finances](/william-gladstone-biography#2). He lent charm to each budget he presented and made thousands eager to follow the public balance-sheet. He disliked borrowing and when Britain entered the [Crimean War](/british-history-timeline#5), he raised the income tax to fund it. Later, a free trade agreement with France enabled him to gradually lower the income tax.
 
-Gladstone attempted to follow three ideals; equality of opportunity, free trade, and laissez-faire economic policies. He faced constant opposition, but he never [gave up](https://greatestbritons.com/william-gladstone-biography.html#4).
+Gladstone attempted to follow three ideals; equality of opportunity, free trade, and laissez-faire economic policies. He faced constant opposition, but he never [gave up](/william-gladstone-biography#4).

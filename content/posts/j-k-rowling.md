@@ -147,7 +147,7 @@ textSections:
       the most loved and most recognised characters in entertainment history.
 
 
-      As the author of the bestselling children’s books, [J.K. Rowling](https://greatestbritons.com/jk-rowling-biography.html#) is just as well known worldwide as the wizard and other magic users that she created.
+      As the author of the bestselling children’s books, [J.K. Rowling](/jk-rowling-biography#) is just as well known worldwide as the wizard and other magic users that she created.
 
 
       Harry Potter is now a global brand which includes the Watford-based themepark Warner Bros. Studio Tour London. The series, totalling 4,195 pages, has been translated into 80 languages.
@@ -159,7 +159,7 @@ textSections:
       Rowling has received many awards and honours, including an OBE for services to children’s literature, France’s Légion d’Honneur, and the Hans Christian Andersen Award. Although she does not plan to write any more books in the Harry Potter series, she has not entirely ruled out the possibility.
 
 
-      She is truly one of Britain's most successful writers among others like [George Orwell](https://greatestbritons.com/george-orwell-biography.html) or [Charles Dickens](https://greatestbritons.com/charles-dickens-biography.html).
+      She is truly one of Britain's most successful writers among others like [George Orwell](/george-orwell-biography) or [Charles Dickens](/charles-dickens-biography).
     buttonToggle: false
     sideGalleryImages:
       - imageTitle: A photo of J.K. Rowling reading from Harry Potter and the Sorcerer's
@@ -177,12 +177,12 @@ textSections:
 ---
 ## A natural born storyteller, Rowling - who wrote her first book called Rabbit at the age of six – came up with the idea of Harry Potter in 1990.
 
-Magic is very much alive and well in the British isles, and author Joanne Rowling, better known by her pen name J.K. Rowling, most certainly brought that to light in her [Harry Potter series](https://greatestbritons.com/jk-rowling-biography.html#2), touching the lives of children and adults in one of the most popular book and film franchises in history.
+Magic is very much alive and well in the British isles, and author Joanne Rowling, better known by her pen name J.K. Rowling, most certainly brought that to light in her [Harry Potter series](/jk-rowling-biography#2), touching the lives of children and adults in one of the most popular book and film franchises in history.
 
-The creator behind the bespectacled wizard and his magical tales [grew up surrounded by books](https://greatestbritons.com/jk-rowling-biography.html#1). “I lived for books,” she said. “I was your basic common-or-garden bookworm, complete with freckles and National Health spectacles.”
+The creator behind the bespectacled wizard and his magical tales [grew up surrounded by books](/jk-rowling-biography#1). “I lived for books,” she said. “I was your basic common-or-garden bookworm, complete with freckles and National Health spectacles.”
 
-It was while sitting on a delayed train from Manchester to London King’s Cross - the station which would became home to the most famous albeit fictional railway platform in the world, Platform 9¾ - that the legendary wizard was born. Over the next five years, she began to map out all [seven books of the series](https://greatestbritons.com/jk-rowling-biography.html#2) - amassing copious notes of which many were scribbled on odd scraps of paper.
+It was while sitting on a delayed train from Manchester to London King’s Cross - the station which would became home to the most famous albeit fictional railway platform in the world, Platform 9¾ - that the legendary wizard was born. Over the next five years, she began to map out all [seven books of the series](/jk-rowling-biography#2) - amassing copious notes of which many were scribbled on odd scraps of paper.
 
 The Harry Potter author received a number of rejections before selling her first book, Harry Potter and the Philosopher's Stone in 1997, which quickly became a bestseller. The Harry Potter series is now published in 80 languages, and over 500 million copies have been sold across the world. The books were adapted for the big screen across eight movies. Starring Daniel Radcliffe, Emma Watson and Rupert Grint, the movies proved as popular as the books.
 
-Rowling has also written books for adults including crime novels. In 2016, she made her screenwriting debut with the film [Fantastic Beasts and Where to Find Them](https://greatestbritons.com/jk-rowling-biography.html#3). A further exploration of the world of magic and wizadry, the new series of adventures featuring Magizoologist Newt Scamander is planned as a five-film series.
+Rowling has also written books for adults including crime novels. In 2016, she made her screenwriting debut with the film [Fantastic Beasts and Where to Find Them](/jk-rowling-biography#3). A further exploration of the world of magic and wizadry, the new series of adventures featuring Magizoologist Newt Scamander is planned as a five-film series.
