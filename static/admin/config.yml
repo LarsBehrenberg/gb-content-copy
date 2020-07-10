@@ -43,7 +43,7 @@ collections:
           name: 'title',
           label: 'Title',
           hint: 'The title of the article',
-          default: 'Impressionist artist',
+          default: 'The Greatest Briton',
         }
       - {
           name: 'body',
