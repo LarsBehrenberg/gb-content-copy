@@ -51,16 +51,16 @@ textSections:
       <h4>Key Event 1: The Internet</h4>
 
 
-      **1991:** The internet is invented by [Tim Berners-Lee](https://greatestbritons.com/tim-berners-lee-biography.html). The invention is the most important in the field of communications since the Gutenberg printing press. It is now used by over 4.177 billion people. Tim BL, as he is known online, has spent the next 28 years refining his idea and acting as a guardian of the web.
+      **1991:** The internet is invented by [Tim Berners-Lee](/tim-berners-lee-biography). The invention is the most important in the field of communications since the Gutenberg printing press. It is now used by over 4.177 billion people. Tim BL, as he is known online, has spent the next 28 years refining his idea and acting as a guardian of the web.
 
 
       </div>
 
 
-      **1981:** England win the Ashes, rejuvinated by a swashbuckling 149 not out by [Ian Botham](https://greatestbritons.com/ian-botham-biography.html) at Headingley.
+      **1981:** England win the Ashes, rejuvinated by a swashbuckling 149 not out by [Ian Botham](/ian-botham-biography) at Headingley.
 
 
-      **1979-90:** [Margaret Thatcher](https://greatestbritons.com/margaret-thatcher-biography.html) is prime minister. Her right-wing policies of privatisation and breaking the trade unions prove controversial but pave the way for the economic booms of the 1990s and early 2000s. Between April and June 1982, Britain successfully recaptures the Falkland Islands after they are invaded by Argentina. Thatcher was known for her big perm, handbags, strong leadership and oratory:
+      **1979-90:** [Margaret Thatcher](/margaret-thatcher-biography) is prime minister. Her right-wing policies of privatisation and breaking the trade unions prove controversial but pave the way for the economic booms of the 1990s and early 2000s. Between April and June 1982, Britain successfully recaptures the Falkland Islands after they are invaded by Argentina. Thatcher was known for her big perm, handbags, strong leadership and oratory:
 
 
       > "The Lady's not for turning."
@@ -76,7 +76,7 @@ textSections:
       **1973:**  Britain joins the EEC, its membership having been blocked for a number of years by Charles de Gaulle. A referendum followed two years later, when voters emphatically ratified Britain's membership (67.2% for and 32.8% against)
 
 
-      **30 July 1966:** England wins the Football World Cup, beating West Germany 4-2 in the final held at [Wembley](https://thingstodoeverywhere.com/west-london-attractions.html#4), West London. The match was tied at 2-2 after full time, with Geoff Hurst's two extra time goals sealing victory. Captain [Bobby Moore](https://greatestbritons.com/bobby-moore-biography.html) was presented with the trophy by Queen Elizabeth II, with the team including legendery defender [Bobby Charlton](https://greatestbritons.com/bobby-charlton-biography.html).
+      **30 July 1966:** England wins the Football World Cup, beating West Germany 4-2 in the final held at [Wembley](https://thingstodoeverywhere.com/west-london-attractions.html#4), West London. The match was tied at 2-2 after full time, with Geoff Hurst's two extra time goals sealing victory. Captain [Bobby Moore](/bobby-moore-biography) was presented with the trophy by Queen Elizabeth II, with the team including legendery defender [Bobby Charlton](/bobby-charlton-biography).
 
 
       **1960:** The Beatles are formed in [Liverpool](https://thingstodoeverywhere.com/visit-liverpool-attractions.html). Over the next decade the Fab Four become the most important band in history.
@@ -97,7 +97,7 @@ textSections:
       **June-Dec 1956:** President Nasser of Egypt forcibly nationalises the Suez Canal, previously owned and run by the Suez Canal Company (controlled by British and French interests). Britain, France and Israel jointly invade Egypt to retake control and oust Nasser. But their military operation comes to an end under political pressure from the US, USSR and UN. Anthony Eden, the then Prime Minister, resigns in humiliation. The Suez crisis is widely regarded as ending Britain's status as a superpower.
 
 
-      **1953:** Englishman [Francis Crick](https://greatestbritons.com/francis-crick-biography.html) and American James Watson discover the double-helix structure of DNA whilst working at Cambridge University's Cavendish research laboratory.
+      **1953:** Englishman [Francis Crick](/francis-crick-biography) and American James Watson discover the double-helix structure of DNA whilst working at Cambridge University's Cavendish research laboratory.
 
 
       **2 June 1953:** Queen Elizabeth II's coronation (she has actually reigned since 6 February 1952). She is to become the longest-serving monarch, surpassing Queen Victoria's 63 years 216 days on the throne in September 2015. Elizabeth II's coronation comes less than a week after a British-led expedition conquers [Mount Everest](https://thingstodoeverywhere.com/climbing-mount-everest.html) (though the triumphant climbers, Sir Edmund Hillary and Tenzing Norgay, were from New Zealand and Nepal respectively).
@@ -121,7 +121,7 @@ textSections:
       </div>
 
 
-      **July 1945:** Clement Atlee's labour party trounces [Churchill's conservatives](https://greatestbritons.com/winston-churchill-biography.html) in an election held immediately after the conclusion of the Second World War. The country decided that the man to lead them in times of war was not a suitable peace-time premier.
+      **July 1945:** Clement Atlee's labour party trounces [Churchill's conservatives](/winston-churchill-biography) in an election held immediately after the conclusion of the Second World War. The country decided that the man to lead them in times of war was not a suitable peace-time premier.
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: Berners-Lee's achievements were celebrated during the opening
@@ -189,7 +189,7 @@ textSections:
       > We shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our island, whatever the cost may be. We shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender
 
 
-      **10 May 1940:** Germany invades France, Belgium and Holland using its 'blitzkreig' tactics. On the same day, Churchill replaces [Neville Chamberlain](https://greatestbritons.com/winston-churchill-biography.html#4) as Prime Minister (though a number in the conservative party, and King George VI, favoured the appointment of Lord Halifax).
+      **10 May 1940:** Germany invades France, Belgium and Holland using its 'blitzkreig' tactics. On the same day, Churchill replaces [Neville Chamberlain](/winston-churchill-biography#4) as Prime Minister (though a number in the conservative party, and King George VI, favoured the appointment of Lord Halifax).
 
 
       **1 September 1939:** Germany invades Poland. Britain and France declare war on Germany two days later, but do little to help Poland. Britain enters a period known as the "phony war", which was to last until April 1940.
@@ -214,7 +214,7 @@ textSections:
       **September 1938:** Neville Chamberlain returns from a summit in Munich with Adolf Hitler. In return for agreeing to cede parts of Czechoslovakia to the dictator, Chamberlain said that Hitler he had secured Hitler's agreement to "peace in our time". Chamberlain's motives were good, World War I having killed over 8 million, but he was naive.
 
 
-      One of the few to see that Chamberlain was wrong was [Winston Churchill](https://greatestbritons.com/winston-churchill-biography.html). He told Chamberlain:
+      One of the few to see that Chamberlain was wrong was [Winston Churchill](/winston-churchill-biography). He told Chamberlain:
 
 
       > "You were given the choice between war and dishonour. You chose dishonour, and you will have war."
@@ -228,7 +228,7 @@ textSections:
 
 
 
-      **1932-3:** Douglas Jardine's England beat Australia in the infamous 'Bodline' series. Fast bowler[Harold Larwood](https://greatestbritons.com/harold-larwood-biography.html)follows his captain's orders, takes 33 wickets and never plays for England again.
+      **1932-3:** Douglas Jardine's England beat Australia in the infamous 'Bodline' series. Fast bowler[Harold Larwood](/harold-larwood-biography)follows his captain's orders, takes 33 wickets and never plays for England again.
 
 
       **1929-32:** The Great Depression, following the New York stock market crash of 1929, hits the nation. Exports halve and unemployment doubles. The country begins to emerge from the downturn in 1934, following the slashing of unemployment benefit to save money and leaving the gold standard (reducing the value of sterling and thus encouraging exports).
@@ -282,13 +282,13 @@ textSections:
       **6 April 1917:** The US, led by President Woodrow Wilson, enters the war to support Britain and France.
 
 
-      **December 1916:** Welshman [David Lloyd George](https://greatestbritons.com/david-lloyd-george-biography.html) becomes Prime Minister, replacing H.H.Asquith.
+      **December 1916:** Welshman [David Lloyd George](/david-lloyd-george-biography) becomes Prime Minister, replacing H.H.Asquith.
 
 
       **1 July to 18 November 1916:** The Battle of the Somme takes place, one of the bloodiest battles in human history. Over three million men take part, with over one million killed or injured. The battle was also the first to feature primitive tanks.
 
 
-      **Feb 1915 to Jan 1916:** The [Gallipoli campaign](https://greatestbritons.com/winston-churchill-biography.html#2) takes place, the chief sponsor of which is Winston Churchill. The audacious plan is to take control of one of the straits linking the Aegean and Black Seas, thereby weakening the Ottoman empire's supply routes and bolstering Russia. But the amphibious landing was difficult and little progress made. The allied forces give up in January 1916, having sustained casualties of about 302,000.
+      **Feb 1915 to Jan 1916:** The [Gallipoli campaign](/winston-churchill-biography#2) takes place, the chief sponsor of which is Winston Churchill. The audacious plan is to take control of one of the straits linking the Aegean and Black Seas, thereby weakening the Ottoman empire's supply routes and bolstering Russia. But the amphibious landing was difficult and little progress made. The allied forces give up in January 1916, having sustained casualties of about 302,000.
 
 
       **Christmas Day 1914:** British and German soldiers hold football matches in no-man's land, a touching act of humanity in a thoroughly inhumane war. There were some similar gestures the next year, but by 1916 the use of poison gas and the Battle of the Somme brought an end to the tradition.
@@ -328,7 +328,7 @@ textSections:
       **1876:** Scotsman Alexander Graham Bell invents the telephone.
 
 
-      **1 May 1876:** Queen Victoria is proclaimed [Empress of India](https://greatestbritons.com/queen-victoria-biography.html#2), some 18 years after the British Government assumed direct control over India (taking over from the East India Company) when it passed the Government of India Act.
+      **1 May 1876:** Queen Victoria is proclaimed [Empress of India](/queen-victoria-biography#2), some 18 years after the British Government assumed direct control over India (taking over from the East India Company) when it passed the Government of India Act.
 
 
       **15 August 1867:** The Second Reform Act is passed, doubling the size of the electorate and giving about one-third of adult males the vote. Officially known as the Representation of the People Act 1867, the legislation chiefly enfranchised working-class men working in the cities.
@@ -343,19 +343,19 @@ textSections:
       <h4>Key Event 4: Darwin's Big Idea</h4>
 
 
-      **24 November 1859:** Charles Darwin's [On the Origin of Species](https://greatestbritons.com/charles-darwin-biography.html) is published. The book, accepted as the foundation for evolutionary biology, drew on Darwin's experiences on board The Beagle and proved controversial because it challenged religion and how people saw the world.
+      **24 November 1859:** Charles Darwin's [On the Origin of Species](/charles-darwin-biography) is published. The book, accepted as the foundation for evolutionary biology, drew on Darwin's experiences on board The Beagle and proved controversial because it challenged religion and how people saw the world.
 
 
       </div>
 
 
-      **1854-6:** Britain and France fight Russia in the Crimean War. Notable battles include the Battle of Balaclava, immortalised in Tennyson's Charge of the Light Brigade. Russia sues for peace and the Treaty of Paris brings the war to an end. Meanwhile, [Florence Nightingale](https://greatestbritons.com/florence-nightingale-biography.html), also known as the Lady with the Lamp, pioneers modern nursing.
+      **1854-6:** Britain and France fight Russia in the Crimean War. Notable battles include the Battle of Balaclava, immortalised in Tennyson's Charge of the Light Brigade. Russia sues for peace and the Treaty of Paris brings the war to an end. Meanwhile, [Florence Nightingale](/florence-nightingale-biography), also known as the Lady with the Lamp, pioneers modern nursing.
 
 
       **1851:** The [Great Exhibition](https://en.wikipedia.org/wiki/The_Great_Exhibition) is held in Crystal Palace, London. Twenty-five countries take part with over six million visitors attending. The Great Exhibition is the first of a number of world fairs that became popular in the 19th century.
 
 
-      **1848:** [W.G.Grace](https://greatestbritons.com/wg-grace-biography.html) is born. He is later to become the most famous sportsman of his generation, popularising cricket over the second half of the 19th century.
+      **1848:** [W.G.Grace](/wg-grace-biography) is born. He is later to become the most famous sportsman of his generation, popularising cricket over the second half of the 19th century.
 
 
       **1845-49:** The Irish Famine claims the lives of over a million people and sees about two million emigrate.
@@ -367,10 +367,10 @@ textSections:
       **1 August 1838:** Slavery is finally abolished in the British Empire when it is outlawed in the Caribbean.
 
 
-      **1837-9:** Charles Dickens publishes [Oliver Twist](https://greatestbritons.com/charles-dickens-biography.html#3), his second novel after the Pickwick Papers, about an orphan born into a workhouse and then apprenticed to an undertaker. Characters include Fagin and the Artful Dodger. The book is published by instalments in a magazine called Bentley's Miscellany. It was followed by a string of other hits, including A Tale of Two Cities (which has sold over 200 million copies).
+      **1837-9:** Charles Dickens publishes [Oliver Twist](/charles-dickens-biography#3), his second novel after the Pickwick Papers, about an orphan born into a workhouse and then apprenticed to an undertaker. Characters include Fagin and the Artful Dodger. The book is published by instalments in a magazine called Bentley's Miscellany. It was followed by a string of other hits, including A Tale of Two Cities (which has sold over 200 million copies).
 
 
-      **1838:** The Great Western Railway, masterminded by [Isambard Kingdom Brunel](https://greatestbritons.com/isambard-kingdom-brunel.html), runs its first trains between Paddington in London and Maidenhead Bridge. The line was later extended to Bristol Temple Meads.
+      **1838:** The Great Western Railway, masterminded by [Isambard Kingdom Brunel](/isambard-kingdom-brunel), runs its first trains between Paddington in London and Maidenhead Bridge. The line was later extended to Bristol Temple Meads.
 
 
       **20 June 1837:** Queen Victoria ascends to the throne at the age of 18.
@@ -419,13 +419,13 @@ textSections:
       <h4>Key Event 5: Waterloo</h4>
 
 
-      **1815:** The [Duke of Wellington](https://greatestbritons.com/duke-of-wellington-biography.html) defeats Napoleon Bonaparte at the Battle of Waterloo, which took place about nine miles from Brussels. But Wellington nearly lost, with last-minute Prussian reinforcements tipping the scales. As Wellington later remarked, it was the "closest-run thing you ever saw in your life". The battle ended centuries of conflict between Britain and France and paved the way for relative peace in Europe until the outbreak of World War One.
+      **1815:** The [Duke of Wellington](/duke-of-wellington-biography) defeats Napoleon Bonaparte at the Battle of Waterloo, which took place about nine miles from Brussels. But Wellington nearly lost, with last-minute Prussian reinforcements tipping the scales. As Wellington later remarked, it was the "closest-run thing you ever saw in your life". The battle ended centuries of conflict between Britain and France and paved the way for relative peace in Europe until the outbreak of World War One.
 
 
       </div>
 
 
-      **1813:** [Jane Austen's](https://greatestbritons.com/jane-austen-biography.html) Pride and Prejudice is published.
+      **1813:** [Jane Austen's](/jane-austen-biography) Pride and Prejudice is published.
 
 
       **1811:** George III becomes delusional and his powers are taken up by his son, who becomes known as George, Prince Regent.
@@ -437,7 +437,7 @@ textSections:
       **1805:** Admiral Nelson defeats the French and Spanish navies at the Battle of Trafalgar, held off the southwest coast of Spain near Cape Trafalgar. Britain has 27 ships, six fewer than the French and Spanish. Nelson triumphs, sinking or capturing 22 opposing ships, but is fatally wounded during the battle. His body is preserved in a cask of brandy and he is buried in the crypt of St Paul's Cathedral.
 
 
-      **1802:** [John Constable](https://greatestbritons.com/john-constable-biography.html), the finest painter of the English countryside, first exhibits at the Royal Academy.
+      **1802:** [John Constable](/john-constable-biography), the finest painter of the English countryside, first exhibits at the Royal Academy.
 
 
       **1800:** The Act of Union comes into force, uniting the Kingdoms of Great Britain and Ireland.
@@ -446,7 +446,7 @@ textSections:
       **1775-1783:** Great Britain loses the American Revolutionary wars, being overwhelmed by a combination of American, French, Spanish and Dutch troops. The defeat is regarded as a national disaster, signalling a loss of world influence. But the reversal was more than made up for in the following decades by the expansion of empire.
 
 
-      **1775:** [J.M.W. Turner](https://greatestbritons.com/william-turner-biography.html) is born. His paintings of light and dark revolutionise the art world and he goes on to become one of the most famous British artists of all time.
+      **1775:** [J.M.W. Turner](/william-turner-biography) is born. His paintings of light and dark revolutionise the art world and he goes on to become one of the most famous British artists of all time.
 
 
       **1769-70:** Australia and New Zealand are claimed as British colonies by Captain James Cook.
@@ -591,7 +591,7 @@ textSections:
       </div>
 
 
-      Key dates in James I's reign are 1605 (when the catholic Guy Fawkes' [gunpowder plot](https://en.wikipedia.org/wiki/Gunpowder_Plot) to blow up Parliament was foiled) and 1611 (when the English-language King James Bible, still widely used today, was published). The Golden Age of Elizabethan literature continues under Charles I, with writers such as [William Shakespeare](https://greatestbritons.com/william-shakespeare-biography.html) (who died in 1616) and John Donne (who died in 1631).
+      Key dates in James I's reign are 1605 (when the catholic Guy Fawkes' [gunpowder plot](https://en.wikipedia.org/wiki/Gunpowder_Plot) to blow up Parliament was foiled) and 1611 (when the English-language King James Bible, still widely used today, was published). The Golden Age of Elizabethan literature continues under Charles I, with writers such as [William Shakespeare](/william-shakespeare-biography) (who died in 1616) and John Donne (who died in 1631).
     buttonToggle: true
     sideGalleryImages:
       - imageTitle: Queen Anne was the last of the Stuarts. Her reign was marred by
@@ -619,7 +619,7 @@ textSections:
       <h4>Key Event 7: the Spanish Armada</h4>
 
 
-      **1588:** Britain defeats the Spanish Armada, a fleet of 130 ships that set sail under the command of the Duke of Medina in May 1588. Elizabeth gives her famous [Tilbury speech](https://greatestbritons.com/elizabeth-the-first-biography.html):
+      **1588:** Britain defeats the Spanish Armada, a fleet of 130 ships that set sail under the command of the Duke of Medina in May 1588. Elizabeth gives her famous [Tilbury speech](/elizabeth-the-first-biography):
 
 
       > "I know I have the body of a weak and feeble woman; but I have the heart and stomach of a king – and of a King of England too."
@@ -631,13 +631,13 @@ textSections:
       </div>
 
 
-      **1585:** [Sir Walter Raleigh](https://greatestbritons.com/sir-walter-raleigh-biography.html) sails to America and sponsors the first English colony there.
+      **1585:** [Sir Walter Raleigh](/sir-walter-raleigh-biography) sails to America and sponsors the first English colony there.
 
 
-      **1577-80:** [Sir Francis Drake](https://greatestbritons.com/sir-francis-drake-biography.html) becomes the first Englishman to circumnavigate the globe.
+      **1577-80:** [Sir Francis Drake](/sir-francis-drake-biography) becomes the first Englishman to circumnavigate the globe.
 
 
-      **1558:** [Elizabeth I](https://greatestbritons.com/elizabeth-the-first-biography.html), the daughter of Henry VIII and his second wife Anne Boleyn, ascends to the throne. She reverses Bloody Mary's pro-catholic measures, though is fairly tolerant in religious matters. Her reign is known for relative peace, prosperity and advancement of the arts (led by the great playwrights Shakespeare and Marlowe).
+      **1558:** [Elizabeth I](/elizabeth-the-first-biography), the daughter of Henry VIII and his second wife Anne Boleyn, ascends to the throne. She reverses Bloody Mary's pro-catholic measures, though is fairly tolerant in religious matters. Her reign is known for relative peace, prosperity and advancement of the arts (led by the great playwrights Shakespeare and Marlowe).
 
 
       <div class="interesting">
