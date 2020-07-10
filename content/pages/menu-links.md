@@ -7,6 +7,8 @@ menuLinkList:
     dropdown:
       - label: Winston Churchill
         path: /winston-churchill-biography
+      - label: Queen Victoria
+        path: /queen-victoria-biography
     path: /
   - label: Gallery
     path: /gallery
