@@ -347,7 +347,7 @@ collections:
                   name: path,
                   widget: string,
                   pattern:
-                    ['^[a-z0-9-]+$', "This slug doesn't fit the right format"],
+                    ['^[a-z0-9-\/]+$', "This slug doesn't fit the right format"],
                 }
               - label: Dropdown List
                 name: dropdown
@@ -360,7 +360,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -383,7 +383,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -398,7 +398,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -413,7 +413,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -432,7 +432,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -447,7 +447,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -462,7 +462,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
@@ -477,7 +477,7 @@ collections:
                       widget: string,
                       pattern:
                         [
-                          '^[a-z0-9-]+$',
+                          '^[a-z0-9-\/]+$',
                           "This slug doesn't fit the right format",
                         ],
                     }
