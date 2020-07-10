@@ -236,8 +236,8 @@ const Header = ({
                       <>
                         {bodyTitles.slice(0, 7).map((value, index) => {
                           return (
-                            <a
-                              href={`#${index + 1}`}
+                            <Link
+                              to={`#${index + 1}`}
                               className="list-group-item"
                               key={`#${index + 1}`}
                             >
@@ -247,10 +247,10 @@ const Header = ({
                                   __html: bodyTitles[index],
                                 }}
                               />
-                            </a>
+                            </Link>
                           )
                         })}
-                        <a href="#8" className="list-group-item">
+                        <Link to="#8" className="list-group-item">
                           <h5 className="list-group-item-heading">
                             <svg
                               id="i-arrow-right"
@@ -267,7 +267,7 @@ const Header = ({
                             </svg>
                             {bodyTitles.length - 7} more
                           </h5>
-                        </a>
+                        </Link>
                       </>
                     ) : (
                       bodyTitles.map((value, index) => {
