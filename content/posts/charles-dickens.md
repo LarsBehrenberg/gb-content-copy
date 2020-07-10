@@ -59,6 +59,15 @@ textSections:
 
       > Half-past four o’clock—and at five the mover of the Address will be ‘on his legs,’ as the newspapers announce sometimes by way of novelty, as if speakers were occasionally in the habit of standing on their heads. The members are pouring in, one after the other, in shoals. The few spectators who can obtain standing-room in the passages, scrutinise them as they pass, with the utmost interest, and the man who can identify a member occasionally, becomes a person of great importance. Every now and then you hear earnest whispers of ‘That’s Sir John Thomson.’ ‘Which? him with the gilt order round his neck?’ ‘No, no; that’s one of the messengers—that other with the yellow gloves, is Sir John Thomson.’ ‘Here’s Mr. Smith.’ ‘Lor!’ ‘Yes, how d’ye do, sir?—(He is our new member)—How do you do, sir?’ Mr. Smith stops: turns round with an air of enchanting urbanity (for the rumour of an intended dissolution has been very extensively circulated this morning); seizes both the hands of his gratified constituent, and, after greeting him with the most enthusiastic warmth, darts into the lobby with an extraordinary display of ardour in the public cause, leaving an immense impression in his favour on the mind of his ‘fellow-townsman.’
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: An engraving of Charles Dickens working at a blacking warehouse
+        imageUrl: /assets/charles-dickens-working-blacking-warehouse.jpg
+      - imageTitle: Dickens' father was sent to the Marshalsea debtors' prison, in
+          Southwalk London, in 1822 when Dickens was just eight.
+        imageUrl: /assets/charles-dickens-marshalsea-debtors-prison-southwalk.jpg
+      - imageTitle: Dickens' first book was an illustrated collection of his sketches
+          called Sketches by Boz.
+        imageUrl: /assets/charles-dickens-sketches-by-boz-title-pages.jpg
   - textTitle: Later life
     text: >-
       ### Dickens used the success of his sketches to get a deal from publishers
@@ -130,6 +139,13 @@ textSections:
 
       Dickens died of a stroke in June 1870, five years to the day after the Staplehurst crash. He is buried in Westminster Abbey’s Poets Corner.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Charles and Catherine Dickens' marriage certificate
+        imageUrl: /assets/charles-dickens-marriage-certificate.jpg
+      - imageTitle: Dickens left his wife, Catherine, for the actress Ellen Turnan.
+        imageUrl: /assets/charles-dickens-ellen-ternan-mistress.jpg
+      - imageTitle: A waxwork sculpture of Charles Dickens at Madam Tussauds.
+        imageUrl: /assets/charles-dickens-madam-tussauds.jpg
   - textTitle: Novels
     text: >-
       ### Many of Dickens’ novels had autobiographical elements to them.
@@ -179,6 +195,15 @@ textSections:
 
       > "Please, sir, I want some more" (Oliver in Oliver Twist)
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: The title pages of Bleak House
+        imageUrl: /assets/charles-dickens-bleak-house-title-pages.jpg
+      - imageTitle: Dickens' first publishing contract, with Chapman & Hall, for the
+          Pickwick Papers
+        imageUrl: /assets/charles-dickens-first-publishing-contract-pickwick-papers.jpg
+      - imageTitle: An engraving showing Oliver being taught how to pickpocket in Oliver
+          Twist.
+        imageUrl: /assets/charles-dickens-oliver-twist-pickpocketing-engraving.jpg
   - textTitle: Impact
     text: >-
       ### Dickens was the leading Victorian novelist, and probably the greatest
@@ -196,6 +221,9 @@ textSections:
 
       The Times got it right when, on his death, it wrote: "The loss of such a man is an event which makes ordinary expressions of regret seem cold and conventional".
     buttonToggle: false
+    sideGalleryImages:
+      - imageTitle: An etching of Mrs Bucket's friendly behaviour in Bleak House.
+        imageUrl: /assets/charles-dickens-bleak-house-etching.jpg
 ---
 ## Charles Dickens is the greatest Victorian writer.
 
