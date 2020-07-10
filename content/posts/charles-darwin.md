@@ -245,8 +245,6 @@ textSections:
       Interestingly, this is the only time the word 'evolved' is used.
 
 
-
-
       #### Gestation
 
 
@@ -256,21 +254,13 @@ textSections:
       Why? There were a number of reasons:
 
 
-
-
       1. Darwin enjoyed being an active member of various scientific societies in London, in particular the Linnean Society. He knew his book was going to be controversial and was reluctant to risk bringing an abrupt halt to his happy working life
 
       2. Darwin wanted more proof for his theory. He decided to spend a number of years studying barnacles, publishing well-received monographs for which he was awarded the royal medal by the Royal Society of London in 1853. He also corresponded with naturalists around the world, asking them to investigate particular issues and using the results of their research.
 
       3. Personal issues slowed the pace of Darwin's work. He suffered from chronic bowel problems after returning from the Voyage of the Beagle. And Darwin's favourite daughter, Annie, died in 1851. It took Darwin a number of years to get over this bereavement.
 
-         <div class="interesting">
-
-         <h4>Interesting fact ...</h4>
-
          Darwin's correspondence with other naturalists is voluminous: the [Darwin Correspondence Project](https://www.darwinproject.ac.uk/) holds over 8,000 letters (Darwin destroyed many more). Post was the Victorian equivalent of the internet, with Darwin receiving five deliveries a day when living at Down House in Kent (properties in London received up to 12 daily postal deliveries!).
-
-         </div>
 
          #### Publication
 
@@ -278,13 +268,7 @@ textSections:
 
          Darwin did not, however, seek to downplay Wallace’s work: the papers of both men were read to the Linnean Society at a meeting held on 1 July 1858.
 
-         <div class="interesting">
-
-         <h4>Interesting fact ...</h4>
-
          Darwin's publisher, John Murray, could not have had high hopes for the book because the initial print run was limited to 1250 copies. They sold out on the day of publication, 22 November 1859, and a second edition was released the following January.
-
-         </div>
 
          Darwin spent the next decade revising the book to meet arguments made against his theory, expanding its size by about 25%. It has since been translated into 29 different languages, including Icelandic, Arabic and Armenian. The Natural History Museum in London houses a collection of 500 versions of the book.
 
@@ -298,15 +282,9 @@ textSections:
 
          Huxley, who became known as Darwin's Bulldog, and Wilberforce had a number of heated debates. They became known as the Oxford Evolution Debates.
 
-         <div class="interesting">
-
-         <h4>Interesting fact ...</h4>
-
          When Wilberforce asked Huxley whether it was his grandfather or grandmother who was descended from an ape, Huxley said that he would rather be descended from an ape than be a person
 
          > "possessing great means and influence, and yet who employs those faculties for the mere purpose of introducing ridicule into a grave scientific discussion."
-
-         </div>
 
          Darwin's theory was seen as challenging the credibility and supremacy of religion, and the following decades saw Darwin decried and accused of blasphemy, his face appearing on countless caricatures of apes. Darwin himself described the announcement of his theory as akin to confessing to a murder.
     buttonToggle: true
