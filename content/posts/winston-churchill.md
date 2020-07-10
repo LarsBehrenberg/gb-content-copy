@@ -66,7 +66,15 @@ textSections:
 
       It was this position he held at the outbreak of the First World War.
     buttonToggle: true
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: Winston Churchill in Dublin, aged seven
+        imageUrl: /assets/winston-churchill-aged-seven.jpg
+      - imageTitle: Winston Churchill, aged 24, looking rather dashing.
+        imageUrl: /assets/winston-churchill-dashing-aged-24.jpg
+      - imageTitle: "Churchill could never resist action: he went to Sidney Street
+          whilst Home Secretary and took personal command of a siege taking
+          place there."
+        imageUrl: /assets/winston-churchill-sidney-street-siege.jpg
   - textTitle: The First World War
     text: >-
       ### Churchill’s star waxed and waned during the First World War.
@@ -98,6 +106,16 @@ textSections:
 
       Again, Churchill could not be kept away from the action: he spent much time visiting the front line with French Prime Minister Georges Clemenceaux.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: The handsome young Churchill in his fourth hussars uniform; he
+          served, amongst other places, as a subaltern in India.
+        imageUrl: /assets/winston-churchill-fourth-hussars-subaltern.jpg
+      - imageTitle: Churchill started World War One as the first sealord; he was sacked
+          following the disastrous Gallipoli landings.
+        imageUrl: /assets/winston-churchill-first-sealord-world-war-one.jpg
+      - imageTitle: Churchill visiting an amunition factory whilst Minister of Munitions
+          at the end of the First World War.
+        imageUrl: /assets/winston-churchill-minister-of-munitions.jpg
   - textTitle: The Inter-War Years
     text: >-
       ### The Inter-War Years were also mixed for Churchill.
@@ -132,6 +150,16 @@ textSections:
 
       Hitler’s subsequent actions turned public opinion against Chamberlain and proved Churchill right. And so it was that Chamberlain came to re-appoint Churchill as First Lord of the Admiralty on the day Britain declared war on Germany, 3 September 1939.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Churchill with his wife Clementine on budget day in 1929
+        imageUrl: /assets/winston-churchill-on-budget-day-1929.jpg
+      - imageTitle: Neville Chamberlian's war cabinet; Churchill is standing behind
+          Chamberlain
+        imageUrl: /assets/winston-churchill-chamberlains-war-cabinet-1939.jpg
+      - imageTitle: Churchill and Chamberlain together in 1939; Chamberlain was to bring
+          Churchill into his war cabinet only to be replaced by Churchill in
+          1940
+        imageUrl: /assets/winston-churchill-and-chamberlain-1939.jpg
   - textTitle: The Second World War
     text: >-
       ### Churchill did not have to wait long to become Prime Minister.
@@ -196,6 +224,15 @@ textSections:
 
       It is no exaggeration to say that, but for Churchill’s contribution, the war may well have been lost.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Churchill's V for Victory sign, outside 10 Downing Street
+        imageUrl: /assets/winston-churchill-v-sign-10-downing-street.jpg
+      - imageTitle: Churchill with Roosevelt and Stalin at the Yalta summit in the
+          summer of 1945
+        imageUrl: /assets/winston-churchill-yalta-summit-1945-roosevelt-stalin.jpg
+      - imageTitle: Churchill on the banks of the Rhine during the allied invasion of
+          Europe of 1945
+        imageUrl: /assets/winston-churchill-banks-of-rhine-1945.jpg
   - textTitle: Defeat, Re-election and Retirement
     text: >-
       ### No sooner was the war won than Churchill again found himself without
@@ -281,6 +318,12 @@ textSections:
 
       Other fine movies are The Gathering Storm (2002, charting Churchill's wilderness years of the 1930s) and Into the Storm (2009, covering World War II). Churchill's early life is the subject of the 1982 Richard Attenborough-directed [Young Winston](https://en.wikipedia.org/wiki/Young_Winston).
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Winston Churchill waves to crowds following the allied victory in
+          World War Two
+        imageUrl: /assets/winston-churchill-waves-to-crowds-world-war-two.jpg
+      - imageTitle: Winston Churchill painting at Chartwell, puffing away at a cigar
+        imageUrl: /assets/winston-churchill-painting-at-chartwell.jpg
 ---
 ## In his ninety years, Churchill accomplished feats which few, if any, will equal.
 
