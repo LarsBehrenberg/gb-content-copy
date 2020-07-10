@@ -182,9 +182,9 @@ const Header = ({
                 <div className="col-sm-push-9 col-sm-3" id="sidebar">
                   <div className="list-group">
                     {' '}
-                    <a href="#top" className="list-group-item active">
+                    <Link to="#" className="list-group-item active">
                       <h4 className="list-group-item-heading">{title}</h4>
-                    </a>
+                    </Link>
                     {bodyTitles.length === 0 ? (
                       <>
                         <Link
@@ -272,8 +272,8 @@ const Header = ({
                     ) : (
                       bodyTitles.map((value, index) => {
                         return (
-                          <a
-                            href={`#${index + 1}`}
+                          <Link
+                            to={`#${index + 1}`}
                             className="list-group-item"
                             key={`#${index + 1}`}
                           >
@@ -283,7 +283,7 @@ const Header = ({
                                 __html: bodyTitles[index],
                               }}
                             />
-                          </a>
+                          </Link>
                         )
                       })
                     )}
