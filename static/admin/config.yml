@@ -211,7 +211,7 @@ collections:
               name: 'title',
               label: 'Title',
               hint: 'The title of the article',
-              default: 'Impressionist artist',
+              default: 'The Greatest Briton',
             }
           - {
               name: 'body',
@@ -301,7 +301,7 @@ collections:
             name: 'text'
             widget: markdown
             required: true
-            default: 'Feel free to contact us using our contact form below or message us directly at info@impressionistarts.com.'
+            default: 'Feel free to contact us using our contact form below or message us directly at info@greatestbritons.com.'
       - label: 'Legal page content'
         name: 'legal'
         file: '/content/pages/legal.md'
