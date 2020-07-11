@@ -31,13 +31,13 @@ textSections:
       and his wife, Mabel.
 
 
-      #### George 
+      #### George
 
 
       At age ten, George drove horses that carried the coal carriages. At age seventeen, he became an engineman at Water Row Pit in Newburn. He studied at night school to learn reading, writing, and arithmetic. He was illiterate until age eighteen.
 
 
-      #### Robert 
+      #### Robert
 
 
       Robert Stephenson was born on October 16, 1803 in Wellington Quay, Northumberland. He was one of two children born to George, a brakeman, and his wife, Frances Henderson. 
@@ -49,7 +49,7 @@ textSections:
 
 
       When Robert was nineteen, he spent six months at Edinburgh University. He studied natural philosophy, chemistry, and natural history.
-    buttonToggle: true
+    buttonToggle: false
   - textTitle: Early career
     text: >-
       ### In 1801, George became a brakeman for Black Callerton Colliery and the
@@ -68,7 +68,7 @@ textSections:
       In 1806, 1809, and 1812, several blasts at two collieries, West Moor and Brandlings’ Felling Pit, killed over a hundred men. It was a lighting problem.
 
 
-      George believed that he could solve the problem. Several safety lamp designs were tried. Sir Humphry Davy, a foremost scientist, offered his suggestion. He conducted his experiments in the laboratory of the Royal Institute. 
+      George believed that he could solve the problem. Several safety lamp designs were tried. [Sir Humphry Davy](https://en.wikipedia.org/wiki/Humphry_Davy), a foremost scientist, offered his suggestion. He conducted his experiments in the laboratory of the Royal Institute. 
 
 
       George conducted experiments by traveling through a pit at Killingworth at the risk of his life. Unbeknownst to each other, George and Sir Humphrey designed similar lamps.
@@ -83,7 +83,7 @@ textSections:
       #### Robert
 
 
-      After being released from his apprenticeship to Henry Wood, Robert joined his father and helped him survey the Stockton and Darlington Railway. His father had built a locomotive called the Blucher and had gained a modicum of respect in the field. Traveling to Darlington with his father marked the beginning of his railway engineer career. 
+      After being released from his apprenticeship to Henry Wood, Robert joined his father and helped him survey the Stockton and Darlington Railway. His father had built a locomotive called [the Blucher](https://en.wikipedia.org/wiki/Killingworth_locomotives) and had gained a modicum of respect in the field. Traveling to Darlington with his father marked the beginning of his railway engineer career. 
 
 
       Robert’s father decided to form his own company. Robert was invited to invest in the company, along with Edward Pease and Michael Longridge. The company was named Robert Stephenson and Company, Forth Street Works, Newcastle. Robert was made Managing Partner and paid 200 pounds per year.
@@ -92,7 +92,7 @@ textSections:
     text: >-
       ### In 1813, George supervised the construction of a locomotive for the
       Killingworth wagonway in the West Moor Colliery workshops. Blucher was
-      created. 
+      created.
 
 
       #### George
@@ -104,10 +104,10 @@ textSections:
       On March 29, 1820, George married Betty Hindmarsh. He had fallen in love with Betty when they were teenagers. Her father wouldn’t agree to their marriage, because George was poor. She vowed she’d never marry anyone else. She was true to her word.
 
 
-      George consulted for the Hetton Railway. He designed the first railway to use no animal power. Gravity was used for downward inclines and locomotives for level and upward stretches.
+      George consulted for the [Hetton Railway](https://en.wikipedia.org/wiki/Hetton_colliery_railway). He designed the first railway to use no animal power. Gravity was used for downward inclines and locomotives for level and upward stretches.
 
 
-      An invention by John Birkinshaw which perfected wrought iron rails caught George’s attention. His enthusiasm for its possibilities caused a rift between he and Losh. However, Birkinshaw’s firm was not equipped to construct the locomotives and engines of George’s design.
+      An invention by [John Birkinshaw](https://en.wikipedia.org/wiki/John_Birkinshaw) which perfected wrought iron rails caught George’s attention. His enthusiasm for its possibilities caused a rift between he and Losh. However, Birkinshaw’s firm was not equipped to construct the locomotives and engines of George’s design.
 
 
       George believed that the demand for locomotives would increase as railways spread. This led him to form his own company. His company, Robert Stephenson and Company received orders for four locomotives. They were named Locomotion, Hope, Black Diamond, Diligence, Experiment. The latter was the first purpose-built passenger car. In September 1825, the Stockton and Darlington Railway made its successful launch. 
@@ -167,7 +167,7 @@ textSections:
       Robert was a pioneer. He helped to create a new mobility for villages, small towns, townships, and cities. When Robert died, his company, Robert Stephenson and Company had some 1500 employees.
 
 
-      He made generous donations to the Newcastle Locomotive Works and Snibston Collieries (400,000 pounds), the Parker, Bidder, Newcastle Infirmary (10,000 pounds), and the North of England Institute of Mining and Mechanical Engineers (2,000 pounds). He also left 50,000 pounds to his cousin, George Robert Stephenson.
+      He made [generous donations](http://www.robertstephensontrust.com/page16.html#:~:text=The%20Works&text=In%201823%20George%20and%20Robert,Forth%20Banks%2C%20Newcastle%20upon%20Tyne.&text=The%20parts%20of%20Stephenson's%20South,former%20boiler%20and%20plate%20shop.) to the Newcastle Locomotive Works and Snibston Collieries (400,000 pounds), the Parker, Bidder, Newcastle Infirmary (10,000 pounds), and the North of England Institute of Mining and Mechanical Engineers (2,000 pounds). He also left 50,000 pounds to his cousin, George Robert Stephenson.
     buttonToggle: true
 ---
 ## George Stephenson and his son, Robert, were two outstanding mechanical and civil engineers responsible for the most revolutionary innovation of Victorian times.
