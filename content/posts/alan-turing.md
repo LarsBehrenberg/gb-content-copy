@@ -5,24 +5,27 @@ date: 2020-07-11T01:12:13.650Z
 subTitle: Biography of
 title: Alan Turing
 tags: Scientists
-cover: /assets/alfred-the-great-bristol-cathedral-stained-glass.jpg
+cover: /assets/alan-turing-enigma-machine.jpg
 links:
   - post-xFeDEyxoY
   - post-a2SLMUnoo
   - post-EF4PXB1pW
 upperGalleryImages:
   middleImage:
-    middleImageTitle: Passport photo of Alan Turing at age 16
-    middleImageUrl: /assets/alfred-the-great-ethelberht-depiction.jpg
+    middleImageTitle: Alan Turing in 1930
+    middleImageUrl: /assets/alan-turing-in-1930.jpg
   topImage:
-    topImageUrl: /assets/alfred-the-great-bristol-cathedral.jpg
-    topImageTitle: some
+    topImageUrl: /assets/alan-turing-kings-college-fronnt-court-fountain.jpg
+    topImageTitle: King's College, Cambridge, where Turing was a student in 1931 and
+      became a Fellow in 1935. The computer room is named after him. (© Dmitry
+      Tonkonog, CC BY-SA 3.0)
   leftImage:
-    leftImageTitle: some
-    leftImageUrl: /assets/alfred-the-great-bristol-cathedral-stained-glass.jpg
+    leftImageTitle: Pilot ACE (Science Museum, London) (© Antoine Taveneaux, CC BY-SA 3.0)
+    leftImageUrl: /assets/alan-turing-pilot-ace.jpg
   rightImage:
-    rightImageTitle: some
-    rightImageUrl: /assets/alfred-the-great-ethelberht-depiction.jpg
+    rightImageTitle: Turing memorial statue plaque in Sackville Park, Manchester (©
+      Lmno, CC BY-SA 3.0)
+    rightImageUrl: /assets/alan-turing-sackville-park-plaque.jpg
 textSections:
   - textTitle: Turing's early life
     text: >-
