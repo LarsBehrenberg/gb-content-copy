@@ -51,7 +51,15 @@ textSections:
 
       Alan was adventurous and left Dinard on May 2, 1926 and took a ferry from St. Malo to Southampton. From there, he rode his bicycle sixty miles for the better part of two days to Sherbourne, resting overnight at an inn. He arrived on time for the first day on May 3. His five-year tenure was intellectually stimulating, but emotionally bittersweet.
     buttonToggle: true
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: Passport photo of Alan Turing at age 16
+        imageUrl: /assets/alan-turing-aged-16.jpg
+      - imageUrl: /assets/alan-turing-warring-crescent-plaque.jpg
+        imageTitle: Alan Turing blue plaque on the Colonnade Hotel, London, England, his
+          1912 birthplace, installed in 1998. (© Simon Harriyott, CC BY 2.0)
+      - imageUrl: /assets/alan-turing-warring-crescent-hotel.jpg
+        imageTitle: Alan Turing Code Breaker & Pioneer of Computer Science lived here in
+          1912-1954  (© Spudgun67, CC BY-SA 4.0)
   - textTitle: His early career
     text: >-
       ### From 1931 to 1934, Alan attended Kings College, Cambridge. Christopher
@@ -85,6 +93,18 @@ textSections:
 
       When the fellowship didn’t materialize, he decided to stay another year at Princeton and work on a Ph.D. He turned toward Kurt Godel’s work and delved deeper into his theorems of mathematical logic that demonstrated the inherent limits of every formal axiomatic system capable of making basic arithmetic. Alan completed his Ph.D. requirements in 1938 and returned to Cambridge.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/alan-turing-enigma-machine.jpg
+        imageTitle: Encrypting and decryption machine. Exhibited at the "L. Da Vinci"
+          national science and technology museum in Milan. The Enigma machine
+          looks like a dark metal box with, on the upper side, a keyboard
+          bearing 26 letters
+      - imageUrl: /assets/alan-turing-setpiece-from-imitation-game.jpg
+        imageTitle: Set piece from the film The Imitation Game, Bletchley Park,
+          Bletchley, Milton Keynes, Buckinghamshire, England (© William Warby,
+          CC BY 2.0)
+      - imageUrl: /assets/alan-turing-statue-in-paddington.jpg
+        imageTitle: Alan Turing statue in Paddington (© Matt Brown, CC BY 2.0)
   - textTitle: Turing's works
     text: >-
       ## On September 4, 1939, the day after the United Kingdom (UK) declared
@@ -109,6 +129,16 @@ textSections:
 
       In 1954, his housekeeper found him dead in his bed. The death was ruled a suicide by cyanide poisoning.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/alan-turing-bombe-rebuild.jpg
+        imageTitle: A complete and working replica of a bombe now at The National Museum
+          of Computing on Bletchley Park
+      - imageUrl: /assets/alan-turing-building.jpg
+        imageTitle: The Alan Turing Building at the University of Manchester in 2008 (©
+          Mike Peel, CC BY-SA 4.0)
+      - imageUrl: /assets/alan-turing-obe.jpg
+        imageTitle: Turing's OBE currently held in Sherborne School archives (© Elektrik
+          Fanne, CC BY-SA 4.0)
   - textTitle: The legacy
     text: >-
       ### Alan Mathison Turing had an I.Q. of 185: top 0.1% of the population of
@@ -126,7 +156,14 @@ textSections:
 
       Alan Mathison Turing might have been many things, but he was not ‘ordinary.’
     buttonToggle: false
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageUrl: /assets/alan-turing-high-street-hampton-plaque.jpg
+        imageTitle: Alan Turing's plaque on 78 High Street, Hampton  (© Edwardx, CC
+          BY-SA 4.0)
+      - imageUrl: /assets/alan-turing-statue-bletchley.jpg
+        imageTitle: Statue of Turing by Stephen Kettle at Bletchley Park, commissioned
+          by Sidney Frank, built from half a million pieces of Welsh slate. (©
+          Antoine Taveneaux, CC BY-SA 3.0)
 ---
 ## Alan Mathison Turing is regarded as the father of theoretical computer science and artificial intelligence.
 
