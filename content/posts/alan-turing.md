@@ -74,10 +74,10 @@ textSections:
       In 1934, Alan graduated from Kings College. His dissertation was called the Central Limit Theorem. It was a key concept in probability theory because it implied that probabilistic and statistical methods that worked for normal distribution (informally a bell curve) could be applicable to many problems involving other types of distribution. 
 
 
-      Alan had neglected to check to see if his objective had already been obtained. As it turned out, his work had already been proven by Jarl Waldemar Lindeberg in 1922. Alan was told that his work might still be accepted as original work for a King’s Fellowship, provided he did more work on it. In the spring of 1935 Alan was elected a Fellow at Kings College.
+      Alan had neglected to check to see if his objective had already been obtained. As it turned out, his work had already been proven by Jarl Waldemar Lindeberg in 1922. Alan was told that his work might still be accepted as original work for a [King’s Fellowship](http://www.thekingsfellowship.com/), provided he did more work on it. In the spring of 1935 Alan was elected a Fellow at Kings College.
 
 
-      Alan had been intrigued by David Hilbert’s Entscheidungsproblem (decision problem) and the questions it raised. In the summer of 1935, he began to dream of creating a machine that could manipulate symbols and decide the probability of any math assertion presented to it without the interference of human judgment, imagination, or intelligence.
+      Alan had been intrigued by [David Hilbert’s Entscheidungsproblem ](https://en.wikipedia.org/wiki/Entscheidungsproblem)(decision problem) and the questions it raised. In the summer of 1935, he began to dream of creating a machine that could manipulate symbols and decide the probability of any math assertion presented to it without the interference of human judgment, imagination, or intelligence.
 
 
       By simulating the work done by any machine, it would be ‘universal.’ Further, anything performed by a human computer could be done by his machine and perform the equivalent of the human mental activity. In short, this machine would be an ‘electric’ brain.
@@ -116,13 +116,13 @@ textSections:
       It was Britain’s code breaking center that adopted Ultra, a designation for wartime signals intelligence obtained by breaking high level enemy radio and teleprinter communications. Alan’s mission was to ‘crack the code’ for Nazi Germany’s upgraded version of Enigma. Britain was familiar with the details of the Enigma machine’s rotors and the method of decrypting Enigma machine messages. The Polish government, who had briefed them, had also invented the Bomba, a code breaking machine, but the Germans changed its operating procedures which made the Bomba useless.
 
 
-      Alan invented a machine and called it the Bombe. It was an electromechanical machine comprised of the equivalent of thirty-six different Enigma machines, each containing the exact internal wiring of the German counterpart. This machine helped to reduce the work of the code breakers.
+      Alan invented a machine and called it the [Bombe](https://en.wikipedia.org/wiki/Bombe). It was an electromechanical machine comprised of the equivalent of thirty-six different Enigma machines, each containing the exact internal wiring of the German counterpart. This machine helped to reduce the work of the code breakers.
 
 
       Alan invented the Turingery which was the first systematic method for cracking Germany’s Tunny, a German cipher machine teleprinter communications network (much like a mobile phone). After the war, from 1945 until his death in 1954, Alan worked on a series of projects. At the National Physical Laboratory, he designed the Automatic Computing Engine. It was one of the first designs for a stored-program computer. He became Deputy Director of the Computing Machine Laboratory at the Victoria University of Manchester where he worked on software for one of the earliest stored program computers – the Manchester Mark I.
 
 
-      In 1952, Alan turned his attention to mathematical biology and published a paper called The Chemical Basis of Morphogenesis, which discussed the development of patterns and shapes in biological organisms.
+      In 1952, Alan turned his attention to mathematical biology and published a paper called [The Chemical Basis of Morphogenesis](https://en.wikipedia.org/wiki/The_Chemical_Basis_of_Morphogenesis), which discussed the development of patterns and shapes in biological organisms.
 
 
       Later, in that same year, Alan was charged with ‘gross indecency’ under Section 11 of the Criminal Law Amendment Act 1885. He was ordered to undergo treatments designed to reduce the libido. For over a year, he was injected with synthetic oestrogen.
@@ -167,9 +167,9 @@ textSections:
 ---
 ## Alan Mathison Turing is regarded as the father of theoretical computer science and artificial intelligence.
 
-He was a key player in deciphering the German Enigma code used by Nazi Germany during World War II. When the land and sea battles are taken in account, it is estimated that Alan and his colleagues at Bletchley Park shortened the war in Europe by approximately two years and saved over fourteen million lives.
+He was a key player in deciphering the [German Enigma code](#3) used by Nazi Germany during World War II. When the land and sea battles are taken in account, it is estimated that Alan and his [colleagues at Bletchley Park](#3) shortened the war in Europe by approximately two years and saved over fourteen million lives.
 
-In 1946, Alan was appointed an officer of the Order of the British Empire (OBE) and in 1951 a Fellow of the Royal Society (FRS). Alan worked in Manchester toward the end of his life. Several tributes, including a statue and a building have been dedicated in his honor.
+In 1946, Alan was appointed an officer of the Order of the British Empire (OBE) and in 1951 a Fellow of the Royal Society (FRS). Alan worked in Manchester toward the [end of his life](#4). Several tributes, including a statue and a building have been dedicated in his honor.
 
 > “To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.” 
 >
