@@ -5,24 +5,25 @@ date: 2020-07-11T03:21:24.800Z
 subTitle: Biography of
 title: Lennox Claudius Lewis
 tags: Sportsmen
-cover: /assets/alan-turing-aged-16.jpg
+cover: /assets/lennox-boxer-on-the-way.jpg
 links:
   - post-QQcVfj71D
   - post-m8nOk3dSv
   - post-bY2GKS925
 upperGalleryImages:
   topImage:
-    topImageUrl: /assets/alan-turing-aged-16.jpg
-    topImageTitle: more
+    topImageUrl: /assets/lennox-boxer-on-the-way.jpg
+    topImageTitle: A boxer on his way to the ring
   leftImage:
-    leftImageTitle: more
-    leftImageUrl: /assets/alan-turing-aged-16.jpg
+    leftImageTitle: Lennox Lewis at the 2010 Toronto International Film Festival. (©
+      gdcgraphics, CC BY-SA 2.0)
+    leftImageUrl: /assets/lennox-at-toronto-film-festival-2010.jpg
   middleImage:
-    middleImageTitle: more
-    middleImageUrl: /assets/alan-turing-aged-16.jpg
+    middleImageTitle: A boxing match with the crowds cheering
+    middleImageUrl: /assets/lennox-boxing-ring.jpg
   rightImage:
-    rightImageTitle: more
-    rightImageUrl: /assets/alan-turing-aged-16.jpg
+    rightImageTitle: Boxing gloves laying inside the ring
+    rightImageUrl: /assets/lennox-boxing-gloves.jpg
 textSections:
   - textTitle: Early life
     text: >-
@@ -41,6 +42,13 @@ textSections:
 
       The rivals did not keep their appointment, but Lewis decided to try boxing anyway. He met [Arnie Boehm](https://www.theguardian.com/news/2002/oct/12/guardianobituaries.sport), who became his coach, friend, and a father figure. He taught Lewis the difference between ‘fighting’ and ‘boxing.’
     buttonToggle: false
+    sideGalleryImages:
+      - imageUrl: /assets/lennox-in-2008.jpg
+        imageTitle: Lewis in 2008 (© sourdiesel, CC BY 2.0)
+      - imageUrl: /assets/lennox-in-2010.jpg
+        imageTitle: The former heavyweight boxer at the premiere of "Hereafter",
+          directed by Clint Eastwood, during the Toronto International Film
+          Festival, 2010. (© Josh Jenson, CC BY-SA 2.0)
   - textTitle: Early career
     text: >-
       ### At the age of fifteen, Lewis was Ontario Golden Gloves Champion in the
@@ -66,6 +74,9 @@ textSections:
 
       After the Olympics, Lewis decided to turn pro. He wanted to fight under the British flag and moved back to England.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/lennox-in-canada.jpg
+        imageTitle: Lennox Lewis in Canada (© -nikkon-, CC BY-SA 2.0)
   - textTitle: Finest work
     text: >-
       ### Lewis hired little-known Frank Maloney as his manager. It was four
@@ -137,6 +148,12 @@ textSections:
 
       Between 2008 and 2012, Lewis was inducted into three Halls of Fame: Canada Sports, International Boxing, and Ontario Sports.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/lennox-evander-holyfield.jpg
+        imageTitle: Evander Holyfield, Hollywood, CA on December 4, 2011 (© Toglenn, CC
+          BY-SA 3.0)
+      - imageUrl: /assets/lennox-mike-tyson-with-ahmed-salim.jpg
+        imageTitle: Tyson with Ahmed Salim in April 2012 (©Drhbc, CC BY-SA 4.0)
 ---
 ## Lennox Claudius Lewis is regarded as one of the greatest British boxers of all time.
 
