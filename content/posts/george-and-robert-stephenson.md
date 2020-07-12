@@ -5,7 +5,7 @@ date: 2020-07-11T03:07:30.913Z
 subTitle: Biography of
 title: George and Robert Stephenson
 tags: Scientists
-cover: /assets/alan-turing-aged-16.jpg
+cover: /assets/stephenson-killingworth-lcomotive.jpg
 links:
   - post-Qnnbjo6M4
   - post-a2SLMUnoo
