@@ -5,24 +5,26 @@ date: 2020-07-11T03:07:30.913Z
 subTitle: Biography of
 title: George and Robert Stephenson
 tags: Scientists
-cover: /assets/stephenson-killingworth-lcomotive.jpg
+cover: /assets/stephenson-opening-of-the-railway.jpg
 links:
   - post-Qnnbjo6M4
   - post-a2SLMUnoo
   - post-EF4PXB1pW
 upperGalleryImages:
   topImage:
-    topImageUrl: /assets/alan-turing-aged-16.jpg
-    topImageTitle: some
+    topImageUrl: /assets/stephenson-opening-of-the-railway.jpg
+    topImageTitle: The opening of the Stockton and Darlington Railway in 1825
   leftImage:
-    leftImageUrl: /assets/alan-turing-aged-16.jpg
-    leftImageTitle: some
+    leftImageUrl: /assets/stephenson-no-1-engine.jpg
+    leftImageTitle: The No. 1 engine, called Locomotion, for the Stockton & Darlington Railway
   middleImage:
-    middleImageUrl: /assets/alan-turing-building.jpg
-    middleImageTitle: some
+    middleImageUrl: /assets/stephenson-robert-portrait.jpg
+    middleImageTitle: Photograph of Robert Stephenson published in Photographic
+      Portraits of Living Contemporaries, July 1856
   rightImage:
-    rightImageUrl: /assets/alan-turing-building.jpg
-    rightImageTitle: some
+    rightImageUrl: /assets/stephenson-george-portrait.jpg
+    rightImageTitle: George Stephenson PD drawing from UT Library, colored after
+      existing painting
 textSections:
   - textTitle: Early life
     text: >-
@@ -50,6 +52,14 @@ textSections:
 
       When Robert was nineteen, he spent six months at Edinburgh University. He studied natural philosophy, chemistry, and natural history.
     buttonToggle: false
+    sideGalleryImages:
+      - imageUrl: /assets/stephenson-longbenton-cottage.jpg
+        imageTitle: Dial Cottage, Killingworth, where Robert grew up. The sundial
+          installed by Robert and his father can be seen above the front door.
+      - imageUrl: /assets/stephenson-experiment-first-railway-carriage.jpg
+        imageTitle: The Experiment – the first railway carriage
+      - imageUrl: /assets/stephenson-rail-patent.jpg
+        imageTitle: Fishbelly rail with half-lap joint, patented by Stephenson 1816
   - textTitle: Early career
     text: >-
       ### In 1801, George became a brakeman for Black Callerton Colliery and the
@@ -88,6 +98,14 @@ textSections:
 
       Robert’s father decided to form his own company. Robert was invited to invest in the company, along with Edward Pease and Michael Longridge. The company was named Robert Stephenson and Company, Forth Street Works, Newcastle. Robert was made Managing Partner and paid 200 pounds per year.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/stephenson-safety-lamp.jpg
+        imageTitle: Stephenson's safety lamp shown with Davy's lamp on the left
+      - imageUrl: /assets/stephenson-killingworth-lcomotive.jpg
+        imageTitle: Early Stephenson locomotive illustrated in Samuel Smiles' Lives of
+          the Engineers (1862).
+      - imageUrl: /assets/stephenson-first-passenger-railway.jpg
+        imageTitle: The first passenger railway, L&MR
   - textTitle: Finest works
     text: >-
       ### In 1813, George supervised the construction of a locomotive for the
@@ -150,6 +168,14 @@ textSections:
 
       Robert died on October 12, 1859. He was buried in Westminster Abbey.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/stephenson-camden-town-stations.jpg
+        imageTitle: The incline and stationary steam engine chimneys at Camden Town.
+      - imageUrl: /assets/stephenson-people-transfering-trains.jpg
+        imageTitle: An Illustrated London News cartoon showing passengers changing
+          trains at Gloucester
+      - imageUrl: /assets/stephenson-roberts-cottage-at-saint-anna.jpg
+        imageTitle: Robert's cottage at Santa Ana
   - textTitle: Their legacy
     text: >-
       ### George led the world in the development of railways.
@@ -169,6 +195,15 @@ textSections:
 
       He made [generous donations](http://www.robertstephensontrust.com/page16.html#:~:text=The%20Works&text=In%201823%20George%20and%20Robert,Forth%20Banks%2C%20Newcastle%20upon%20Tyne.&text=The%20parts%20of%20Stephenson's%20South,former%20boiler%20and%20plate%20shop.) to the Newcastle Locomotive Works and Snibston Collieries (400,000 pounds), the Parker, Bidder, Newcastle Infirmary (10,000 pounds), and the North of England Institute of Mining and Mechanical Engineers (2,000 pounds). He also left 50,000 pounds to his cousin, George Robert Stephenson.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/stephenson-george-statue.jpg
+        imageTitle: George Stephenson's statue in Chesterfield in March 2011 (© Ashley
+          Dace, CC BY-SA 2.0)
+      - imageUrl: /assets/stephenson-national-railway-museum-george-statue.jpg
+        imageTitle: Statue of George Stephenson at the National Railway Museum, York (©
+          Tagishsimon, CC BY-SA 3.0)
+      - imageUrl: /assets/stephenson-roberts-statue-at-euston.jpg
+        imageTitle: Robert Stephenson statue outside Euston station (© Oxyman, CC BY 2.5)
 ---
 ## George Stephenson and his son, Robert, were two outstanding mechanical and civil engineers responsible for the most revolutionary innovation of Victorian times.
 
