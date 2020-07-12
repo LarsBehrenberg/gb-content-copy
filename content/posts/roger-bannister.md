@@ -5,24 +5,28 @@ date: 2020-07-11T03:37:00.734Z
 subTitle: Biography of
 title: "Roger Bannister "
 tags: Sportsmen
-cover: /assets/alan-turing-aged-16.jpg
+cover: /assets/roger-bannister-and-landy-2004.jpg
 links:
   - post-efwJP8v_Y
   - post-bY2GKS925
   - post-rz18D4vVB
 upperGalleryImages:
   topImage:
-    topImageTitle: some
-    topImageUrl: /assets/alan-turing-aged-16.jpg
+    topImageTitle: Sebastian Coe and Roger Bannister on the 50th anniversary of the
+      four minute mile at Iffley Road 6 May 2004 (©GooglerW, CC BY-SA 4.0)
+    topImageUrl: /assets/roger-bannister-with-coe-in-2004.jpg
   leftImage:
-    leftImageUrl: /assets/alan-turing-aged-16.jpg
-    leftImageTitle: some
+    leftImageUrl: /assets/roger-bannister-westminster-plaque.jpg
+    leftImageTitle: Blue plaque at the Paddington Recreation Ground pavilion
+      (©Mcc84mcc, CC BY-SA 4.0)
   middleImage:
-    middleImageTitle: some
-    middleImageUrl: /assets/alan-turing-aged-16.jpg
+    middleImageTitle: Historic 1953 English runner Roger Bannister. The legendary 4
+      Minute mile run.
+    middleImageUrl: /assets/roger-bannister-in-1953.jpg
   rightImage:
-    rightImageTitle: some
-    rightImageUrl: /assets/alan-turing-aged-16.jpg
+    rightImageTitle: Sir Roger Bannister at the prize presentation of the 2009 Teddy
+      Hall relay race. (© Pruneau, CC BY-SA 3.0)
+    rightImageUrl: /assets/roger-bannister-presentation-2009.jpg
 textSections:
   - textTitle: Early life
     text: >-
@@ -54,6 +58,11 @@ textSections:
 
       In January 1946, Roger sat for his Cambridge scholarship exams and was accepted. As a result of an unsavory ploy by a St. John’s College tutor, Roger was diverted to Oxford. Early in 1946, Roger received a handwritten acceptance letter from the Rector of [Exeter College, Oxford](https://en.wikipedia.org/wiki/Exeter_College,_Oxford) offering him a place at the college to read medicine.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/roger-bannister-with-family-in-1957.jpg
+        imageTitle: Dr Roger Bannister with Wife And New Daughter in 1957 in London
+      - imageUrl: /assets/roger-bannister-with-family-in-1959.jpg
+        imageTitle: Bannister with wife Moyra, son Clive and daughter Carol in 1959
   - textTitle: Early career
     text: >-
       ### Roger arrived at Oxford in early October 1946. One of the first things
@@ -99,6 +108,15 @@ textSections:
 
       In 1954, Roger met Swedish artist, Moyra Elver Jacobsson during the summer of “The Miracle Mile” race. After he graduated from St. Mary’s and passed his medical board exams, they were married in 1955 in Basel, Switzerland. They had four children.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/roger-bannister-iffley-road-track-blue-plaque.jpg
+        imageTitle: Blue plaque at Oxford University's Iffley Road Track, recording the
+          first sub-4-minute mile run by Roger Bannister on 6 May 1954
+          (©Jonathan Bowen, CC BY-SA 3.0)
+      - imageUrl: /assets/roger-bannister-taking-over-landy.jpg
+        imageTitle: Statue in Vancouver immortalising the moment in "The Miracle Mile"
+          when Roger Bannister passed John Landy, with Landy looking back to
+          gauge his lead (©Paul Joseph, CC BY 2.0)
   - textTitle: The legacy
     text: >-
       ### Roger Gilbert Bannister was an extraordinary man. He didn’t allow
@@ -113,6 +131,14 @@ textSections:
 
       In 2011, Roger was diagnosed with Parkinson’s disease. He died on March 3, 2018 at Oxford.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/roger-bannister-and-landy-2004.jpg
+        imageTitle: Roger Bannister and John Landy at Iffley Road on the 50th
+          anniversary of the four-minute mile in 6 May 2004 (©GooglerW, CC BY-SA
+          4.0)
+      - imageUrl: /assets/roger-bannister-lady-bannister.jpg
+        imageTitle: Lady Bannister at the prize presentation of the 2009 Teddy Hall
+          relay race. (©Pruneau, CC BY-SA 3.0)
 ---
 ## Sir Roger Gilbert Bannister was one of the most renown middle distance runners in sports history.
 
