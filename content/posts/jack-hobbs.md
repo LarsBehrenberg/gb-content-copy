@@ -5,24 +5,26 @@ date: 2020-07-11T03:48:12.735Z
 subTitle: Biography of
 title: Jack Hobbs
 tags: Sportsmen
-cover: /assets/alan-turing-aged-16.jpg
+cover: /assets/jack-hobbs-batting-in-1922.jpg
 links:
   - post-QQcVfj71D
   - post-tCoI4Fk8A
   - post-rz18D4vVB
 upperGalleryImages:
   topImage:
-    topImageUrl: /assets/alan-turing-aged-16.jpg
-    topImageTitle: some
+    topImageUrl: /assets/jack-hobbs-signing-autographs-1920.jpg
+    topImageTitle: A group of children asking Jack Hobbs for his autograph in 1920
   leftImage:
-    leftImageTitle: some
-    leftImageUrl: /assets/alan-turing-bombe-rebuild.jpg
+    leftImageTitle: "April 1929: English cricketer Sir Jack Hobbs (1882 - 1963) and
+      his wife on board a steamer crossing the English Channel."
+    leftImageUrl: /assets/jack-hobbs-with-wife-1929.jpg
   middleImage:
-    middleImageTitle: some
-    middleImageUrl: /assets/alan-turing-bombe-rebuild.jpg
+    middleImageTitle: Jack Hobbs, Surrey County cricket club, wearing his MCC
+      England cap and blazer, circa 1920.
+    middleImageUrl: /assets/jack-hobbs-c-1920.jpg
   rightImage:
-    rightImageTitle: some
-    rightImageUrl: /assets/alan-turing-aged-16.jpg
+    rightImageTitle: Jack Hobbs' firm grip on the bat
+    rightImageUrl: /assets/jack-hobbs-grib.jpg
 textSections:
   - textTitle: Early life
     text: >-
@@ -42,6 +44,11 @@ textSections:
 
       As a result of his performance, he was included in Cambridge XI, a team chosen from the best local cricketers, to play against a team of professional cricketers, sponsored by Surrey cricketer, [Tom Hayward](https://en.wikipedia.org/wiki/Tom_Hayward), Hobbs’s boyhood hero. Hobbs’s performance earned him a spot as an amateur for Cambridgeshire.
     buttonToggle: false
+    sideGalleryImages:
+      - imageUrl: /assets/jack-hobbs-young-years.jpg
+        imageTitle: Hobbs in his early career
+      - imageUrl: /assets/jack-hobbs-c-1925.jpg
+        imageTitle: Jack Hobbs in c. 1925
   - textTitle: Early career
     text: >-
       ### In 1902, Hobbs was appointed assistant to a professional cricket coach
@@ -65,6 +72,12 @@ textSections:
 
       During the 1906 season, Hobbs made three centuries and established an effective opening partnership with Hayward. At the end of the season he had made 2,135 runs. He was one of three men to pass 2,000, second to Hayward and eighth nationally. He impressed the [Marylebone Cricket Club](https://en.wikipedia.org/wiki/Marylebone_Cricket_Club) (MCC) and was chosen for the Players team in the prestigious Gentlemen versus Players match.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/jack-hobbs-with-herbert-sutcliffe-in-1925.jpg
+        imageTitle: Hobbs (left) and Sutcliffe opening the batting in Melbourne,
+          Australia, during the second Test in February 1925
+      - imageUrl: /assets/jack-hobbs-in-1922.jpg
+        imageTitle: Jack Hobbs in 1922
   - textTitle: Finest work
     text: >-
       ### During the 1907-1908 season, Hobbs was chosen to travel with his team
@@ -126,6 +139,17 @@ textSections:
 
       In 1934, Hobbs made his final first-class century against Lancashire. Prior to his retirement in 1935, Surrey constructed a new entrance to the Oval and it was named after him.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/jack-hobbs-batting-in-1922.jpg
+        imageTitle: Hobbs (right) opening the batting with Tom Hayward during the County
+          Championship match between Surrey and Warwickshire at the Oval on 2
+          May 1910
+      - imageUrl: /assets/jack-hobbs-with-maurice-tate-tom-hayward.jpg
+        imageTitle: Cricketers Maurice Tate, Tom Hayward and Jack Hobbs (1882 - 1963) at
+          Wisbech where they are playing for Wisbech Cricket team against
+          Marylebone Cricket Club.
+      - imageUrl: /assets/jack-hobbs-wife-and-son.jpg
+        imageTitle: Hobbs' wife and son in 1925
   - textTitle: His legacy
     text: >-
       ### For most of Sir Jack Hobbs life, he was devoted to two things: cricket
@@ -137,6 +161,12 @@ textSections:
 
       Hobbs was dedicated to his passion. Over his thirty-year career, he was a highly respected and successful cricket player. From all accounts, he had a successful marriage. He and his wife Ada were married for fifty-seven years and had four children. They died within months of each other, she in March 1963 and he on December 21, 1963. He was buried in [Hove Cemetery](https://www.brighton-hove.gov.uk/content/life-events-and-communities/deaths-funerals-and-cemeteries/brighton-hove-portslade).
     buttonToggle: false
+    sideGalleryImages:
+      - imageUrl: /assets/jack-hobbs-blue-plaque.jpg
+        imageTitle: Blue plaque for Sir Jack Hobbs. Plaque on the wall of Hobb's Pavillion
+      - imageUrl: /assets/jack-hobbs-parkers-piece.jpg
+        imageTitle: Hobbs regularly practised cricket on Parker's Piece in his youth.
+          (©Peter Church, CC BY-SA 2.0)
 ---
 ## For centuries, sports have been the equalizer for many young men and women. Without respect to birthright or fortune, they have been able to follow their dreams and achieve success.
 
