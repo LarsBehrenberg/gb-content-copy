@@ -19,8 +19,8 @@ upperGalleryImages:
     leftImageTitle: test
     leftImageUrl: /assets/alan-turing-aged-16.jpg
   middleImage:
-    middleImageTitle: test
-    middleImageUrl: /assets/alan-turing-aged-16.jpg
+    middleImageTitle: A Portrait of Aneurin Bevan in 1943
+    middleImageUrl: /assets/aneurin-bevan-1943.jpg
   rightImage:
     rightImageTitle: test
     rightImageUrl: /assets/alan-turing-aged-16.jpg
@@ -47,6 +47,16 @@ textSections:
 
       During World War I unmarried men were conscripted to serve. Bevan was served with papers, but he was rejected when he produced a medical certificate confirming that he had nystagmus, a disease of the eyes.  In 1919, the Tredegar’s Labour Party was formed and Bevan joined. He ran and lost in the West Ward Council elections of April 1919. Later, he sat for an examination for the [South Wales Miners’ Federation (SWMF)](https://en.wikipedia.org/wiki/South_Wales_Miners'_Federation) scholarships and passed. He was sent to Central Labour College in Earl’s Court in West London. For two years, he studied economics, politics, and history.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: The Tredegar Query Club by friends including Aneurin Bevan and
+          Walter Conway. Conway is in the middle of the picture. Aneurin is
+          second from right on the back row and his brother Billy is second
+          right on front row.
+        imageUrl: /assets/clubquery-conway-bevan.jpg
+      - imageTitle: Badge with the logo of the South Wales Area of the National Union of
+          Mineworkers, used to represent the area on the website of the National
+          Union of Mineworkers
+        imageUrl: /assets/south-wales-national-union-of-mineworkers.jpg
   - textTitle: Early Career
     text: >-
       ### In 1922, Bevan was elected to the Tredegar Urban District Council.
@@ -62,6 +72,12 @@ textSections:
 
       The coal-owners and the workers clashed over the prospect of longer hours and lower wages. The [Trades Union Congress](https://en.wikipedia.org/wiki/Trades_Union_Congress) (TUC) announced a General Strike on May 1, 1926. The strike lasted seven months. Bevan became chair of the Council of Action and was largely responsible for organizing the distribution of food. Negotiations failed between the coal owners and the miners. District agreements in each area were made, rather than any form of collective agreement.
     buttonToggle: false
+    sideGalleryImages:
+      - imageUrl: /assets/winston-churchill-1945-victory-address.jpg
+        imageTitle: Winston Churchill's 1945 victory address
+      - imageTitle: Jennie Lee (Bevan's wife) Building at Open University Campus in
+          Milton Keynes, Great Britain. (© Chmee2, CC BY-SA 3.0)
+        imageUrl: /assets/jennie-lee-building.jpg
   - textTitle: Finest Works
     text: >-
       ### After the failure of the 1926 General Strike, Bevan concluded that
@@ -75,9 +91,7 @@ textSections:
       Bevan was a passionate spokesman for the plight of the unemployed. He believed there were inequities in the methods in which the unemployment insurance was administered. He was a staunch critic of anyone he felt opposed the working man and woman, including members of his own party. 
 
 
-      In 1934, Bevan married Janet Lee, known as Jennie Lee. She was a Scottish politician and a Labour member of Parliament. She served in a by-election from 1929-1931 and from 1945-1970.
-
-      During the late thirties and early forties, Bevan succeeded in having himself ‘misunderstood,’ ‘maligned,’ or ‘mistrusted.’ In 1936, he joined the board of the new socialist newspaper, Tribune. He was a Socialist and believed in working class unity. However, many of his articles appeared to some that he was sympathetic toward Communism.
+      In 1934, Bevan married Janet Lee, known as Jennie Lee. She was a Scottish politician and a Labour member of Parliament. She served in a by-election from 1929-1931 and from 1945-1970. During the late thirties and early forties, Bevan succeeded in having himself ‘misunderstood,’ ‘maligned,’ or ‘mistrusted.’ In 1936, he joined the board of the new socialist newspaper, Tribune. He was a Socialist and believed in working class unity. However, many of his articles appeared to some that he was sympathetic toward Communism.
 
 
       Bevan’s rebellious behavior led his party to expel him in 1939 from March to November. He appealed and was readmitted in December 1939.
@@ -106,6 +120,12 @@ textSections:
 
       In 1959, Bevan was elected Deputy Leader of the Labour Party. His tenure was short-lived as he developed stomach cancer and died.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: Bevan talking to a patient at Park Hospital, Manchester, the day the
+          NHS came into being.
+        imageUrl: /assets/anenurin-bevan-minister-of-health-5-july-1948.jpg
+      - imageTitle: Aneurin Bevan speaking in Corwen in 1952 (© Geoff Charles, CC0)
+        imageUrl: /assets/aneurin-bevan-and-wife-jenny-lee.jpg
   - textTitle: The Legacy
     text: >-
       ### Bevan experienced, as a young man, the effects of poverty and
@@ -122,6 +142,14 @@ textSections:
 
       Bevan died on July 6, 1960 at his home in Asheridge Farm, Chesham, Buckinghamshire. His remains were cremated at [Gwent Crematorium in Croesyceiliog](http://www.gwentcrematorium.org.uk/) in a private family ceremony.
     buttonToggle: false
+    sideGalleryImages:
+      - imageTitle: Statue of Bevan in Cardiff by Robert Thomas
+        imageUrl: /assets/aneurin-bevan-statue.jpg
+      - imageTitle: A portrait of Bevan at the Senedd (© fuzzytnth3, CC BY-SA 2.0)
+        imageUrl: /assets/senedd-bevan.jpg
+      - imageTitle: The main stone of the Aneurin Bevan Memorial Stones at the Sirhowy
+          Valley Walk (© Nicholas Mutton, CC BY-SA 2.0)
+        imageUrl: /assets/aneurin-bevan-memorial-stone.jpg
 ---
 ## Aneurin Bevan was one of the most remarkable ministers of the post-war Labour government.
 
