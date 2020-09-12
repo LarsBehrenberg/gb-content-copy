@@ -308,7 +308,7 @@ const AboutUs = ({ data }) => {
                       <div className="list-group">
                         <a href="#top" className="list-group-item active">
                           <h4 className="list-group-item-heading">
-                            Impressionist Painters
+                            The Greatest Britons
                           </h4>
                         </a>
                         {artists.map(artist => (
@@ -322,22 +322,17 @@ const AboutUs = ({ data }) => {
                             </h5>
                           </Link>
                         ))}
-                        <Link
-                          to="/impressionism-quiz"
-                          className="list-group-item active"
-                        >
-                          <h4 className="list-group-item-heading">
-                            Impressionism Quiz
-                          </h4>
+                        <Link to="/quiz" className="list-group-item active">
+                          <h4 className="list-group-item-heading">Our Quiz</h4>
                         </Link>
                         <Link to="/gallery" className="list-group-item active">
                           <h4 className="list-group-item-heading">
-                            Our Gallery
+                            Our Impressionist Gallery
                           </h4>
                         </Link>
                         <Link to="/" className="list-group-item active">
                           <h4 className="list-group-item-heading">
-                            The Painters
+                            The Britons
                           </h4>
                         </Link>
                       </div>

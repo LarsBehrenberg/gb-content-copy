@@ -14,6 +14,5 @@ module.exports = {
   themeColor: '#161C2E',
   backgroundColor: '#161b2e',
   twitter: '', // Twitter Username
-  instagram: '', // Instagram Username - creates the Gallery page
   adsenseId: '', //eg: ca-pub-7292810486004926
 }

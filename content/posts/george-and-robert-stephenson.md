@@ -1,5 +1,6 @@
 ---
 id: post-T0UjNpkKf
+showOnIndex: true
 path: george-and-robert-stephenson-biography
 date: 2020-07-11T03:07:30.913Z
 subTitle: Biography of

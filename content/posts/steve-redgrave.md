@@ -1,5 +1,6 @@
 ---
 id: post-xDAKEyxoY
+showOnIndex: true
 path: steve-redgrave-biography
 date: 2020-04-16T11:51:22.450Z
 subTitle: Biography of

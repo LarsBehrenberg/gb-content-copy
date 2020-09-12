@@ -1,5 +1,6 @@
 ---
 id: post-u6jxqyO73
+showOnIndex: true
 path: richard-lionheart-biography
 date: 2020-07-08T00:32:42.244Z
 subTitle: Biography of

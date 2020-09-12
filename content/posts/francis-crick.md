@@ -1,5 +1,6 @@
 ---
 id: post--p5YXYdN8
+showOnIndex: true
 path: francis-crick-biography
 date: 2020-07-06T02:14:34.342Z
 subTitle: Biography of

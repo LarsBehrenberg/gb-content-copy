@@ -1,5 +1,6 @@
 ---
 id: post-dbFFBxal5
+showOnIndex: true
 path: captain-cook-biography
 date: 2020-07-08T01:26:12.436Z
 subTitle: Biography of

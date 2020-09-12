@@ -1,5 +1,6 @@
 ---
 id: post-RuENtArCJ
+showOnIndex: true
 path: william-turner-biography
 date: 2020-07-06T01:40:04.025Z
 subTitle: Biography of

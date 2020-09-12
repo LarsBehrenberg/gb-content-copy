@@ -3,7 +3,7 @@ menuLinkList:
   - label: Home
     path: /
     dropdown: []
-  - label: The Top 5 Britains
+  - label: Top 5 Britons
     dropdown:
       - label: Winston Churchill
         path: /winston-churchill-biography
@@ -16,10 +16,10 @@ menuLinkList:
       - path: /isaac-newton-biography
         label: Isaac Newton
     path: /
-  - label: The British History
+  - label: British History Timeline
     path: /british-history-timeline
-  - label: Gallery
-    path: /gallery
+  - label: Our Quiz
+    path: /quiz
   - label: More
     dropdown:
       - label: About us

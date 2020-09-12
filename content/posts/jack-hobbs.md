@@ -1,5 +1,6 @@
 ---
 id: post-B_GKprS9D
+showOnIndex: true
 path: jack-hobbs-biography
 date: 2020-07-11T03:48:12.735Z
 subTitle: Biography of

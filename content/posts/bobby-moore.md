@@ -1,5 +1,6 @@
 ---
 id: post-Qv1uBxA0O
+showOnIndex: true
 path: bobby-moore-biography
 date: 2020-07-06T02:44:11.867Z
 subTitle: Biography of

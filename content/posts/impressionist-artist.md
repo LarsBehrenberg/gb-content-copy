@@ -1,5 +1,6 @@
 ---
 id: post-cWM5sOPC9
+showOnIndex: true
 path: jrr-tolkien-biography
 date: 2020-07-08T02:48:23.521Z
 subTitle: Biography of

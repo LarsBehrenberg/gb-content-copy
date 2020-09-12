@@ -50,8 +50,6 @@ const Header = ({
                             width: '100%',
                             height: '100%',
                           }}
-                          loading="eager"
-                          fadeIn={false}
                         />
                       </span>
                     </figure>
@@ -76,8 +74,6 @@ const Header = ({
                               width: '100%',
                               height: '100%',
                             }}
-                            loading="eager"
-                            fadeIn={false}
                           />
                         </span>
                       </figure>
@@ -101,8 +97,6 @@ const Header = ({
                               width: '100%',
                               height: '100%',
                             }}
-                            loading="eager"
-                            fadeIn={false}
                           />
                         </span>
                       </figure>
@@ -129,8 +123,6 @@ const Header = ({
                               width: '100%',
                               height: '100%',
                             }}
-                            loading="eager"
-                            fadeIn={false}
                           />
                         </span>
                       </figure>
@@ -188,47 +180,43 @@ const Header = ({
                     {bodyTitles.length === 0 ? (
                       <>
                         <Link
-                          to="/paul-cezanne-biography"
+                          to="/british-history-timeline"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
-                            Paul Cezanne
+                            British History
                           </h5>
                         </Link>
                         <Link
-                          to="edouard-manet-biography"
+                          to="/winston-churchill-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
-                            {' '}
-                            Edouard Manet
+                            Winston Churchill
                           </h5>
                         </Link>
                         <Link
-                          to="claude-monet-biography"
+                          to="/jk-rowling-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
-                            {' '}
-                            Claude Monet
+                            J.K. Rowling
                           </h5>
                         </Link>
                         <Link
-                          to="pierre-auguste-renoir-biography"
+                          to="/william-shakespeare-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
-                            {' '}
-                            Pierre-Auguste Renoir
+                            William Shakespeare
                           </h5>
                         </Link>
                         <Link
-                          to="edgar-degas-biography"
+                          to="/john-lennon-biography"
                           className="list-group-item"
                         >
                           <h5 className="list-group-item-heading">
-                            {' '}
-                            Edgar Degas
+                            John Lennon
                           </h5>
                         </Link>
                       </>

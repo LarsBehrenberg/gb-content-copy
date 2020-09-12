@@ -1,5 +1,6 @@
 ---
 id: post-tzxdR8sIx
+showOnIndex: true
 path: charles-dickens-biography
 date: 2020-07-10T07:01:09.730Z
 subTitle: Biography of

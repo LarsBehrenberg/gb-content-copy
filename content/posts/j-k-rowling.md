@@ -1,5 +1,6 @@
 ---
 id: post-4BgKxUgvA
+showOnIndex: true
 path: jk-rowling-biography
 date: 2020-07-08T05:21:28.353Z
 subTitle: Biography of

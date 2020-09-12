@@ -1,5 +1,6 @@
 ---
 id: post--ra4JnlOm
+showOnIndex: true
 path: ralph-vaughan-williams-biography
 date: 2020-07-08T05:06:35.260Z
 subTitle: Biography of

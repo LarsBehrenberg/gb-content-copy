@@ -1,5 +1,6 @@
 ---
 id: post-b6tdFRGsA
+showOnIndex: true
 path: william-and-mary-biography
 date: 2020-07-08T07:12:37.616Z
 subTitle: Biography of

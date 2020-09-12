@@ -1,5 +1,6 @@
 ---
 id: post-rimPftCkP
+showOnIndex: true
 path: stephen-hawking-biography
 date: 2020-07-08T00:39:47.896Z
 subTitle: Biography of

@@ -1,5 +1,6 @@
 ---
 id: post-NX9aZJUy-
+showOnIndex: true
 path: virginia-woolf-biography
 date: 2020-07-08T05:46:51.484Z
 subTitle: Biography of

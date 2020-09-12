@@ -1,5 +1,6 @@
 ---
 id: post-RHcD31YnZ
+showOnIndex: true
 path: george-orwell-biography
 date: 2020-07-08T02:26:11.128Z
 subTitle: Biography of

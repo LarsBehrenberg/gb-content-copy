@@ -1,5 +1,6 @@
 ---
 id: post-3fzkjzSTt
+showOnIndex: true
 path: william-gladstone-biography
 date: 2020-07-08T01:55:27.348Z
 subTitle: Biography of

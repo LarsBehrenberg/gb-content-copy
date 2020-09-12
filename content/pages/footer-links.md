@@ -4,8 +4,8 @@ buttonLinkObject:
     label: Isaac Newton
     path: /isaac-newton-biography
   centerButton:
-    label: William Shakespeare
-    path: /william-shakespeare-biography
+    label: British History Quiz
+    path: /quiz
   rightButton:
     label: Queen Elizabeth I
     path: /elizabeth-the-first-biography

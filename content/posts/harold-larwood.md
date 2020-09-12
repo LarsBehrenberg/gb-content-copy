@@ -1,5 +1,6 @@
 ---
 id: post-tCoI4Fk8A
+showOnIndex: true
 path: harold-larwood-biography
 date: 2020-07-06T01:27:18.750Z
 subTitle: Biography of

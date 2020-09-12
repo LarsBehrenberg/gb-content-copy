@@ -1,5 +1,6 @@
 ---
 id: post-SnoEXyjfb
+showOnIndex: true
 path: admiral-nelson-biography
 date: 2020-07-08T00:16:34.838Z
 subTitle: Biography of

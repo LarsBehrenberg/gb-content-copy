@@ -1,5 +1,6 @@
 ---
 id: post-lejVqbYK4
+showOnIndex: true
 path: francis-bacon-biography
 date: 2020-07-08T05:54:37.281Z
 subTitle: Biography of

@@ -1,5 +1,6 @@
 ---
 id: post-U9YVR4QPb
+showOnIndex: true
 path: roger-bannister-biography
 date: 2020-07-11T03:37:00.734Z
 subTitle: Biography of

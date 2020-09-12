@@ -1,5 +1,6 @@
 ---
 id: post-mXMe_6Mj-
+showOnIndex: true
 path: freddie-mercury-biography
 date: 2020-07-08T02:07:23.441Z
 subTitle: Biography of

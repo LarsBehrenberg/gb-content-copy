@@ -1,5 +1,6 @@
 ---
 id: post-PoQyXCRx-
+showOnIndex: true
 path: duke-of-wellington-biography
 date: 2020-07-07T02:06:21.554Z
 subTitle: Biography of

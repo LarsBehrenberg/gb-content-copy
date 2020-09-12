@@ -1,5 +1,6 @@
 ---
 id: post-MUPJA8DF6
+showOnIndex: true
 path: alfred-the-great-biography
 date: 2020-07-08T07:05:38.708Z
 subTitle: Biography of

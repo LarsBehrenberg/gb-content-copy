@@ -1,5 +1,6 @@
 ---
 id: post-PCOIoKD-T
+showOnIndex: true
 path: jane-austen-biography
 date: 2020-07-07T02:51:59.735Z
 subTitle: Biography of

@@ -1,5 +1,6 @@
 ---
 id: post-QQcVfj71D
+showOnIndex: true
 path: wg-grace-biography
 date: 2020-07-06T02:51:57.924Z
 subTitle: Biography of

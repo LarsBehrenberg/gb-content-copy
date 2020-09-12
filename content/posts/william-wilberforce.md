@@ -1,5 +1,6 @@
 ---
 id: post-am0FaUZ0e
+showOnIndex: true
 path: william-wilberforce-biography
 date: 2020-07-07T23:58:24.026Z
 subTitle: Biography of

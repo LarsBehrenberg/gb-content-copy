@@ -1,5 +1,6 @@
 ---
 id: post-lFPHpVO3D
+showOnIndex: true
 path: henry-viii-biography
 date: 2020-07-07T03:11:05.639Z
 subTitle: Biography of

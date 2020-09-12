@@ -1,5 +1,6 @@
 ---
 id: post-jtYxFkzMy
+showOnIndex: true
 path: kelly-holmes-biography
 date: 2020-07-08T03:07:09.731Z
 subTitle: Biography of

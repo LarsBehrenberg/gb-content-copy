@@ -1,5 +1,6 @@
 ---
 id: post-EF4PXB1pW
+showOnIndex: true
 path: isambard-kingdom-brunel
 date: 2020-07-10T07:08:29.572Z
 subTitle: Biography of

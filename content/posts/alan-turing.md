@@ -1,5 +1,6 @@
 ---
 id: post-Qnnbjo6M4
+showOnIndex: true
 path: alan-turing-biography
 date: 2020-07-11T01:12:13.650Z
 subTitle: Biography of

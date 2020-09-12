@@ -1,5 +1,6 @@
 ---
 id: post-U1-H_ScUn
+showOnIndex: true
 path: david-hockney-biography
 date: 2020-07-08T05:42:01.465Z
 subTitle: Biography of

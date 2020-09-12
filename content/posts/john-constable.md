@@ -1,5 +1,6 @@
 ---
 id: post-gx8GqrKCG
+showOnIndex: true
 path: john-constable-biography
 date: 2020-07-06T02:24:55.559Z
 subTitle: Biography of

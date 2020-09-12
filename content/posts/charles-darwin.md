@@ -1,5 +1,6 @@
 ---
 id: post-JBNyaNuRV
+showOnIndex: true
 path: charles-darwin-biography
 date: 2020-07-10T06:44:03.105Z
 subTitle: Biography of

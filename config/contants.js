@@ -1,5 +1,14 @@
 export const pinnedPosts = {
-  'post-xFeKEyxoY': 1, // Winston Churchill
+  'post-ba0GEXafJ': 1, // British History Timeline
+  'post-xFeSJyxoY': 2, // Winston Churchill
+  'post-4BgKxUgvA': 3, // JK Rowling
+  'post-xFeKEyxoY': 4, // William Shakespeare
+  'post-vuyZBOFoz': 5, // John Lennon
+  'post-JBNyaNuRV': 6, // Charles Darwin
+  'post-SnoEXyjfb': 7, // Admiral Nelson
+  'post-TAFGDHnDH': 8, // Tim Berners-Lee
+  'post-n995FmpFi': 9, // Queen Victoria
+  'post-mkMO2OtQ7': 10, // Queen Elizabeth
 }
 
 export const orderedCategories = {
@@ -12,11 +21,13 @@ export const orderedCategories = {
 export const SEOTitles = {
   index: {
     title: 'Home',
-    description: '',
+    description:
+      'The history of Great Britain is a fascinating and tumultuous tale. From war (both civil and foreign) to empire, democracy, scientific progress, and sporting, literary and artistic genius...',
   },
   aboutUs: {
     title: 'About Us',
-    description: '',
+    description:
+      'The history of Great Britain is a fascinating and tumultuous tale. From war (both civil and foreign) to empire, democracy, scientific progress, and sporting, literary and artistic genius...',
   },
   contactUs: {
     title: 'Contact Us',

@@ -117,7 +117,7 @@ const ImageCarousel = () => {
               image {
                 childImageSharp {
                   fluid(maxWidth: 800, quality: 80) {
-                    ...GatsbyImageSharpFluid_withWebp_noBase64
+                    ...GatsbyImageSharpFluid_withWebp
                   }
                 }
               }
@@ -151,8 +151,8 @@ const ImageCarousel = () => {
                 <Img
                   fluid={image.image.childImageSharp.fluid}
                   alt={image.title}
-                  fadeIn={false}
                   loading="eager"
+                  backgroundColor={`#040e1895`}
                 />
               </CarouselImage>
               <OverlayBackground />

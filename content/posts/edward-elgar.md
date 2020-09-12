@@ -1,5 +1,6 @@
 ---
 id: post-D-BUEmJ6z
+showOnIndex: true
 path: edward-elgar-biography
 date: 2020-07-08T01:16:11.799Z
 subTitle: Biography of

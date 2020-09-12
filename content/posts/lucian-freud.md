@@ -1,5 +1,6 @@
 ---
 id: post-aG1iy6mZ-
+showOnIndex: true
 path: lucian-freud-biography
 date: 2020-07-08T07:26:01.797Z
 subTitle: Biography of

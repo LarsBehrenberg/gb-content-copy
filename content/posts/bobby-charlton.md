@@ -1,5 +1,6 @@
 ---
 id: post-bY2GKS925
+showOnIndex: true
 path: bobby-charlton-biography
 date: 2020-07-06T02:36:24.781Z
 subTitle: Biography of

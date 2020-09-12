@@ -1,5 +1,6 @@
 ---
 id: post-EJSD6OZem
+showOnIndex: true
 path: lennox-claudius-lewis-biography
 date: 2020-07-11T03:21:24.800Z
 subTitle: Biography of

@@ -1,5 +1,6 @@
 ---
 id: post-CZdpcbzGn
+showOnIndex: true
 path: virginia-wade-biography
 date: 2020-07-10T04:32:19.489Z
 subTitle: Biography of

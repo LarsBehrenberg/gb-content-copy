@@ -1,5 +1,6 @@
 ---
 id: post-7nSh0deKi
+showOnIndex: true
 path: david-bowie-biography
 date: 2020-07-05T03:26:11.770Z
 subTitle: Biography of

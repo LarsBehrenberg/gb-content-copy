@@ -1,5 +1,6 @@
 ---
 id: post-m8nOk3dSv
+showOnIndex: true
 path: sebastian-coe-biography
 date: 2020-07-06T01:13:02.114Z
 subTitle: Biography of

@@ -2,14 +2,13 @@
 carouselImages:
   - image: /assets/houses-of-parliament.jpg
     title: The British History
-    text: The history of Great Britain is a fascinating and tumultuous tale...
+    text: The history of Great Britain is a fascinating and tumultuous tale ...
     url: british-history-timeline
   - text: Newton is probably the most influential scientist in history...
     title: Isaac Newton
     image: /assets/isaac-newton-william-blake-painting-isaac-newton.jpg
     url: isaac-newton-biography
-  - text: Few British monarchs have ruled at a time when Britain was the leading
-      world power...
+  - text: Few British monarchs have ruled at a time when Britain ruled the waves ...
     title: Queen Victoria
     url: queen-victoria-biography
     image: /assets/queen-victoria-aged-64-1883.jpg

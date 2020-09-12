@@ -1,5 +1,6 @@
 ---
 id: post--oowP-nPq
+showOnIndex: true
 path: florence-nightingale-biography
 date: 2020-07-07T02:45:14.932Z
 subTitle: Biography of

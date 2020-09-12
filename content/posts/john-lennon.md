@@ -1,5 +1,6 @@
 ---
 id: post-vuyZBOFoz
+showOnIndex: true
 path: john-lennon-biography
 date: 2020-07-08T00:06:27.501Z
 subTitle: Biography of

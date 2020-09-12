@@ -1,5 +1,6 @@
 ---
 id: post-TAFGDHnDH
+showOnIndex: true
 path: tim-berners-lee-biography
 date: 2020-07-10T07:14:29.400Z
 subTitle: Biography of

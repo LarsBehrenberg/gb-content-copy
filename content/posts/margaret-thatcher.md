@@ -1,5 +1,6 @@
 ---
 id: post-Nhyf-A4Dk
+showOnIndex: true
 path: margaret-thatcher-biography
 date: 2020-07-10T06:28:52.016Z
 subTitle: Biography of

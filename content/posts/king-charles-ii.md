@@ -1,5 +1,6 @@
 ---
 id: post-5V15nWEi-
+showOnIndex: true
 path: king-charles-ii-biography
 date: 2020-07-08T02:35:43.121Z
 subTitle: Biography of

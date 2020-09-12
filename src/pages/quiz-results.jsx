@@ -57,13 +57,13 @@ class QuizResults extends React.Component {
   finalScoreMessage = score => {
     if (score > 8) {
       document.getElementById('finalMessage').innerText =
-        'Congratulations, you know your Manet from your Monet!'
+        'Congratulations, you know your GreatestBritons!'
     } else if (score >= 6) {
       document.getElementById('finalMessage').innerText =
-        'Good work. But check out our timeline page to get top marks!'
+        'Good work. But check out our British History page to get top marks!'
     } else if (score >= 4) {
       document.getElementById('finalMessage').innerText =
-        "Not bad, but there's room for improvement!  Start with our Monet page."
+        "Not bad, but there's room for improvement!"
     } else {
       document.getElementById('finalMessage').innerText =
         'You need to do some serious research!'
@@ -84,12 +84,12 @@ class QuizResults extends React.Component {
 
             <h2 id="finalMessage">You need to do some serious research!</h2>
             <Form>
-              <StyledLink to="/quiz">Play Again*</StyledLink>
+              <StyledLink to="/quiz">Play Again</StyledLink>
               <StyledLink to="/">Homepage</StyledLink>
             </Form>
-            <h3 style={{ paddingTop: '30px' }}>
+            {/* <h3 style={{ paddingTop: '30px' }}>
               *Our quiz has a database of over 70 questions.
-            </h3>
+            </h3> */}
           </div>
         </ResultWrapper>
       </Layout>

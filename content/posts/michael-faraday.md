@@ -1,5 +1,6 @@
 ---
 id: post-a2SLMUnoo
+showOnIndex: true
 path: michael-faraday-biography
 date: 2020-07-07T03:01:01.096Z
 subTitle: Biography of

@@ -83,15 +83,15 @@ class Game extends React.Component {
     document.getElementById('score').innerHTML = this.score
   }
 
-  // componentDidMount() {
-  //   this.startGame()
-  // }
+  componentDidMount() {
+    this.startGame()
+  }
 
   render() {
     return (
       <div className="container2">
         <div id="game" className="justify-center flex-column">
-          {/* <div id="hud">
+          <div id="hud">
             <div id="hud-item">
               <p id="progressText" className="hud-prefix">
                 Question 1/10
@@ -134,11 +134,7 @@ class Game extends React.Component {
             <p className="choice-text" data-number="4">
               1887
             </p>
-          </div> */}
-          <h1 style={{ textAlign: 'center' }}>
-            We are currently working on a new set of questions, but we'll be
-            back soon!
-          </h1>
+          </div>
         </div>
       </div>
     )

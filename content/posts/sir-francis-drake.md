@@ -1,5 +1,6 @@
 ---
 id: post-PZSTCxcYc
+showOnIndex: true
 path: sir-francis-drake-biography
 date: 2020-07-07T01:59:08.257Z
 subTitle: Biography of

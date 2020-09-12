@@ -1,5 +1,6 @@
 ---
 id: post-u79TnV7DG
+showOnIndex: true
 path: robert-peel-biography
 date: 2020-07-08T05:13:23.090Z
 subTitle: Biography of

@@ -1,5 +1,6 @@
 ---
 id: post--HQRq_VNh
+showOnIndex: true
 path: clement-attlee-biography
 date: 2020-07-08T03:13:03.759Z
 subTitle: Biography of

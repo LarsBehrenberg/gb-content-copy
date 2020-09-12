@@ -1,5 +1,6 @@
 ---
 id: post-ba0GEXafJ
+showOnIndex: true
 path: british-history-timeline
 date: 2020-07-10T10:17:56.495Z
 subTitle: Timeline Of
@@ -12,15 +13,15 @@ links:
   - post-xFeKEyxoY
 upperGalleryImages:
   topImage:
-    topImageTitle: Elizabeth gave a stirring speech at Tilbury docks on the eve of
-      the Spanish armada. The Armada Portrait was produced at about this time.
-    topImageUrl: /assets/british-history-elizabeth-first-armada-portrait.jpg
+    topImageTitle: Stonehenge, close to Salisbury in Wiltshire, is one of England's
+      most iconic landmarks.
+    topImageUrl: /assets/stonehenge-wiltshire-england.jpg
   leftImage:
     leftImageTitle: Churchill's V for victory sign
     leftImageUrl: /assets/british-history-winston-churchill-v-sign-for-victory.jpg
   middleImage:
-    middleImageTitle: Godfrey Kneller's 1702 portrait of Sir Isaac Newton
-    middleImageUrl: /assets/british-history-sir-isaac-newton-portrait-godfrey-kneller-1702.jpg
+    middleImageTitle: Ships setting sail as part of the 1588 Spanish Armada.
+    middleImageUrl: /assets/elizabeth-the-first-spanish-armada-departing-spain.jpg
   rightImage:
     rightImageTitle: Margaret Thatcher inspecting troops in 1990.
     rightImageUrl: /assets/british-history-margaret-thatcher-inspecting-troops-1990.jpg
@@ -30,7 +31,13 @@ textSections:
       ### Britain has had to redefine herself after the Second World War.
 
 
-      No longer a political or economic superpower, she has instead excelled in the arts, the development of cutting-edge technology, the service industries and in sport.
+      <p style="font-size: 110%">No longer a political or economic superpower, Britain has instead excelled in the arts, the development of cutting-edge technology, the service industries, and in sport.</>
+
+
+      **23 March 2020:**  Boris Johnson announces that the country will enter lockdown to combat the Coronavirus pandemic sweeping the globe.  The measures, which continued in full force until 4 July, prevented people from leaving their homes other than for essential journeys and a single daily exercise session.  They are the most significant peacetime restrictions on daily life ever imposed.
+
+
+      **31 January 2020**: After years of fraught political wrangling, Britain leaves the EU under the premiership of Boris Johnson.  Johnson took control of the conservative party after an exit deal negotiated by former PM Theresa May failed to gain the assent of parliament.  Johnson's conservative party trounced Jeremy Corbyn's labour party in the ensuing December 2019 general election. 
 
 
       **23 June 2016:** After a bitterly fought referendum, Britain votes by a small majority (51.9% to 48.1%) to leave the European Union.
@@ -57,7 +64,7 @@ textSections:
       </div>
 
 
-      **1981:** England win the Ashes, rejuvinated by a swashbuckling 149 not out by [Ian Botham](/ian-botham-biography) at Headingley.
+      **1981:** England win the Ashes, rejuvenated by a swashbuckling 149 not out by [Ian Botham](/ian-botham-biography) at Headingley.
 
 
       **1979-90:** [Margaret Thatcher](/margaret-thatcher-biography) is prime minister. Her right-wing policies of privatisation and breaking the trade unions prove controversial but pave the way for the economic booms of the 1990s and early 2000s. Between April and June 1982, Britain successfully recaptures the Falkland Islands after they are invaded by Argentina. Thatcher was known for her big perm, handbags, strong leadership and oratory:
@@ -68,6 +75,14 @@ textSections:
       >
 
       > "In politics, if you want anything said, ask a man. If you want anything done, ask a woman."
+
+      >
+
+      > "Don't follow the crowd, let the crowd follow you."
+
+      >
+
+      > "The problem with socialism is that you eventually run out of other people's money."
 
 
       **1973:** Britain is crippled by strikes, leading to the introduction of the three-day working week between January and March 1974 (designed to preserve electricity when coal miners were on strike).
@@ -471,9 +486,8 @@ textSections:
         imageUrl: /assets/british-history-wellesley-first-duke-of-wellington.jpg
       - imageTitle: Admiral Horatio Nelson in his naval uniform
         imageUrl: /assets/british-history-admiral-horatio-nelson.jpg
-      - imageTitle: King George III became delusional in 1811 and his powers were taken
-          over by his son, acting as Regent (the so-called Regency period).
-        imageUrl: /assets/british-history-mad-king-george-the-third.jpg
+      - imageTitle: JMW Turner's Stonehenge
+        imageUrl: /assets/joseph-wallord-william-turner-stonehenge.jpg
   - textTitle: The Stuarts
     text: >-
       ### The Stuart period spans from 1603 to 1714.
@@ -594,11 +608,11 @@ textSections:
       Key dates in James I's reign are 1605 (when the catholic Guy Fawkes' [gunpowder plot](https://en.wikipedia.org/wiki/Gunpowder_Plot) to blow up Parliament was foiled) and 1611 (when the English-language King James Bible, still widely used today, was published). The Golden Age of Elizabethan literature continues under Charles I, with writers such as [William Shakespeare](/william-shakespeare-biography) (who died in 1616) and John Donne (who died in 1631).
     buttonToggle: true
     sideGalleryImages:
-      - imageTitle: Queen Anne was the last of the Stuarts. Her reign was marred by
-          ill-health and her failure to reproduce.
-        imageUrl: /assets/british-history-queen-anne.jpg
-      - imageTitle: King Charles I
-        imageUrl: /assets/british-history-king-charles-the-first.jpg
+      - imageTitle: Charles I at the Battle of Edge Hill
+        imageUrl: /assets/king-charles-ii-battle-of-edge-hill-1642.jpg
+      - imageTitle: William and Mary, as depicted in a mural at the Royal Naval College
+          in Greenwich, London
+        imageUrl: /assets/william-and-mary-depicted-in-greenwich.jpg
       - imageTitle: Oliver Cromwell.
         imageUrl: /assets/british-history-oliver-cromwell-by-samuel-cooper.jpg
   - textTitle: The Tudors
@@ -940,34 +954,34 @@ textSections:
       - imageTitle: An iron age coin found in Alton, Hampshire.
         imageUrl: /assets/british-history-iron-age-coin-from-alton.jpg
 ---
-## Invasion, war (both civil and foreign), empire, democracy, scientific progress, and sporting, literary and artistic genius.
+## The history of Great Britain is a fascinating and tumultuous tale.
 
-The history of Great Britain is a fascinating and tumultuous tale. On this page, we introduce the 50 most important events in reverse chronological order so that you can see how far back your knowledge goes.
+<p style="font-size:110%">It involves invasion (though not since 1066), war (both civil and foreign), an empire on which the sun never set, democracy (think Magna Carta, the abolition of slavery and the Suffragettes), scientific progress (gravity, evolution, penicillin etc), and sporting, literary and artistic genius (Botham, Shakespeare, Turner etc).</p>
+
+On this page, we introduce the 50 most important events in reverse chronological order, so that you can see how far back your knowledge goes.   We have highlighted the top 10 events along the way. 
+
+They are: 
 
 <div class="interesting">
 
-<h4>Key Events</h4>
+**(1)**  The invention of the internet (1991)
 
-We have highlighted the top 10 events along the way. They are: 
+**(2)** The D-Day landings (1944)
 
-**(1)** the invention of the internet (1991)
+**(3)** The end of World War One (1918)
 
-**(2)** the D-Day landings (1944)
+**(4)** The publication of Darwin's On the Origin of Species (1859)
 
-**(3)** the end of World War One (1918)
+**(5)** The Battle of Waterloo (1815)
 
-**(4)** the publication of Darwin's On the Origin of Species (1859)
+**(6)** The execution of Charles I (1649)
 
-**(5)** the Battle of Waterloo (1815)
+**(7)** The Spanish Armada (1588)
 
-**(6)** the execution of Charles I (1649)
-
-**(7)** the Spanish Armada (1588)
-
-**(8)** the Battle of Bosworth Field and the end of the War of the Roses (1485)
+**(8)** The Battle of Bosworth Field and the end of the War of the Roses (1485)
 
 **(9)** Magna Carta (1215)
 
-**(10)** the Battle of Hastings (1066)
+**(10)** The Battle of Hastings (1066)
 
 </div>

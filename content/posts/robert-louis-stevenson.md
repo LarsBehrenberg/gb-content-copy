@@ -1,5 +1,6 @@
 ---
 id: post-JnIED4ruV
+showOnIndex: true
 path: robert-louis-stevenson-biography
 date: 2020-07-08T02:16:40.611Z
 subTitle: Biography of

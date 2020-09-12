@@ -1,5 +1,6 @@
 ---
 id: post-JA69hwCJC
+showOnIndex: true
 path: thomas-gainsborough-biography
 date: 2020-07-07T01:51:05.849Z
 subTitle: Biography of

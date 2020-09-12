@@ -1,5 +1,6 @@
 ---
 id: post-efwJP8v_Y
+showOnIndex: true
 path: mo-farah-biography
 date: 2020-07-08T02:55:10.949Z
 subTitle: Biography of
