@@ -6,24 +6,30 @@ date: 2020-09-12T01:16:59.508Z
 subTitle: Biography of
 title: Aneurin Bevan
 tags: Leaders
-cover: /assets/alan-turing-aged-16.jpg
+cover: /assets/anenurin-bevan-minister-of-health-5-july-1948.jpg
 links:
   - post--HQRq_VNh
   - post-9ak40Rb4G
   - post-Nhyf-A4Dk
 upperGalleryImages:
   topImage:
-    topImageUrl: /assets/alan-turing-aged-16.jpg
-    topImageTitle: test
+    topImageUrl: /assets/anenurin-bevan-minister-of-health-5-july-1948.jpg
+    topImageTitle: Bevan talking to a patient at Park Hospital, Manchester, the day
+      the NHS came into being.
   leftImage:
-    leftImageTitle: test
-    leftImageUrl: /assets/alan-turing-aged-16.jpg
+    leftImageTitle: Trafford General Hospital. This Hospital was formerly called
+      Park Hospital and on the 5th July 1948 when all hospitals were
+      nationalised the minister of Health, Aneurin Bevan came to Park Hospital
+      to receive the keys to symbolise the birth of the NHS.
+    leftImageUrl: /assets/trafford-general-hospital-birthplace-of-nhs.jpg
   middleImage:
     middleImageTitle: A Portrait of Aneurin Bevan in 1943
     middleImageUrl: /assets/aneurin-bevan-1943.jpg
   rightImage:
-    rightImageTitle: test
-    rightImageUrl: /assets/alan-turing-aged-16.jpg
+    rightImageTitle: Prime Minister Attlee meeting King George VI after Labour's
+      1945 election victory. During Attlee's time Bevan was announced Minister
+      of Health.
+    rightImageUrl: /assets/clement-attlee-with-king-george-vi.jpg
 textSections:
   - textTitle: Early Life
     text: >-
