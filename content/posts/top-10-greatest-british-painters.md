@@ -85,15 +85,23 @@ textSections:
 
       Gainsborough was the most experimental artist of his time. He was technically proficient and worked fast from observation rather than from application of formal rules. His interest in painting ordinary human beings rather than for the trappings of power benefitted the art of portraiture.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/thomas-gainsborough-selfportrait.jpg
+        imageTitle: A self-portrait of Thomas Gainsborough (1727-1788)
+      - imageUrl: /assets/thomas-gainsborough-landscape-with-shepherd.jpg
+        imageTitle: A painting of a landscape with a shepherd and his herd (ca. 1784)
+      - imageUrl: /assets/thomas-gainsborough-the-artists-daughters.jpg
+        imageTitle: "'The Artist's Daughters' (c. 1759) by Thomas Gainsborough"
   - textTitle: John Constable (1776-1837)
     text: >-
-      ### Constable was a landscape painter in the Romantic tradition. 
+      ### [Constable](/john-constable-biography) was a landscape painter in the
+      Romantic tradition.
 
 
       Claude Lorrain’s work was done in watercolors. When Constable was introduced to his work, he immediately gravitated to the same medium. He sketched by himself until he was twenty-four. In 1799, he entered the Royal Academy Schools (RA) as a probationer. He was inspired by Gainsborough, Lorrain, Rubens, Carracci, and van Ruisdael.
 
 
-      Large paintings fascinated Constable. He wanted to attract more attention at the RA exhibitions and project his ideas about landscapes more in keeping with the classical landscape painters he admired. In 1819, he painted The White Horse which measured 51.7 inches x 74.1 inches and has been described as the most important picture he ever painted.
+      Large paintings fascinated [Constable](/john-constable-biography). He wanted to attract more attention at the RA exhibitions and project his ideas about landscapes more in keeping with the classical landscape painters he admired. In 1819, he painted The White Horse which measured 51.7 inches x 74.1 inches and has been described as the most important picture he ever painted.
 
 
       In 1821, Constable submitted another large painting to the RA, The Hay Wain which measured 51 ¼ inches x 73 inches. It was part of a series that he called ‘six-footers’. It didn’t receive much acclaim in Britain, but it was eventually purchased by a French dealer. The work became famous and was awarded a gold medal by Charles X.
@@ -101,6 +109,17 @@ textSections:
 
       Constable read widely among poetry and sermons and proved to be a notably articulate artist. He revolutionized the genre of landscape painting. He believed exploring the visible world rather than conjuring up poetic moods achieved something of more lasting importance.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/john-constable-by-daniel-gardner-1796.jpg
+        imageTitle: John Constable by Daniel Gardner, 1796
+      - imageUrl: /assets/john-constable-salisbury-cathedral-from-the-bishops-garden.jpg
+        imageTitle: Salisbury Cathedral from the Bishop's Grounds c. 1825. As a gesture
+          of appreciation for John Fisher, the Bishop of Salisbury, who
+          commissioned this painting, Constable included the Bishop and his wife
+          in the canvas.
+      - imageUrl: /assets/john-constable-the-opening-of-waterloo-bridge-seen-from-whitehall-stairs.jpg
+        imageTitle: The Opening of Waterloo Bridge seen from Whitehall Stairs, 18 June
+          1817, oil on canvas, c. 1832.
   - textTitle: Joseph Mallord William Turner (1775-1851)
     text: >-
       ### J. M. W. Turner (his professional name) was a painter in the Romantic
@@ -117,6 +136,13 @@ textSections:
 
       He was a revolutionary figure in the art of landscape painting. He was unmatched in his time in the range of his development, unrivaled in the breath of his subject matter, and the searching innovation of his stylistic treatment. He is regarded as having elevated landscape painting to an eminence rivaling history painting.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/joseph-wallord-william-turner-self-portrait-1798.jpg
+        imageTitle: A self-portrait of Joseph Wallord William Turner c. 1798
+      - imageTitle: The Battle of Trafalgar, 1806 by William Turner
+        imageUrl: /assets/joseph-wallord-william-turner-the-battle-of-trafalgar.jpg
+      - imageUrl: /assets/joseph-wallord-william-turner-the-grand-canal-venice.jpg
+        imageTitle: The Grand Canal - Venice, c. 1835 by William Turner
   - textTitle: John Everett Millais (1829-1896)
     text: >-
       ### Millais was a painter and illustrator. 
@@ -154,6 +180,14 @@ textSections:
 
       Sisley’s best-known works are Street in Moret, The Bridge at Moret-sur-Loing, and Sand Heaps. He is regarded as one of the greatest landscape painters of the nineteenth century.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: A Renoir portrait of Alfred Sisley
+        imageUrl: /assets/alfred-sisley-portrait.jpeg
+      - imageTitle: "'View of Saint-Mammès', painted by Aflred Sisley, c. 1880 currently
+          at the The Walters Art Museum"
+        imageUrl: /assets/alfred-sisley-view-of-saint-mammes.jpeg
+      - imageTitle: Alfred Sisley's The Lock at Saint Mammes
+        imageUrl: /assets/alfred-sisley-the-lock-at-saint-mammes.jpeg
   - textTitle: Francis Bacon (1909-1992)
     text: >-
       ### Bacon was a figurative painter. 
@@ -176,6 +210,7 @@ textSections:
 
       International exhibitions reinforced the perception of Bacon and in 1971, he was regarded as Britain’s greatest living painter.
     buttonToggle: true
+    sideGalleryImages: []
   - textTitle: Lucien Freud (1922-2011)
     text: >-
       ### Freud was a figurative painter and draughtsman. 
@@ -197,6 +232,14 @@ textSections:
 
       Freud is regarded as one of the foremost twentieth century portraitists working in the representational style.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/lucian-freud-self-portrait.jpg
+        imageTitle: "'Self-portrait' by Freud in 1985 currently in Private Collection"
+      - imageUrl: /assets/lucian-freud-queen-elizabeth-ii-2001.jpg
+        imageTitle: "'Queen Elizabeth II' by Freud, 2000-2001, in the Royal Collection
+          (Buckingham Palace), London, UK"
+      - imageUrl: /assets/lucian-freud-benefits-supervisor-sleeping.jpg
+        imageTitle: "'Benefits Supervisor Sleeping' by Freud in 1995"
   - textTitle: David Hockney (1937-)
     text: >-
       ### Hockney was a draughtsman, painter, printmaker, photographer, and
@@ -217,6 +260,12 @@ textSections:
 
       In spite of his other interests, he always returned to painting portraits. Portrait of an Artist (Pool with Two Figures) and Rabbit were among his most famous and most lucrative. In addition, he took an interest in self-portraiture, painting some 300.  In 2012, Hockney became a member of the Order of Merit. After a career of more than sixty years, he is still regarded as one of Britain’s most celebrated contemporary artists and respected around the world.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/david-hockney-painted-by-lucian-freud.jpg
+        imageTitle: Lucian Freud's David Hockney painted in 2002 (© Lucian Freud)
+      - imageUrl: /assets/david-hockney-people-waiting-at-royal-academy.jpg
+        imageTitle: People waiting for the Hockney exhibition at the Royal Academy in
+          London (© Tony Hisgett, CC BY 2.0)
 ---
 ## No artist creates in a vacuum.
 
