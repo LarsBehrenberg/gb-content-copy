@@ -90,7 +90,8 @@ textSections:
         imageUrl: /assets/joshua-reynolds-painted-by-gilbert-stuart.jpg
   - textTitle: Thomas Gainsborough (1727-1788)
     text: >-
-      ### Gainsborough was a portraitist and landscape painter. 
+      ### [Gainsborough](/thomas-gainsborough-biography) was a portraitist and
+      landscape painter.
 
 
       At the age of fourteen, Gainsborough left home to study art. For five years, he was trained by Francis Hayman, an English designer and portraitist and Hubert Francois Gravelot, a painter, illustrator, and engraver.
@@ -102,7 +103,7 @@ textSections:
       He also developed a new type of portrait, one that was integrated into the landscape. Historians believe he never actually went on site to develop these portraits, but instead used a device that he called a ‘showbox’ to compose landscapes and display them backlit on glass. 
 
 
-      Among his famous portraits are The Painter’s Daughter Chasing A Butterfly, regarded by some as the best English portrait of children and The Blue Boy which he painted in the ‘formal’ manner. He used the color blue which went against the established conventions of Western traditions.
+      Among his famous portraits are [The Painter’s Daughter Chasing A Butterfly](/thomas-gainsborough-biography#3), regarded by some as the best English portrait of children and The Blue Boy which he painted in the ‘formal’ manner. He used the color blue which went against the established conventions of Western traditions.
 
 
       Blue/greens were believed to be receding colors suitable for backgrounds and a warm color scheme was considered most effective to enhance the subject of the work.
@@ -128,7 +129,7 @@ textSections:
       Large paintings fascinated [Constable](/john-constable-biography). He wanted to attract more attention at the RA exhibitions and project his ideas about landscapes more in keeping with the classical landscape painters he admired. In 1819, he painted The White Horse which measured 51.7 inches x 74.1 inches and has been described as the most important picture he ever painted.
 
 
-      In 1821, Constable submitted another large painting to the RA, The Hay Wain which measured 51 ¼ inches x 73 inches. It was part of a series that he called ‘six-footers’. It didn’t receive much acclaim in Britain, but it was eventually purchased by a French dealer. The work became famous and was awarded a gold medal by Charles X.
+      In 1821, Constable submitted another large painting to the RA, [The Hay Wain](/john-constable-biography#3) which measured 51 ¼ inches x 73 inches. It was part of a series that he called ‘six-footers’. It didn’t receive much acclaim in Britain, but it was eventually purchased by a French dealer. The work became famous and was awarded a gold medal by Charles X.
 
 
       Constable read widely among poetry and sermons and proved to be a notably articulate artist. He revolutionized the genre of landscape painting. He believed exploring the visible world rather than conjuring up poetic moods achieved something of more lasting importance.
@@ -146,16 +147,16 @@ textSections:
           1817, oil on canvas, c. 1832.
   - textTitle: Joseph Mallord William Turner (1775-1851)
     text: >-
-      ### J. M. W. Turner (his professional name) was a painter in the Romantic
-      style, printmaker, and watercolorist. 
+      ### [J. M. W. Turner](/william-turner-biography) (his professional name)
+      was a painter in the Romantic style, printmaker, and watercolorist.
 
 
-      A child prodigy, in 1789, at the age of fourteen, Turner was admitted to Joshua Reynold’s studio as a copyist and then to the Royal Academy Schools (RA).
+      A child prodigy, in 1789, at the age of fourteen, Turner was admitted to [Joshua Reynold’s](#2) studio as a copyist and then to the Royal Academy Schools (RA).
 
       Between 1790 and 1804, Turner’s work earned him an associate and then full membership to the RA. He opened his own shop in 1804. He abandoned romantic and classical landscapes and devoted himself to a series of works in which atmospheric conditions became the principal subject matter, a forerunner to the French Impressionists.
 
 
-      Turner believed that his works should always express significant historical, mythological, literary, and other narrative themes. Two of Turner’s most daring paintings were Steamer in Snowstorm and Landscape. The style of these works was not understood by his contemporaries.  Turner was championed by John Ruskin, the leading English art critic.
+      Turner believed that his works should always express significant historical, mythological, literary, and other narrative themes. Two of Turner’s most daring paintings were Steamer in [Snowstorm and Landscape](/william-turner-biography#4). The style of these works was not understood by his contemporaries.  Turner was championed by John Ruskin, the leading English art critic.
 
 
       He was a revolutionary figure in the art of landscape painting. He was unmatched in his time in the range of his development, unrivaled in the breath of his subject matter, and the searching innovation of his stylistic treatment. He is regarded as having elevated landscape painting to an eminence rivaling history painting.
@@ -197,17 +198,18 @@ textSections:
           by John Everett Millais in  1849–50."
   - textTitle: Alfred Sisley (1839-1899)
     text: >-
-      ### Sisley was a landscape painter in the Impressionist Movement. His
-      parents were English expatriates.
+      ### [Sisley](https://impressionistarts.com/alfred-sisley-biography) was a
+      landscape painter in the Impressionist Movement. His parents were English
+      expatriates.
 
 
-      Born into a well-to-do family, Sisley was sent at age eighteen to London to study business. After four years, he returned to Paris in 1861 and studied at the Paris Ecole des Beaux Arts with Swiss artist Marc-Charles-Gabriel Gleyre. While there, he met Frederic Bazille, Claude Monet, and Pierre Auguste Renoir.
+      Born into a well-to-do family, Sisley was sent at age eighteen to London to study business. After four years, he returned to Paris in 1861 and studied at the Paris Ecole des Beaux Arts with Swiss artist Marc-Charles-Gabriel Gleyre. While there, he met [Frederic Bazille](https://impressionistarts.com/frederic-bazille-biography), [Claude Monet](https://impressionistarts.com/claude-monet-biography), and [Pierre Auguste Renoir](https://impressionistarts.com/pierre-auguste-renoir-biography).
 
 
       They became interested in painting landscapes en plein air with the intention of realistically capturing transient effects of sunlight. Their paintings were rejected by the annual Salon exhibit. Critics tagged their paintings as ‘impressionist’ and the name stuck.
 
 
-      Sisley studied the works of John Constable and J. M. W. Turner. He was inspired by the works of Camille Pissarro and Edouard Manet. He concentrated on landscapes more consistently than any other Impressionist painter.  He adopted short rapid Impressionist brushstrokes. He was interested in the movement of foliage, shimmer of water, and the texture of a cloud filled sky. 
+      Sisley studied the works of [John Constable](/john-constable-biography) and [J. M. W. Turner](/william-turner-biography). He was inspired by the works of [Camille Pissarro](https://impressionistarts.com/camille-pissarro-biography) and [Edouard Manet](https://impressionistarts.com/edouard-manet-biography). He concentrated on landscapes more consistently than any other Impressionist painter.  He adopted short rapid Impressionist brushstrokes. He was interested in the movement of foliage, shimmer of water, and the texture of a cloud filled sky. 
 
 
       Sisley’s best-known works are Street in Moret, The Bridge at Moret-sur-Loing, and Sand Heaps. He is regarded as one of the greatest landscape painters of the nineteenth century.
@@ -252,7 +254,8 @@ textSections:
         imageUrl: /assets/francis-bacon-three-studies-for-portrait-of-henrietta-moraes.jpg
   - textTitle: Lucien Freud (1922-2011)
     text: >-
-      ### Freud was a figurative painter and draughtsman. 
+      ### [Freud](/lucian-freud-biography) was a figurative painter and
+      draughtsman.
 
 
       After a series of missteps, Freud attended The East Anglian School of Painting and Drawing and the Goldsmith College Central School of Art in London. His early career was influenced by surrealism.
@@ -264,7 +267,7 @@ textSections:
       Freud worked from life studies and was known for asking his models to sit for long periods of time. He took a special interest in nudes. He highlighted and undercut the erotics of the female nude, rejecting the idealizing tendencies of Western art. He painted extreme body types. Among his most famous and lucrative was Benefits Supervisor Sleeping. 
 
 
-      Influenced by Durer and Rembrandt, Freud became interested in self-portraiture. Lucien Freud: The Self Portraits 1940s is a series of forty works on canvas, paper, and etching plate. He depicted himself from the forties to the early twenty-first century, showing an ongoing study of the process of aging. 
+      Influenced by Durer and Rembrandt, [Freud became interested in self-portraiture](/lucian-freud-biography#3). Lucien Freud: The Self Portraits 1940s is a series of forty works on canvas, paper, and etching plate. He depicted himself from the forties to the early twenty-first century, showing an ongoing study of the process of aging. 
 
       In 1983, he was appointed a Companion of Honor and a member of the Order of Merit in 1993. 
 
@@ -281,14 +284,14 @@ textSections:
         imageTitle: "'Benefits Supervisor Sleeping' by Freud in 1995"
   - textTitle: David Hockney (1937-)
     text: >-
-      ### Hockney was a draughtsman, painter, printmaker, photographer, and
-      stage designer. 
+      ### [Hockney](/david-hockney-biography) was a draughtsman, painter,
+      printmaker, photographer, and stage designer.
 
 
       The recipient of a comprehensive creative education, Hockney attended Bradford School of Art and the Royal College of Art, earning a gold medal. He became a leading figure in Pop Art.
 
 
-      Influenced by Van Gogh, nature was a substantial theme for Hockney’s works. His style constantly evolved from abstract expressionism to naturalism. He was fascinated by the Old Masters and researched the painting techniques of Caravaggio and da Vinci. He concluded that they had used optics and lenses to create their masterpieces. He found that information substantial to his work.
+      Influenced by [Van Gogh](https://impressionistarts.com/van-gogh-biography), nature was a substantial theme for Hockney’s works. His style constantly evolved from abstract expressionism to naturalism. He was fascinated by the Old Masters and researched the painting techniques of Caravaggio and da Vinci. He concluded that they had used optics and lenses to create their masterpieces. He found that information substantial to his work.
 
 
       In 1964, Hockney moved to Los Angeles, California.  He had myriad interests. He made a series of paintings of swimming pools using acrylics, a new medium. He was proficient in the use of technology in his work; cameras, computers, fax machines, iPad drawing programs, among others. 
@@ -312,4 +315,4 @@ Every artist is the product of the time, place, and events of his own life. Henr
 
 > “The heights by great men reached and kept were not attained by sudden flight, but they, while their companions slept, were toiling upward in the night.”
 
-From the eighteenth century to the current day, the work of the ten British painters discussed in this article have been defined by innovation, a willingness to take risks, and hard work. As a result, they have consistently held an important place in the cultural heritage of Britain and of the world.
+From the eighteenth century to the current day, [the work of the ten British](#1) painters discussed in this article have been defined by innovation, a willingness to take risks, and hard work. As a result, they have consistently held an important place in the cultural heritage of Britain and of the world.
