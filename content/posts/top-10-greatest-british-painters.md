@@ -49,6 +49,12 @@ textSections:
       - imageTitle: William Hogarth, The Painter and his Pug, 1745. Self-portrait with
           his pug
         imageUrl: /assets/william-hogarth-and-his-pug.jpg
+      - imageTitle: The Assembly at Wanstead House. Earl Tylney and family in foreground
+          by William Hogarth
+        imageUrl: /assets/william-hogarth-wanstead.jpg
+      - imageTitle: Marriage à-la-mode, After the old Earl's funeral (scene four of six)
+          by William Hogarth
+        imageUrl: /assets/william-hogarth-marria-a-la-mode.jpg
   - textTitle: Joshua Reynolds (1723-1792)
     text: >-
       ### Reynolds was a portrait painter in the continental Grand Style.
