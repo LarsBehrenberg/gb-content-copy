@@ -45,6 +45,10 @@ textSections:
 
       He has been heralded as having a keen understanding of human nature and as the most significant English artist of his day.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: William Hogarth, The Painter and his Pug, 1745. Self-portrait with
+          his pug
+        imageUrl: /assets/william-hogarth-and-his-pug.jpg
   - textTitle: Joshua Reynolds (1723-1792)
     text: >-
       ### Reynolds was a portrait painter in the continental Grand Style.
