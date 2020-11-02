@@ -356,7 +356,7 @@ textSections:
       Stevenson was immortalized in many ways after his death in 1894.
 
 
-      The [Robert Louis Stevenson Museum](https://stevensonmuseum.org/) in St. Helena, California, was opened in 1969, and [Stevenson’s home in Samoa](http://rlsmuseum.org/) was converted to a museum. The Writers’ Museum in Scotland houses a room devoted to him.
+      The [Robert Louis Stevenson Museum](https://stevensonmuseum.org/) in St. Helena, California, was opened in 1969, and [Stevenson’s home in Samoa](http://robert-louis-stevenson.org/) was converted to a museum. The Writers’ Museum in Scotland houses a room devoted to him.
 
 
       The French Hotel in Monterey, California where he stayed in 1879 on his way to meet his future wife, became the Stevenson House Museum in later years. A statue of Stevenson as a child with his dog stands in Edinburgh, and he is remembered through a number of memorials and other landmarks both in Scotland and internationally.

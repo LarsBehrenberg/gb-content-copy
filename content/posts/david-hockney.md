@@ -43,7 +43,7 @@ textSections:
       Hockney’s parents encouraged their son’s artistic exploration, and gave him the freedom to doodle and daydream. At his school academically promising boys were forced to drop art as a subject and so he deliberately failed his exams.
 
 
-      At 16, Hockney was admitted to the [Bradford School of Art](https://www.bradfordcollege.ac.uk/study/soa), where he studied traditional painting and life drawing alongside Norman Stevens, David Oxtoby, and John Loker. Unlike most of his peers Hockney was working class, and he worked tirelessly, especially in his life drawing classes, recalling: "I was there from nine in the morning till nine at night."
+      At 16, Hockney was admitted to the [Bradford School of Art](https://bradfordartschool.com/), where he studied traditional painting and life drawing alongside Norman Stevens, David Oxtoby, and John Loker. Unlike most of his peers Hockney was working class, and he worked tirelessly, especially in his life drawing classes, recalling: "I was there from nine in the morning till nine at night."
 
 
       In 1957 he was called up for National Service, but as a conscientious objector to war, like his father previously, he served out his time as a hospital orderly. It was around this time that Hockney encountered the work of Russian ballet impresario Sergei Diaghilev, whose openness about his sexuality gave Hockney the courage to reveal his own homosexuality.

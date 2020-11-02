@@ -31,10 +31,13 @@ textSections:
   - textTitle: Turing's early life
     text: >-
       ### Alan Mathison Turing was born on June 23, 1912 at Warrington Lodge,
-      Maida Vale, London. 
+      Maida Vale, London.
 
 
-      He was the second son of Julius Mathison Turing, an Indian civil servant (ICS) working in Chatrapur, India and Ethel Sara Stoney. Alan’s parents lived in India while he and his brother John lived in various foster homes. Alan was a toddler when he and his brother John were left with a retired Army couple, Colonel and Mrs. Ward, who lived in a large house called Baston Lodge in St. Leonards-on-Sea. The Wards had four daughters of their own, boarded another boy, and at one point took in three of Alan’s cousins.
+      He was the second son of Julius Mathison Turing, an Indian civil servant (ICS) working in Chatrapur, India and Ethel Sara Stoney. Alan’s parents lived in India while he and his brother John lived in various foster homes. 
+
+
+      Alan was a toddler when he and his brother John were left with a retired Army couple, Colonel and Mrs. Ward, who lived in a large house called Baston Lodge in St. Leonards-on-Sea. The Wards had four daughters of their own, boarded another boy, and at one point took in three of Alan’s cousins.
 
 
       In 1916, when Alan was four, his mother returned from India. She rented some rooms in St. Leonards and remained there for the next three years.
@@ -45,7 +48,9 @@ textSections:
 
       In the summer of 1918 Alan was enrolled at St. Michaels, a private day school in St. Leonards.  He remained there until the age of ten and then joined his brother at Hazelhurst.
 
+
       When Alan was eleven, his mother left him and his brother with a new foster parent, Archdeacon Rollo Meyers in Hertfordshire. A short time later, Alan’s father resigned from Indian Civil Service and he and his brother moved with their parents to Dinard, France.
+
 
       At the age of fourteen, Alan was enrolled at Sherbourne School, an independent boarding school in the town of Sherbourne in Dorset. The first day of school coincided with the 1926 coal miners’ strike. All transportation except the milk trains was halted.
 
@@ -108,7 +113,7 @@ textSections:
         imageTitle: Alan Turing statue in Paddington (© Matt Brown, CC BY 2.0)
   - textTitle: Turing's works
     text: >-
-      ## On September 4, 1939, the day after the United Kingdom (UK) declared
+      ### On September 4, 1939, the day after the United Kingdom (UK) declared
       war on Germany, Alan was asked to come and work as one of the
       cryptanalysts at the Government Code and Cypher School (GC&GS) in
       Bletchley Park.
@@ -166,7 +171,7 @@ textSections:
           by Sidney Frank, built from half a million pieces of Welsh slate. (©
           Antoine Taveneaux, CC BY-SA 3.0)
 ---
-## Alan Mathison Turing is regarded as the father of theoretical computer science and artificial intelligence.
+### Alan Mathison Turing is regarded as the father of theoretical computer science and artificial intelligence.
 
 He was a key player in deciphering the [German Enigma code](#3) used by Nazi Germany during World War II. When the land and sea battles are taken in account, it is estimated that Alan and his [colleagues at Bletchley Park](#3) shortened the war in Europe by approximately two years and saved over fourteen million lives.
 

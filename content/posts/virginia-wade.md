@@ -101,7 +101,7 @@ textSections:
 ---
 ## Virginia Wade is one of Britain’s most successful female tennis players of all time.
 
-Winner of three singles titles and four doubles titles in [grand slams](https://en.wikipedia.org/wiki/Grand_Slam_(tennis)grand%20slams), she was ranked in the world’s top ten for thirteen consecutive years. Her highest world ranking was number 2 which she reached in November 1975.
+Winner of three singles titles and four doubles titles in [grand slams](https://en.wikipedia.org/wiki/Grand_Slam_(tennis)), she was ranked in the world’s top ten for thirteen consecutive years. Her highest world ranking was number 2 which she reached in November 1975.
 
 Wade’s most famous victory was winning [the Wimbledon](https://en.wikipedia.org/wiki/The_Championships,_Wimbledon) singles title in 1977 after sixteen attempts. The moment has gone down in British sporting history, made all the more special by the fact that it was also the year of the Queen’s Silver Jubilee and Great Britain was in the mood to celebrate. [Queen Elizabeth II](https://en.wikipedia.org/wiki/Elizabeth_II) herself was present at the championships to witness the win.
 

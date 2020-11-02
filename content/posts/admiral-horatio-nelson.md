@@ -614,7 +614,7 @@ textSections:
           2.0)
         imageUrl: /assets/horatio-nelson-grand-tomb.jpg
 ---
-## Admiral Lord Horatio Nelson was a Royal naval commander and national hero.
+### Admiral Lord Horatio Nelson was a Royal naval commander and national hero.
 
 He is famed for his legendary naval triumphs against the French during the [Napoleonic Wars](https://en.wikipedia.org/wiki/Napoleonic_Wars).
 

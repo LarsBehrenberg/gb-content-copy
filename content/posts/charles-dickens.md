@@ -232,6 +232,6 @@ He was prolific in his output, usually writing his stories for weekly or monthly
 
 He wrote 20 novels in all, together with a number of short stories, poetry, plays and non-fiction. He was a workaholic, undertaking punishing reading tours until his death, fathered 10 children, and was a great philanthropist. What is more, he is responsible for such phrases as ‘Scrooge’, ‘Bah, Humbug’ and ‘Merry Christmas’ and characters including Tiny Tim, Oliver Twist and Miss Havisham.
 
-He is probably second only to [Shakespeare](/william-shakespeare-biography), ahead of other literary giants like [Jane Austen](/jane-austen-biography) and [JRR Tolkien](/jrr-tolkien-biogaphy).
+He is probably second only to [Shakespeare](/william-shakespeare-biography), ahead of other literary giants like [Jane Austen](/jane-austen-biography) and [JRR Tolkien](/jrr-tolkien-biography).
 
 Dickens is the eighth greatest Briton.
