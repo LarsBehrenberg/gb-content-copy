@@ -74,6 +74,15 @@ textSections:
 
       In 1769, Reynolds was knighted by King George III, only the second artist to be so honored. He was the leading English portraitist of the eighteenth century.
     buttonToggle: true
+    sideGalleryImages:
+      - imageTitle: c. 1750, a Joshua Reynolds self-portrait when aged approximately 27
+        imageUrl: /assets/joshua-reynolds-self-portrait.jpg
+      - imageTitle: The Age of Innocence c. 1788, Joshua Reynolds emphasized the natural
+          grace of children in his paintings
+        imageUrl: /assets/joshua-reynolds-the-age-of-innocence.jpg
+      - imageTitle: Joshua Reynolds painted by American artist Gilbert Stuart, oil on
+          canvas, 1784
+        imageUrl: /assets/joshua-reynolds-painted-by-gilbert-stuart.jpg
   - textTitle: Thomas Gainsborough (1727-1788)
     text: >-
       ### Gainsborough was a portraitist and landscape painter. 
@@ -173,6 +182,14 @@ textSections:
 
       In 1885, Queen Victoria created him a baronet, of Palace Gate, in the parish of St. Mary Abbot, Kensington, in the county of Middlesex, and of Saint Ouen, in the island of Jersey. He was the first artist to be honored with a hereditary title.
     buttonToggle: true
+    sideGalleryImages:
+      - imageUrl: /assets/john-everett-millais-self-portrait.jpg
+        imageTitle: Self-portrait by John Everett Millais in 1881
+      - imageUrl: /assets/john-everett-millais-mariana.jpg
+        imageTitle: '"Mariana" by John Everett Millais in 1851 '
+      - imageUrl: /assets/john-everett-millais-christ-in-his-parents-house.jpg
+        imageTitle: "\"Christ in the House of His Parents\" or \"The Carpenter's Shop\"
+          by John Everett Millais in  1849–50."
   - textTitle: Alfred Sisley (1839-1899)
     text: >-
       ### Sisley was a landscape painter in the Impressionist Movement. His
@@ -220,7 +237,14 @@ textSections:
 
       International exhibitions reinforced the perception of Bacon and in 1971, he was regarded as Britain’s greatest living painter.
     buttonToggle: true
-    sideGalleryImages: []
+    sideGalleryImages:
+      - imageTitle: Francis Bacon photographed in the early 1950s by John Deakin
+        imageUrl: /assets/francis-bacon-by-john-dekin.jpg
+      - imageTitle: The site of Francis Bacon's relocated studio, Dublin
+        imageUrl: /assets/francis-bacon-gallery.jpg
+      - imageTitle: '"Three Studies for a Portrait of Henrietta Moraes" by Francis Bacon
+          in 1963'
+        imageUrl: /assets/francis-bacon-three-studies-for-portrait-of-henrietta-moraes.jpg
   - textTitle: Lucien Freud (1922-2011)
     text: >-
       ### Freud was a figurative painter and draughtsman. 
