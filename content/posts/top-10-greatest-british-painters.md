@@ -6,24 +6,29 @@ date: 2020-11-02T08:37:04.784Z
 subTitle: Learn about
 title: Top 10 Greatest British Painters
 tags: More
-cover: /assets/alan-turing-aged-16.jpg
+cover: /assets/william-hogarth-wanstead.jpg
 links:
   - post-QLFjxJq23
   - post-U1-H_ScUn
   - post-JA69hwCJC
 upperGalleryImages:
   topImage:
-    topImageTitle: some
-    topImageUrl: /assets/alan-turing-aged-16.jpg
+    topImageTitle: The Battle of Trafalgar, 1806 by William Turner
+    topImageUrl: /assets/joseph-wallord-william-turner-the-battle-of-trafalgar.jpg
   leftImage:
-    leftImageTitle: some
-    leftImageUrl: /assets/alan-turing-aged-16.jpg
+    leftImageTitle: Portrait of James Modyford Heywood (died 1798), Member of
+      Parliament for Fowey and plantation owner in Jamaica, painted by Thomas
+      Gainsborough
+    leftImageUrl: /assets/thomas-gainsborough-james-modyford-heywood.jpg
   middleImage:
-    middleImageTitle: some
-    middleImageUrl: /assets/alan-turing-aged-16.jpg
+    middleImageTitle: Windmills in landscape by John Constable. first quarter of
+      19th century . oil on canvas. 51 × 75.5 cm (20 × 29.7 ″). Warsaw, National
+      Museum in Warsaw (MNW).
+    middleImageUrl: /assets/john-constable-windmills-in-landscape.jpg
   rightImage:
-    rightImageTitle: some
-    rightImageUrl: /assets/alan-turing-aged-16.jpg
+    rightImageTitle: "'Girl with Roses' by Lucian Freud, 1947-48 currently at the
+      British Council, London, UK"
+    rightImageUrl: /assets/lucian-freud-girl-with-roses-1948.jpg
 textSections:
   - textTitle: William Hogarth (1697-1764)
     text: >-
